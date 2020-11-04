@@ -8,7 +8,7 @@
 
 
 	{
-	"name": "29 October 2020",  
+	"name": "4 November 2020",  
 	"image": "https://seo-web.aun-thai.co.th/wp-content/uploads/2018/01/update-1672353_960_720-e1516173341277.png",  
 	"url": "https://androidtvtech.blogspot.com/",
 	"playInNatPlayer": "true"
@@ -445,7 +445,14 @@
              "userAgent": "exoplayer_video",
 	     "playInNatPlayer": "true"
            },
-
+  {
+  "name": "Fox Sports 1 MX",
+  "image": "https://adictosalatele.com/logos/foxsports1mx.png",
+  "url": "https://espare.tk/embed/generator.php?id=fox_sports_lat",
+  "referer": "https://adictosalatele.com/",
+  "userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
+  "playInNatPlayer": "true"
+  },
 
 
 
