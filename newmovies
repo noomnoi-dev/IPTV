@@ -6,7 +6,12 @@
 	"stations": [
 
 
-
+	{
+	"name": "Come Play",  
+	"image": "http://www.impawards.com/2020/posters/come_play_ver2.jpg",  
+	"url": "https://123moviesfree.net/movie/come-play-101654/watching.html",
+	"playInNatPlayer": "true"
+	},
 	{
 	"name": "Cosmoball - เกมผ่าจักรวาล",  
 	"image": "https://www.doomovie-hd.com/assets/movie_poster/f/f1df52726fe693277336d37bced44c99.jpg",  
