@@ -8,6 +8,12 @@
 
 
 	{
+	"name": "Cosmoball - เกมผ่าจักรวาล",  
+	"image": "https://www.doomovie-hd.com/assets/movie_poster/f/f1df52726fe693277336d37bced44c99.jpg",  
+	"url": "https://cdn.livedoomovies.com/hls/5955eaab211341109ced64435b977d54/5955eaab211341109ced64435b977d54.m3u8",
+	"playInNatPlayer": "true"
+	},
+	{
 	"name": "2067",  
 	"image": "https://m.media-amazon.com/images/M/MV5BM2RiYTM3NjAtNDUyOC00OWFhLWE3ZGEtNjkzNzI5YmE1M2E5XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_SY264_CR0,0,178,264_AL_.jpg",  
 	"url": "https://vidcloud9.com/videos/2067",
