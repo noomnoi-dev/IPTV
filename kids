@@ -98,13 +98,6 @@
 	"playInNatPlayer": "true"
 	},
 	{
-	"name": "MANGAS",  
-	"image": "https://ewsat.com/img/MANGAS.png",  
-	"url": "http://channelstream.club/stream/mangas.php",
-"userAgent": "exoplayer_video",
-	"playInNatPlayer": "true"
-	},
-	{
 	"name": "gulli",  
 	"image": "https://static.wikia.nocookie.net/logopedia/images/b/be/696px-Gulli_logo_2017.png/revision/latest/scale-to-width-down/200?cb=20180705143108",  
 	"url": "https://garfi.fr/tools/prx/index.php/https://d13anarbtxy8c5.cloudfront.net/6play/short/clr/gulli/sd/index.m3u8?hdnts=&exp=1604670817&acl=/*&hmac=e67824a9e6892345b9c3fc66fffa4f04e8083ee70efaadcbd0e3062800b3d637",
