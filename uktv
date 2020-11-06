@@ -76,28 +76,28 @@
           {
             "name": "ITV2 UK",
             "image": "http://runnel.ir/ax/logo/ITV2.png",
-            "url": "http://photocall.tv/G6Jh/ftv?ch=itv2",
+            "url": "http://photocall.tv/ftv.m3u8?ch=itv2",
             "referer": "http://photocall.tv/",
             "playInNatPlayer": "true"
            },
           {
             "name": "ITV3 UK",
             "image": "http://runnel.ir/ax/logo/ITV3.png",
-            "url": "http://photocall.tv/G6Jh/ftv?ch=itv3",
+            "url": "http://photocall.tv/ftv.m3u8?ch=itv3",
             "referer": "http://photocall.tv/",
             "playInNatPlayer": "true"
            },
           {
             "name": "ITV4 UK",
             "image": "http://runnel.ir/ax/logo/ITV4.png",
-            "url": "http://photocall.tv/G6Jh/ftv?ch=itv4",
+            "url": "http://photocall.tv/ftv.m3u8?ch=itv4",
             "referer": "http://photocall.tv/",
             "playInNatPlayer": "true"
            },
           {
             "name": "ITVBe UK",
             "image": "https://cdn.itv.com/uploads/show/show_branding_logo/71/ufIfszx1b6aDNynHT08jUOjXrL6SUmDqpuusmu7FvdY.png",
-            "url": "http://photocall.tv/G6Jh/ftv?ch=itvbe",
+            "url": "http://photocall.tv/ftv.m3u8?ch=itvbe",
             "referer": "http://photocall.tv/",
             "playInNatPlayer": "true"
            },
