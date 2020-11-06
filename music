@@ -191,7 +191,7 @@
 	{
 	"name": "Europa Plus TV",
 	"image": "https://live-tv-channels.org/pt-data/uploads/logo/ru-europa-plus-tv.jpg",
-	"url": "http://europaplustv.com/embed/video?online=1",
+	"url": "http://ad-hls-europaplus.cdnvideo.ru/europaplus/smil:eurptv2.smil/playlist.m3u8?md5=grlZvuO6rlFtuNQAAlBoaA&e=1605284020&zoid=web",
 	"playInNatPlayer": "true"
 	}, 
 
