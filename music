@@ -7,7 +7,7 @@
   
 
 	{
-	"name": "23 October 2020",  
+	"name": "7 November 2020",  
 	"image": "https://seo-web.aun-thai.co.th/wp-content/uploads/2018/01/update-1672353_960_720-e1516173341277.png",  
 	"url": "https://androidtvtech.blogspot.com/",
 	"playInNatPlayer": "true"
@@ -189,9 +189,15 @@
 	"playInNatPlayer": "true"
 	}, 
 	{
-	"name": "Europa Plus TV",
-	"image": "https://live-tv-channels.org/pt-data/uploads/logo/ru-europa-plus-tv.jpg",
-	"url": "http://ad-hls-europaplus.cdnvideo.ru/europaplus/smil:eurptv2.smil/playlist.m3u8?md5=grlZvuO6rlFtuNQAAlBoaA&e=1605284020&zoid=web",
+	"name": "Dance Star TV",
+	"image": "https://static1.squarespace.com/static/57e016db6b8f5bbe95acde7d/t/5b620bab352f53819eb8df27/1533152171765/2017_DSTV_Logo_Silver+2.png",
+	"url": "https://vcndstv.teleosmedia.com/stream/dstv/dstv/playlist.m3u8",
+	"playInNatPlayer": "true"
+	}, 
+	{
+	"name": "KroneHit TV",
+	"image": "https://lh3.googleusercontent.com/f1jp_0zjMVgt56RDadEnEGWLMM-p14bQxULSASkgfFC6HdFms3MzPuSUTsby-8lvLw=s300",
+	"url": "https://bitcdn-kronehit.bitmovin.com/v2/hls/.m3u8",
 	"playInNatPlayer": "true"
 	}, 
 
