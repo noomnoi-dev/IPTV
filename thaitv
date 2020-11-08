@@ -8,24 +8,24 @@
 
 
 	{
-	"name": "22 October 2020",  
+	"name": "8 November 2020",  
 	"image": "https://seo-web.aun-thai.co.th/wp-content/uploads/2018/01/update-1672353_960_720-e1516173341277.png",  
-	"url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-ch5&api_key=hmcb4rf66f",
-	"referer": "https://dooball66.com/",
+	"url": "https://www.we-play.tv/watching/tv/ch5-hd",
+	"referer": "https://www.we-play.tv/",
 	"playInNatPlayer": "true"
 	},
 	{
 	"name": "ททบ.5",  
-	"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Ch.5_by_ATV.png/301px-Ch.5_by_ATV.png",  
-	"url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-ch5&api_key=hmcb4rf66f",
-	"referer": "https://dooball66.com/",
+	"image": "http://www.tv5.co.th/tv5hd1-build91209/img/logo/tv5hd1_logo.png",  
+	"url": "https://www.we-play.tv/watching/tv/ch5-hd",
+	"referer": "https://www.we-play.tv/",
 	"playInNatPlayer": "true"
 	},
 	{
 	"name": "NBT",  
 	"image": "https://upload.wikimedia.org/wikipedia/th/thumb/f/fb/NBT_2009.png/150px-NBT_2009.png",  
-	"url": "https://embed-dev.blackboxsys.net/player.php?channel=sd-nbt&api_key=hmcb4rf66f",
-	"referer": "https://dooball66.com/",
+	"url": "https://www.we-play.tv/watching/tv/11-nbt",
+	"referer": "https://www.we-play.tv/",
 	"playInNatPlayer": "true"
 	},
 	{
@@ -73,8 +73,8 @@
 	{
 	"name": "Workpoint",
 	"image": "https://www.movieclubhd.tv/src/images/live/workpointtv_480p.jpg",
-	"url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-workpoint&api_key=hmcb4rf66f",
-	"referer": "https://dooball66.com/",
+	"url": "https://www.we-play.tv/watching/tv/workpoint",
+	"referer": "https://www.we-play.tv/",
 	"playInNatPlayer": "true"
 	},
 	{
@@ -92,8 +92,7 @@
 	{
 	"name": "CH8",
 	"image": "https://www.movieclubhd.tv/src/images/live/tvdigital_ch8_480p.jpg",
-	"url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-ch8&api_key=hmcb4rf66f",
-	"referer": "https://dooball66.com/",
+	"url": "https://www.adintrend.tv/hd/m/ch33",
 	"playInNatPlayer": "true"
 	},
 	{
@@ -105,49 +104,50 @@
 	{
 	"name": "Mcot HD",
 	"image": "https://www.movieclubhd.tv/src/images/live/mcothd_480p.jpg",
-	"url": "https://www.doomovie-hd.com/?r=tv_view&id=5",
+	"url": "https://www.we-play.tv/watching/tv/mcot-hd",
+	"referer": "https://www.we-play.tv/",
 	"playInNatPlayer": "true"
 	},
 	{
 	"name": "One31 HD",
 	"image": "https://www.movieclubhd.tv/src/images/live/tvdigital_one_480p.jpg",
-	"url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-gmmone&api_key=hmcb4rf66f",
-	"referer": "https://dooball66.com/",
+	"url": "https://www.we-play.tv/watching/tv/one-hd",
+	"referer": "https://www.we-play.tv/",
 	"playInNatPlayer": "true"
 	},
 	{
 	"name": "Thairath HD",
 	"image": "https://www.movieclubhd.tv/src/images/live/tvdigital_thairath_480p.jpg",
-	"url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-thairath&api_key=hmcb4rf66f",
-	"referer": "https://dooball66.com/",
+	"url": "https://www.we-play.tv/watching/tv/thairath-tv",
+	"referer": "https://www.we-play.tv/",
 	"playInNatPlayer": "true"
 	},
 	{
 	"name": "3HD",
 	"image": "https://www.movieclubhd.tv/src/images/live/3hd_480p.jpg",
-	"url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-ch3&api_key=hmcb4rf66f",
-	"referer": "https://dooball66.com/",
+	"url": "https://www.we-play.tv/watching/tv/ch3-hd",
+	"referer": "https://www.we-play.tv/",
 	"playInNatPlayer": "true"
 	},
 	{
 	"name": "Amarin TV",
 	"image": "https://www.movieclubhd.tv/src/images/live/amarintv_480p.jpg",
-	"url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-amarin&api_key=hmcb4rf66f",
-	"referer": "https://dooball66.com/",
+	"url": "https://www.we-play.tv/watching/tv/amarin-tv",
+	"referer": "https://www.we-play.tv/",
 	"playInNatPlayer": "true"
 	},              
 	{
 	"name": "7HD",
 	"image": "https://www.movieclubhd.tv/src/images/live/7hd_480p.jpg",
-	"url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-ch7&api_key=hmcb4rf66f",
-	"referer": "https://dooball66.com/",
+	"url": "https://www.we-play.tv/watching/tv/ch7-hd",
+	"referer": "https://www.we-play.tv/",
 	"playInNatPlayer": "true"
 	},
 	{
 	"name": "PPTV HD",
 	"image": "https://www.movieclubhd.tv/src/images/live/pptv_480p.jpg",
-	"url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-pptv&api_key=hmcb4rf66f",
-	"referer": "https://dooball66.com/",
+	"url": "https://www.we-play.tv/watching/tv/pptv-hd",
+	"referer": "https://www.we-play.tv/",
 	"playInNatPlayer": "true"
 	},
 	{
