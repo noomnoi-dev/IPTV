@@ -140,12 +140,26 @@
           {
              "name": "Eurosport 1",  
              "image": "http://runnel.ir/ax/logo/Eurosport-UK-1-Logo.png",  
+	     "url": "https://embed-dev.blackboxsys.net/player.php?channel=uk-eurosport&api_key=hmcb4rf66f",
+             "referer": "https://dooball66.com/",
+	     "playInNatPlayer": "true"
+           },
+          {
+             "name": "Eurosport 1 สำรอง",  
+             "image": "http://runnel.ir/ax/logo/Eurosport-UK-1-Logo.png",  
 	     "url": "https://www.doomovie-hd.com/?r=tv_view&id=231",
              "referer": "https://www.doomovie-hd.com/",
 	     "playInNatPlayer": "true"
            },
           {
              "name": "Eurosport 2",  
+             "image": "http://runnel.ir/ax/logo/Eurosport-UK-2-Logo.png",  
+	     "url": "https://embed-dev.blackboxsys.net/player.php?channel=uk-eurosport2&api_key=hmcb4rf66f",
+             "referer": "https://dooball66.com/",
+	     "playInNatPlayer": "true"
+           },
+          {
+             "name": "Eurosport 2 สำรอง",  
              "image": "http://runnel.ir/ax/logo/Eurosport-UK-2-Logo.png",  
 	     "url": "https://www.doomovie-hd.com/?r=tv_view&id=232",
              "referer": "https://www.doomovie-hd.com/",
