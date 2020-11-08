@@ -9,7 +9,7 @@
 		{
 			"name": "5HD",
 			"image": "http://www.tv5.co.th/tv5hd1-build91209/img/logo/tv5hd1_logo.png",
-			"url": "https://tv.trueid.net/embed/ch5?autoplay=yes&nopageview=yes",
+			"url": "https://tv.trueid.net/embed/ch5?autoplay=yes",
 			"referer": "https://tv.trueid.net/",
   "userAgent": "exoplayer_video",
 			"playInNatPlayer": "true"
