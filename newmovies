@@ -6,6 +6,32 @@
 	"stations": [
 
 
+
+
+{
+"name": "The Outpost - ฝ่ายุทธภูมิล้อมตาย",  
+"image": "https://www.doomovie-hd.com/assets/movie_poster/b/bb93ff0cbbec6f5d5c9eafc8f3c38814.jpg",  
+"url": "https://cdn.livedoomovies.com/hls/432bcaaf5ca304088192fb426089dee3/432bcaaf5ca304088192fb426089dee3.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "The Witches - แม่มด",  
+"image": "https://www.doomovie-hd.com/assets/movie_poster/8/840e77e8ac47f215e1c6958be104544d.jpg",  
+"url": "https://cdn.livedoomovies.com/hls/1427ca0cb1a0a7e0f6b00e8030b94a7c/1427ca0cb1a0a7e0f6b00e8030b94a7c.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "The Eight Hundred - นักรบ 800",  
+"image": "https://www.doomovie-hd.com/assets/movie_poster/8/87843d9aff7691d2d6358523c3b4f704.jpg",  
+"url": "https://cdn.livedoomovies.com/hls/646569d176e0e080efabf33d92ef1cbe/646569d176e0e080efabf33d92ef1cbe.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "The New Mutants",  
+"image": "https://www.doomovie-hd.com/assets/movie_poster/4/493e3988277823d691f571d80319e717.jpg",  
+"url": "https://cdn.livedoomovies.com/hls/66a13e50f85e6a8fe485daf6ceb45247/66a13e50f85e6a8fe485daf6ceb45247.m3u8",
+"playInNatPlayer": "true"
+},
 	{
 	"name": "Kalashnikov AK-47",  
 	"image": "https://ww5.fmovie.sc/images/tt11547520/poster.jpg",  
