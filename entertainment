@@ -5,34 +5,49 @@
 	"url": "https://raw.githubusercontent.com/konhuafuu315/IPTV/master/entertainment",
 	"stations": [
 	
-  
-  {
-	"name": "28 October 2020",  
-	"image": "https://seo-web.aun-thai.co.th/wp-content/uploads/2018/01/update-1672353_960_720-e1516173341277.png",  
-	"url": "https://androidtvtech.blogspot.com/",
-	"playInNatPlayer": "true"
-	},
-  {
-	"name": "Fox ไทย",  
-	"image": "http://2.bp.blogspot.com/-tE0IdJbqL7k/VcA5Ar3bBfI/AAAAAAAABIQ/4IDtCrOTa9w/s640/Untitled-11.jpg",  
-	"url": "https://we-play.tv/watching/tv/fox-thai",
-	"referer": "https://we-play.tv/",
-	"playInNatPlayer": "true"
-	},
-  {
-	"name": "FOX Movies",  
-	"image": "http://tvsmagazine.com/images/channels/sm_FMP.jpg",  
-	"url": "https://we-play.tv/watching/tv/fox-movies",
-	"referer": "https://we-play.tv/",
-	"playInNatPlayer": "true"
-	},
-  {
-	"name": "Fox Action Movies",  
-	"image": "http://tvsmagazine.com/images/channels/sm_FAM.jpg",  
-	"url": "https://we-play.tv/watching/tv/fox-action-movies",
-	"referer": "https://we-play.tv/",
-	"playInNatPlayer": "true"
-	},
+{
+"name": "8 November 2020",  
+"image": "https://seo-web.aun-thai.co.th/wp-content/uploads/2018/01/update-1672353_960_720-e1516173341277.png",  
+"url": "https://androidtvtech.blogspot.com/",
+"playInNatPlayer": "true"
+},
+
+
+{
+"name": "Fox ไทย",  
+"image": "http://2.bp.blogspot.com/-tE0IdJbqL7k/VcA5Ar3bBfI/AAAAAAAABIQ/4IDtCrOTa9w/s640/Untitled-11.jpg",  
+"url": "https://we-play.tv/watching/tv/fox-thai",
+"referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Fox ไทย สำรอง",  
+"image": "http://2.bp.blogspot.com/-tE0IdJbqL7k/VcA5Ar3bBfI/AAAAAAAABIQ/4IDtCrOTa9w/s640/Untitled-11.jpg",  
+"url": "https://www.doomovie-hd.com/?r=tv_view&id=123",
+"referer": "https://www.doomovie-hd.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "FOX Movies",  
+"image": "http://tvsmagazine.com/images/channels/sm_FMP.jpg",  
+"url": "https://we-play.tv/watching/tv/fox-movies",
+"referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "FOX Movies สำรอง",  
+"image": "http://tvsmagazine.com/images/channels/sm_FMP.jpg",  
+"url": "https://www.doomovie-hd.com/?r=tv_view&id=38",
+"referer": "https://www.doomovie-hd.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Fox Action Movies",  
+"image": "http://tvsmagazine.com/images/channels/sm_FAM.jpg",  
+"url": "https://we-play.tv/watching/tv/fox-action-movies",
+"referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
+},
   {
 	"name": "Fox Family Movies",  
 	"image": "http://tvsmagazine.com/images/channels/sm_FFM.jpg",  
