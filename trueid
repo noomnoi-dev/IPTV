@@ -8,9 +8,10 @@
 
 		{
 			"name": "5HD",
-			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Ch.5_by_ATV.png/301px-Ch.5_by_ATV.png",
+			"image": "http://www.tv5.co.th/tv5hd1-build91209/img/logo/tv5hd1_logo.png",
 			"url": "https://tv.trueid.net/embed/ch5?autoplay=yes&nopageview=yes",
 			"referer": "https://tv.trueid.net/",
+  "userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
 			"playInNatPlayer": "true"
             		},
 		{
