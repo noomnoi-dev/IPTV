@@ -281,7 +281,7 @@
            },
           {
              "name": "WWE Network",  
-             "image": "https://teevee-hd.com/img/wwe.png",  
+             "image": "http://www.pngmart.com/files/5/WWE-Logo-PNG-Clipart.png",  
 	     "url": "https://ustvgo.tv/wwe-network/",
 	     "playInNatPlayer": "true"
            },
@@ -427,7 +427,7 @@
           {
              "name": "TDN Latino",  
              "image": "https://vignette.wikia.nocookie.net/tvcable/images/8/89/Bmivi.png/revision/latest/scale-to-width-down/170?cb=20120620211340&path-prefix=es",  
-	     "url": "https://www.latino-web-tv.com/embed/TDN",
+	     "url": "https://www.latino-web-tv.com/embed/tdn",
              "userAgent": "exoplayer_video",
 	     "playInNatPlayer": "true"
            },
