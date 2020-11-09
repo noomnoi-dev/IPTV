@@ -7,7 +7,7 @@
 	
   
 	{
-	"name": "5 November 2020",  
+	"name": "9 November 2020",  
 	"image": "https://seo-web.aun-thai.co.th/wp-content/uploads/2018/01/update-1672353_960_720-e1516173341277.png",  
 	"url": "https://androidtvtech.blogspot.com/",
 	"playInNatPlayer": "true"
@@ -76,7 +76,7 @@
 	{
 	"name": "CBeebies UK",  
 	"image": "https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/500px-CBeebies.svg.png",  
-	"url": "https://uk.easyview.eu/hls/cbeebies.m3u8",
+	"url": "https://easyview.eu/watch.php?stream=cbeebies",
 	"playInNatPlayer": "true"
 	},
 	{
