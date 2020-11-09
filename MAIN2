@@ -36,8 +36,8 @@
 "import": false
 },
 {
-"name": "สำหรับเด็ก",
-"image": "https://www.pngkey.com/png/full/399-3998494_kids-world-logo-png-transparent-kids-world-logo.png",
+"name": "โลกของเด็ก",
+"image": "https://static.wixstatic.com/media/49f0a2_241a38698f5c4c9e974fd4225c779b91~mv2.gif",
 "url": "http://tiny.cc/kids01",
 "import": false
 },
@@ -67,7 +67,7 @@
 },
 {
 "name": "สถานีเพลง",
-"image": "https://www.residentadvisor.net/images/promoter/uk-onlymusic.jpg",
+"image": "https://i.gifer.com/Yzg5.gif",
 "url": "http://tiny.cc/musiconly",
 "import": false
 },
