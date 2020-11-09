@@ -5,7 +5,12 @@
 	"url": "https://raw.githubusercontent.com/konhuafuu315/IPTV/master/USA",
 	"stations": [
 	
-  
+ 	{
+	"name": "9 November 2020",  
+	"image": "https://seo-web.aun-thai.co.th/wp-content/uploads/2018/01/update-1672353_960_720-e1516173341277.png",  
+	"url": "https://androidtvtech.blogspot.com/",
+	"playInNatPlayer": "true"
+	},
   
             {
             "name": "ABC USA",  
@@ -240,14 +245,14 @@
            },
           {
             "name": "Hallmark USA",
-            "image": "https://upload.wikimedia.org/wikipedia/en/thumb/7/75/Hallmark_Channel_logo.svg/400px-Hallmark_Channel_logo.svg.png",
+            "image": "https://www.dailydot.com/wp-content/uploads/2020/05/hallmark_channel_best_shows-519x512.jpg",
             "url": "https://ustvgo.tv/hallmark-channel-live-streaming-free/",
             "referer": "https://ustvgo.tv/",
             "playInNatPlayer": "true"
            },
           {
             "name": "Hallmark Movies Mysteries USA",
-            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Hallmark_movies_mysteries.png/220px-Hallmark_movies_mysteries.png",
+            "image": "https://vignette.wikia.nocookie.net/ultraverse/images/2/2b/Multiverse_-_Hallmark_Movies_%26_Mysteries_-1.png",
             "url": "https://ustvgo.tv/hallmark-movies-mysteries-live-streaming-free/",
             "referer": "https://ustvgo.tv/",
             "playInNatPlayer": "true"
@@ -261,7 +266,7 @@
            },
           {
             "name": "HLN USA",
-            "image": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4f/HLN_%28TV_network%29_2017_logo.svg/300px-HLN_%28TV_network%29_2017_logo.svg.png",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/HLN_%28TV_network%29_2017_logo.svg/1280px-HLN_%28TV_network%29_2017_logo.svg.png",
             "url": "https://ustvgo.tv/hln/",
             "referer": "https://ustvgo.tv/",
             "playInNatPlayer": "true"
@@ -275,7 +280,7 @@
            },
           {
             "name": "Lifetime USA",
-            "image": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/Lifetime_logo_2020.svg/320px-Lifetime_logo_2020.svg.png",
+            "image": "https://thevpn.guru/wp-content/uploads/2014/08/How-to-watch-American-Lifetime-outside-USA-using-VPN-or-Smart-DNS-Proxies-1024x942.png",
             "url": "https://ustvgo.tv/lifetime-channel-live/",
             "referer": "https://ustvgo.tv/",
             "playInNatPlayer": "true"
@@ -345,7 +350,7 @@
            },
           {
             "name": "Nickelodeon USA",
-            "image": "https://1000logos.net/wp-content/uploads/2017/03/Nickelodeon-Logo-768x230.png",
+            "image": "https://www.whats-on-netflix.com/wp-content/uploads/2020/07/nickelodeon-logo-netflix-titles.jpg",
             "url": "https://ustvgo.tv/nickelodeon-live-streaming-free/",
             "referer": "https://ustvgo.tv/",
             "playInNatPlayer": "true"
