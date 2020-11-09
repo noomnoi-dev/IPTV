@@ -1,114 +1,170 @@
 {
-	"name": "ช่องสารคดี",
-	"author": "@แอนดรอยด์แอพฟรี",
-	"image": "https://www.pngkey.com/png/full/31-312197_pod-globe-help-our-planet-earth.png",
-	"url": "https://raw.githubusercontent.com/konhuafuu315/IPTV/master/documentary",
-	"stations": [
+"name": "ช่องสารคดี",
+"author": "@แอนดรอยด์แอพฟรี",
+"image": "https://www.pngkey.com/png/full/31-312197_pod-globe-help-our-planet-earth.png",
+"url": "https://raw.githubusercontent.com/konhuafuu315/IPTV/master/documentary",
+"stations": [
 	
   
 
-	{
-	"name": "2 November 2020",  
-	"image": "https://seo-web.aun-thai.co.th/wp-content/uploads/2018/01/update-1672353_960_720-e1516173341277.png",  
-	"url": "https://androidtvtech.blogspot.com/",
-	"playInNatPlayer": "true"
-	},
-      {
-      "name": "PSI สาระดี 24 ชั่วโมง",
-      "image": "https://www.doohdbox.com/assets/201707081756341945061266.jpg",
-      "url": "http://96.30.124.99:1935/edgepsi/PSIHD.stream_720p/chunklist.m3u8",
-      "playInNatPlayer": "true"
-      },
-      {
-      "name": "World Animal",
-      "image": "https://il.mahidol.ac.th/upload/img/2020-08-31-011449.jpg",
-      "url": "http://203.154.243.32:8088/live/wanimal/index.m3u8",
-      "userAgent": "exoplayer_video",
-      "playInNatPlayer": "true"
-      },
-      {
-      "name": "สำรวจโลก",
-      "image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-samrujlok.jpg",
-      "url": "https://www.doomovie-hd.com/?r=tv_view&id=130",
-      "playInNatPlayer": "true"
-      },
-	{
-      "name": "Love Nature",
-      "image": "https://i0.wp.com/www.broadbandtvnews.com/wp-content/uploads/2019/12/Love-Nature-4K.jpg",
-      "url": "https://we-play.tv/watching/tv/lovenature-4k",
-      "referer": "https://we-play.tv/",
-      "playInNatPlayer": "true"
-      },
-      {
-      "name": "Discovery Channel",
-      "image": "https://i2.wp.com/www.busiweek.com/wp-content/uploads/2018/07/DiscoveryBusinessWeek.png",
-      "url": "https://we-play.tv/watching/tv/discovery-channel",
-      "referer": "https://we-play.tv/",
-      "playInNatPlayer": "true"
-      },
-      {
-      "name": "Discovery Asia",
-      "image": "https://center.beinsport.biz//assets/images/channel_new_mini/hd-discovery.png",
-      "url": "https://we-play.tv/watching/tv/discovery-asia",
-      "referer": "https://we-play.tv/",
-      "playInNatPlayer": "true"
-      },
-      {
-      "name": "History HD",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/458px-History_Logo.svg.png",
-      "url": "https://we-play.tv/watching/tv/history-hd",
-      "referer": "https://we-play.tv/",
-      "playInNatPlayer": "true"
-      },
-      {
-      "name": "H2",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d1/H2_channel_logo.PNG",
-      "url": "https://we-play.tv/watching/tv/history-h2",
-      "referer": "https://we-play.tv/",
-      "playInNatPlayer": "true"
-      },
-      {
-      "name": "Nat Geo Graphic",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f4/National_Geographic_Logo_2016.png",
-      "url": "https://we-play.tv/watching/tv/national-geographic",
-      "referer": "https://we-play.tv/",
-      "playInNatPlayer": "true"
-      },
-      {
-      "name": "Nat Geo Wild",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Nat_Geo_Wild_logo.png/800px-Nat_Geo_Wild_logo.png",
-      "url": "https://we-play.tv/watching/tv/nat-geo-wild",
-      "referer": "https://we-play.tv/",
-      "playInNatPlayer": "true"
-      },
-      {
-      "name": "Animal Planet",
-      "image": "https://d3dh6of9cnaq4t.cloudfront.net/Pictures/480xAny/7/3/5/6735_animalplanetnewlogo2018_906859.jpg",
-      "url": "https://we-play.tv/watching/tv/animal-planet",
-      "referer": "https://we-play.tv/",
-      "playInNatPlayer": "true"
-      },
-      {
-      "name": "TLC",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Tlc_logo_discovery.svg/640px-Tlc_logo_discovery.svg.png",
-      "url": "https://we-play.tv/watching/tv/tlc-hd",
-      "referer": "https://we-play.tv/",
-      "playInNatPlayer": "true"
-      },
-      {
-      "name": "Outdoor Channel",
-      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Outdoor_Channel_2017.png/220px-Outdoor_Channel_2017.png",
-      "url": "https://we-play.tv/watching/tv/outdoor-channel",
-      "referer": "https://we-play.tv/",
-      "playInNatPlayer": "true"
-      },
-          {
-            "name": "Travel Channel USA",
-            "image": "https://tvreleasedates.com/wp-content/uploads/2019/05/tchannel.png",
-            "url": "https://ustvgo.tv/travel-channel-live-free/",
-            "referer": "https://ustvgo.tv/",
-            "playInNatPlayer": "true"
-           },
+{
+"name": "9 November 2020",  
+"image": "https://seo-web.aun-thai.co.th/wp-content/uploads/2018/01/update-1672353_960_720-e1516173341277.png",  
+"url": "https://androidtvtech.blogspot.com/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Discovery Channel",
+"image": "https://i2.wp.com/www.busiweek.com/wp-content/uploads/2018/07/DiscoveryBusinessWeek.png",
+"url": "https://we-play.tv/watching/tv/discovery-channel",
+"referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Discovery Channel สำรอง",
+"image": "https://i2.wp.com/www.busiweek.com/wp-content/uploads/2018/07/DiscoveryBusinessWeek.png",
+"url": "https://www.doomovie-hd.com/?r=tv_view&id=56",
+"referer": "https://www.doomovie-hd.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Discovery Asia",
+"image": "https://center.beinsport.biz//assets/images/channel_new_mini/hd-discovery.png",
+"url": "https://we-play.tv/watching/tv/discovery-asia",
+"referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Discovery Asia สำรอง",
+"image": "https://center.beinsport.biz//assets/images/channel_new_mini/hd-discovery.png",
+"url": "https://www.doomovie-hd.com/?r=tv_view&id=57",
+"referer": "https://www.doomovie-hd.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "History HD",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/458px-History_Logo.svg.png",
+"url": "https://we-play.tv/watching/tv/history-hd",
+"referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "History HD สำรอง",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/458px-History_Logo.svg.png",
+"url": "https://www.doomovie-hd.com/?r=tv_view&id=59",
+"referer": "https://www.doomovie-hd.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "H2",
+"image": "https://upload.wikimedia.org/wikipedia/commons/d/d1/H2_channel_logo.PNG",
+"url": "https://we-play.tv/watching/tv/history-h2",
+"referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "H2 สำรอง",
+"image": "https://upload.wikimedia.org/wikipedia/commons/d/d1/H2_channel_logo.PNG",
+"url": "https://www.doomovie-hd.com/?r=tv_view&id=58",
+"referer": "https://www.doomovie-hd.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Nat Geo Graphic",
+"image": "https://upload.wikimedia.org/wikipedia/commons/f/f4/National_Geographic_Logo_2016.png",
+"url": "https://we-play.tv/watching/tv/national-geographic",
+"referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Nat Geo Graphic สำรอง",
+"image": "https://upload.wikimedia.org/wikipedia/commons/f/f4/National_Geographic_Logo_2016.png",
+"url": "https://www.doomovie-hd.com/?r=tv_view&id=49",
+"referer": "https://www.doomovie-hd.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Nat Geo Wild",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Nat_Geo_Wild_logo.png/800px-Nat_Geo_Wild_logo.png",
+"url": "https://we-play.tv/watching/tv/nat-geo-wild",
+"referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Nat Geo Wild สำรอง",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Nat_Geo_Wild_logo.png/800px-Nat_Geo_Wild_logo.png",
+"url": "https://www.doomovie-hd.com/?r=tv_view&id=117",
+"referer": "https://www.doomovie-hd.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Animal Planet",
+"image": "https://d3dh6of9cnaq4t.cloudfront.net/Pictures/480xAny/7/3/5/6735_animalplanetnewlogo2018_906859.jpg",
+"url": "https://we-play.tv/watching/tv/animal-planet",
+"referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Animal Planet สำรอง",
+"image": "https://d3dh6of9cnaq4t.cloudfront.net/Pictures/480xAny/7/3/5/6735_animalplanetnewlogo2018_906859.jpg",
+"url": "https://www.doomovie-hd.com/?r=tv_view&id=55",
+"referer": "https://www.doomovie-hd.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "World Animal",
+"image": "https://il.mahidol.ac.th/upload/img/2020-08-31-011449.jpg",
+"url": "http://203.154.243.32:8088/live/wanimal/index.m3u8",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "Love Nature",
+"image": "https://i0.wp.com/www.broadbandtvnews.com/wp-content/uploads/2019/12/Love-Nature-4K.jpg",
+"url": "https://we-play.tv/watching/tv/lovenature-4k",
+"referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Love Nature USA",
+"image": "https://i0.wp.com/www.broadbandtvnews.com/wp-content/uploads/2019/12/Love-Nature-4K.jpg",
+"url": "https://bamus-eng-roku.amagi.tv/playlist.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "PSI สาระดี 24 ชั่วโมง",
+"image": "https://www.doohdbox.com/assets/201707081756341945061266.jpg",
+"url": "http://96.30.124.99:1935/edgepsi/PSIHD.stream_720p/chunklist.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "สำรวจโลก",
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-samrujlok.jpg",
+"url": "https://www.doomovie-hd.com/?r=tv_view&id=130",
+"playInNatPlayer": "true"
+},
+{
+"name": "TLC",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Tlc_logo_discovery.svg/640px-Tlc_logo_discovery.svg.png",
+"url": "https://we-play.tv/watching/tv/tlc-hd",
+"referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Outdoor Channel",
+"image": "https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Outdoor_Channel_2017.png/220px-Outdoor_Channel_2017.png",
+"url": "https://we-play.tv/watching/tv/outdoor-channel",
+"referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Travel Channel USA",
+"image": "https://tvreleasedates.com/wp-content/uploads/2019/05/tchannel.png",
+"url": "https://ustvgo.tv/travel-channel-live-free/",
+"referer": "https://ustvgo.tv/",
+"playInNatPlayer": "true"
+},
       {
       "name": "Outside TV",
       "image": "http://outsidetvcdn.outsidetv.com/img/theme/header_logo_v2.png",
