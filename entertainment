@@ -6,7 +6,7 @@
 	"stations": [
 	
 {
-"name": "8 November 2020",  
+"name": "11 November 2020",  
 "image": "https://seo-web.aun-thai.co.th/wp-content/uploads/2018/01/update-1672353_960_720-e1516173341277.png",  
 "url": "https://androidtvtech.blogspot.com/",
 "playInNatPlayer": "true"
@@ -159,140 +159,140 @@
 	"referer": "https://we-play.tv/",
 	"playInNatPlayer": "true"
 	},
-  {
-	"name": "Paramount Channel",  
-	"image": "https://upload.wikimedia.org/wikipedia/en/thumb/5/59/Paramount_Channel.svg/400px-Paramount_Channel.svg.png",  
-	"url": "https://we-play.tv/watching/tv/paramount-channel",
-	"referer": "https://we-play.tv/",
-	"playInNatPlayer": "true"
-	},
-  {
-	"name": "Hits Movies",  
-	"image": "https://hitstv.com/assets/logo-HITSMOVIES.png",  
-	"url": "https://www.doomovie-hd.com/?r=tv_view&id=234",
-	"playInNatPlayer": "true"
-	},
-  {
-	"name": "Hits",  
-	"image": "https://hitstv.com/assets/logo_hits.png",  
-	"url": "https://we-play.tv/watching/tv/hits",
-	"referer": "https://we-play.tv/",
-	"playInNatPlayer": "true"
-	},
-  {
-	"name": "X-Zyte HD",  
-	"image": "https://teevee-hd.com/img/truexzyte.png",  
-	"url": "https://we-play.tv/watching/tv/true-xzyte",
-	"referer": "https://we-play.tv/",
-	"playInNatPlayer": "true"
-	},
-  {
-	"name": "AXN HD",  
-	"image": "https://www.we-play.tv//uploads/posters/-poster1602704538.jpeg",  
-	"url": "https://we-play.tv/watching/tv/axn-hd",
-	"referer": "https://we-play.tv/",
-	"playInNatPlayer": "true"
-	},
-  {
-	"name": "Thrill",  
-	"image": "https://www.doofree88.com/storage/live/Cp06o22CVWzWsoBh7TpMNBBAIWmKiMdp30aGIRwc.png",  
-	"url": "https://www.fwiptv.info/player_demo.php?channel=718",
-	"playInNatPlayer": "true"
-	},
-  {
-	"name": "Hi-Def 1",  
-	"image": "https://www.wiseknow.com/wp-content/uploads/2020/07/hi-def11.jpg",  
-	"url": "https://we-play.tv/watching/tv/hidef-1",
-	"referer": "https://we-play.tv/",
-	"playInNatPlayer": "true"
-	},
-  {
-	"name": "BLUEANT ENTERTAINMENT",  
-	"image": "https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2018%2F12%2F17%2F886f43a6-7655-4bdc-a4c2-4824667a980f.png&w=320&h=240",  
-	"url": "https://we-play.tv/watching/tv/blueant-entertainment",
-	"referer": "https://we-play.tv/",
-	"playInNatPlayer": "true"
-	},
-  {
-	"name": "BLUEANT EXTREME",  
-	"image": "https://cms.dmpcdn.com/livetv/2018/12/17/f2e16412-98be-40a4-8690-74fd2ba059fc.png",  
-	"url": "https://we-play.tv/watching/tv/blueant-extreme",
-	"referer": "https://we-play.tv/",
-	"playInNatPlayer": "true"
-	},
-  {
-	"name": "ZEE หนัง",  
-	"image": "https://cms.dmpcdn.com/livetv/2020/06/23/1acff970-b550-11ea-8fac-236a281cd6c5_320.png",  
-	"url": "https://we-play.tv/watching/tv/zee-nung",
-	"referer": "https://we-play.tv/",
-	"playInNatPlayer": "true"
-	},
-  {
-	"name": "Brat TV วัยรุ่น",  
-	"image": "https://www.brijaemorris.com/uploads/5/8/5/7/58575673/published/brat-tv-wordmark-blue-web.png?1584320989",  
-	"url": "https://brat-roku-us.amagi.tv/playlist.m3u8",
-	"playInNatPlayer": "true"
-	},
-  {
-	"name": "Bloody Disgusting",  
-	"image": "https://pbs.twimg.com/profile_images/1198734123495559169/mSocd0eJ_400x400.jpg",  
-	"url": "https://bloodydisgusting-ingest-roku-us.cinedigm.com/playlist.m3u8",
-	"playInNatPlayer": "true"
-	},
-  {
-	"name": "CINE LIFE",  
-	"image": "https://www.cinelifeentertainment.com/wp-content/uploads/2019/01/logo-1.png",  
-	"url": "https://magselect-stirr.amagi.tv/playlist.m3u8",
-	"playInNatPlayer": "true"
-	},
-  {
-	"name": "Movie Sphere",  
-	"image": "https://image.roku.com/developer_channels/prod/35a86ed623bc8974be2af3222d6affe78aaf050f7823ea751f1e7c32c6688d9b.png",  
-	"url": "https://moviesphere-roku.amagi.tv/playlist.m3u8",
-	"playInNatPlayer": "true"
-	},
-  {
-	"name": "MovieMix",  
-	"image": "https://tv.mobistream.co.za/upload/source/moviemix%20(1).png",  
-	"url": "https://sonar.sinclair.wurl.com/manifest/playlist.m3u8",
-	"playInNatPlayer": "true"
-	},
-  {
-	"name": "SHOUT TV",  
-	"image": "https://www.shoutfactorytv.com/assets/logo-new-ee14b0a629f2a23500bd88f93e465567.png",  
-	"url": "https://shoutfactorytv-stirr.amagi.tv/playlist.m3u8",
-	"playInNatPlayer": "true"
-	},
-  {
-	"name": "Rouge TV",  
-	"image": "https://live-tv-channels.org/pt-data/uploads/logo/ch-rouge-tv-1916.jpg",  
-	"url": "https://edge7.vedge.infomaniak.com/livecast/rougetv/.m3u8",
-	"playInNatPlayer": "true"
-	},
-  {
-	"name": "Mello TV",  
-	"image": "https://lh3.googleusercontent.com/rOUkQlN6on_0V6EMcMQOW_TwnmrnqYVgSTcyYYmBFbkoczDz3-y8n6Ej2sdgWaohsw",  
-	"url": "https://wowzaprod133-i.akamaihd.net/hls/live/577385/a1e0ad3f/playlist.m3u8",
-	"playInNatPlayer": "true"
-	},
-  {
-	"name": "Gravitas Movies",  
-	"image": "https://i2.wp.com/www.broadbandtvnews.com/wp-content/uploads/2019/03/Gravitas-Movies-logo.png",  
-	"url": "https://gravitas-movies.sinclair.wurl.com/manifest/playlist.m3u8",
-	"playInNatPlayer": "true"
-	},
-  {
-	"name": "horror channel",  
-	"image": "https://www.horrordna.com/images/news/tv/clout/horror-channel/horror-channel-banner.jpg",  
-	"url": "https://streamingserver002.viewtvgroup.com/KUK-HORRORCHANNEL/index.m3u8",
-	"playInNatPlayer": "true"
-	},
-  {
-	"name": "Scream Fest",  
-	"image": "https://www.sliceofscifi.com/wp-content/uploads/2016/09/ScreamfestLA.jpg",  
-	"url": "https://vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/playlist.m3u8",
-	"playInNatPlayer": "true"
-	},
+{
+"name": "Paramount Channel",  
+"image": "https://upload.wikimedia.org/wikipedia/en/thumb/5/59/Paramount_Channel.svg/400px-Paramount_Channel.svg.png",  
+"url": "https://we-play.tv/watching/tv/paramount-channel",
+"referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Hits Movies",  
+"image": "https://hitstv.com/assets/logo-HITSMOVIES.png",  
+"url": "https://www.doomovie-hd.com/?r=tv_view&id=234",
+"playInNatPlayer": "true"
+},
+{
+"name": "Hits",  
+"image": "https://hitstv.com/assets/logo_hits.png",  
+"url": "https://we-play.tv/watching/tv/hits",
+"referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "X-Zyte HD",  
+"image": "https://www.we-play.tv//uploads/posters/-poster1602704657.jpeg",  
+"url": "https://we-play.tv/watching/tv/true-xzyte",
+"referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "AXN HD",  
+"image": "https://www.we-play.tv//uploads/posters/-poster1602704538.jpeg",  
+"url": "https://we-play.tv/watching/tv/axn-hd",
+"referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Thrill",  
+"image": "https://www.doofree88.com/storage/live/Cp06o22CVWzWsoBh7TpMNBBAIWmKiMdp30aGIRwc.png",  
+"url": "https://www.fwiptv.info/player_demo.php?channel=718",
+"playInNatPlayer": "true"
+},
+{
+"name": "Hi-Def 1",  
+"image": "https://www.wiseknow.com/wp-content/uploads/2020/07/hi-def11.jpg",  
+"url": "https://we-play.tv/watching/tv/hidef-1",
+"referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "BLUEANT ENTERTAINMENT",  
+"image": "https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2018%2F12%2F17%2F886f43a6-7655-4bdc-a4c2-4824667a980f.png&w=320&h=240",  
+"url": "https://we-play.tv/watching/tv/blueant-entertainment",
+"referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "BLUEANT EXTREME",  
+"image": "https://cms.dmpcdn.com/livetv/2018/12/17/f2e16412-98be-40a4-8690-74fd2ba059fc.png",  
+"url": "https://we-play.tv/watching/tv/blueant-extreme",
+"referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "ZEE หนัง",  
+"image": "https://cms.dmpcdn.com/livetv/2020/06/23/1acff970-b550-11ea-8fac-236a281cd6c5_320.png",  
+"url": "https://we-play.tv/watching/tv/zee-nung",
+"referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Brat TV วัยรุ่น",  
+"image": "https://www.brijaemorris.com/uploads/5/8/5/7/58575673/published/brat-tv-wordmark-blue-web.png?1584320989",  
+"url": "https://brat-roku-us.amagi.tv/playlist.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "Bloody Disgusting",  
+"image": "https://pbs.twimg.com/profile_images/1198734123495559169/mSocd0eJ_400x400.jpg",  
+"url": "https://bloodydisgusting-ingest-roku-us.cinedigm.com/playlist.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "CINE LIFE",  
+"image": "https://www.cinelifeentertainment.com/wp-content/uploads/2019/01/logo-1.png",  
+"url": "https://magselect-stirr.amagi.tv/playlist.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "Movie Sphere",  
+"image": "https://image.roku.com/developer_channels/prod/35a86ed623bc8974be2af3222d6affe78aaf050f7823ea751f1e7c32c6688d9b.png",  
+"url": "https://moviesphere-roku.amagi.tv/playlist.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "MovieMix",  
+"image": "https://tv.mobistream.co.za/upload/source/moviemix%20(1).png",  
+"url": "https://sonar.sinclair.wurl.com/manifest/playlist.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "SHOUT TV",  
+"image": "https://www.shoutfactorytv.com/assets/logo-new-ee14b0a629f2a23500bd88f93e465567.png",  
+"url": "https://shoutfactorytv-stirr.amagi.tv/playlist.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "Rouge TV",  
+"image": "https://live-tv-channels.org/pt-data/uploads/logo/ch-rouge-tv-1916.jpg",  
+"url": "https://edge7.vedge.infomaniak.com/livecast/rougetv/.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "Mello TV",  
+"image": "https://lh3.googleusercontent.com/rOUkQlN6on_0V6EMcMQOW_TwnmrnqYVgSTcyYYmBFbkoczDz3-y8n6Ej2sdgWaohsw",  
+"url": "https://wowzaprod133-i.akamaihd.net/hls/live/577385/a1e0ad3f/playlist.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "Gravitas Movies",  
+"image": "https://i2.wp.com/www.broadbandtvnews.com/wp-content/uploads/2019/03/Gravitas-Movies-logo.png",  
+"url": "https://gravitas-movies.sinclair.wurl.com/manifest/playlist.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "horror channel",  
+"image": "https://www.horrordna.com/images/news/tv/clout/horror-channel/horror-channel-banner.jpg",  
+"url": "http://photocall.tv/ftv.m3u8?ch=horrorchannel",
+"playInNatPlayer": "true"
+},
+{
+"name": "Scream Fest",  
+"image": "https://www.sliceofscifi.com/wp-content/uploads/2016/09/ScreamfestLA.jpg",  
+"url": "https://vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/playlist.m3u8",
+"playInNatPlayer": "true"
+},
 
 
   ]
