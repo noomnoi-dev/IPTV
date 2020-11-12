@@ -1,155 +1,218 @@
 {
-	"name": "Thai Digital TV",
-	"author": "@แอนดรอยด์แอพฟรี",
-	"image": "http://aosat.igetweb.com/article/art_42144142.png",
-	"url": "https://raw.githubusercontent.com/konhuafuu315/IPTV/master/thaitv",
-	"stations": [
+"name": "Thai Digital TV",
+"author": "@แอนดรอยด์แอพฟรี",
+"image": "http://aosat.igetweb.com/article/art_42144142.png",
+"url": "https://raw.githubusercontent.com/konhuafuu315/IPTV/master/thaitv",
+"stations": [
 	
 
 
-	{
-	"name": "8 November 2020",  
-	"image": "https://seo-web.aun-thai.co.th/wp-content/uploads/2018/01/update-1672353_960_720-e1516173341277.png",  
-	"url": "https://www.we-play.tv/watching/tv/ch5-hd",
-	"referer": "https://www.we-play.tv/",
-	"playInNatPlayer": "true"
-	},
-	{
-	"name": "ททบ.5",  
-	"image": "http://www.tv5.co.th/tv5hd1-build91209/img/logo/tv5hd1_logo.png",  
-	"url": "https://www.we-play.tv/watching/tv/ch5-hd",
-	"referer": "https://www.we-play.tv/",
-	"playInNatPlayer": "true"
-	},
-	{
-	"name": "NBT",  
-	"image": "https://upload.wikimedia.org/wikipedia/th/thumb/f/fb/NBT_2009.png/150px-NBT_2009.png",  
-	"url": "https://www.we-play.tv/watching/tv/11-nbt",
-	"referer": "https://www.we-play.tv/",
-	"playInNatPlayer": "true"
-	},
-	{
-	"name": "TPBS",
-	"image": "https://www.saturday-school.org/wp-content/uploads/2019/08/thai-pbs-logo-png-4.png",  
-	"url": "https://thaipbs-live.cdn.byteark.com/live/playlist.m3u8"
-	},
-	{
-	"name": "ALTV by Thaipbs",  
-	"image": "https://www.altv.tv/_nuxt/img/84f4d59.png",  
-	"url": "https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8"
-	},
-	{
-	"name": "TPTV",
-	"image": "https://i.imgur.com/Jrqo8JP.png",
-	"url": "http://live.parliament.go.th/",
-	"playInNatPlayer": "true"
-	},
-	{
-	"name": "TNN",
-	"image": "https://bettopfivemovie.com/wp-content/uploads/2020/09/sd-tnn16.png",
-	"url": "https://www.tnnthailand.com/live",
-	"playInNatPlayer": "true"
-	},
-	{
-	"name": "NEW TV",
-	"image": "https://www.newtv.co.th/assets/newtv/img/new18logo_new.png",
-	"url": "https://www.adintrend.tv/hd/ch30?t=live",
-	"referer": "https://www.doomovie-hd.com/",
-	"playInNatPlayer": "true"
-	},
-	{
-	"name": "VOICE TV",
-	"image": "https://upload.wikimedia.org/wikipedia/commons/4/4d/VoiceTV.png",
-	"url": "https://www.mvtv.co.th/channel/v2h2",
-	"referer": "https://www.mvtv.co.th/",
-	"playInNatPlayer": "true"
-	},
-	{
-	"name": "Nation TV",
-	"image": "https://www.movieclubhd.tv/src/images/live/nation_480p.jpg",
-	"url": "https://www.adintrend.tv/hd/m/ch37",
-	"playInNatPlayer": "true"
-	},
-	{
-	"name": "Workpoint",
-	"image": "https://www.movieclubhd.tv/src/images/live/workpointtv_480p.jpg",
-	"url": "https://www.doomovie-hd.com/?r=tv_view&id=15",
-	"referer": "https://www.doomovie-hd.com/",
-	"playInNatPlayer": "true"
-	},
-	{
-	"name": "True4u",
-	"image": "https://www.movieclubhd.tv/src/images/live/true4u_480p.jpg",
-	"url": "https://true4u.com/live/",
-	"playInNatPlayer": "true"
-	},
-	{
-	"name": "GMM25",
-	"image": "https://www.movieclubhd.tv/src/images/live/gmm25_480p.jpg",
-	"url": "https://www.adintrend.tv/hd/m/ch0",
-	"playInNatPlayer": "true"
-	},
-	{
-	"name": "CH8",
-	"image": "https://www.movieclubhd.tv/src/images/live/tvdigital_ch8_480p.jpg",
-	"url": "https://www.adintrend.tv/hd/m/ch33",
-	"playInNatPlayer": "true"
-	},
-	{
-	"name": "MONO29",
-	"image": "https://www.movieclubhd.tv/src/images/live/mono_480p.jpg",
-	"url": "https://www.adintrend.tv/hd/m/ch38",
-	"playInNatPlayer": "true"
-	},
-	{
-	"name": "Mcot HD",
-	"image": "https://www.movieclubhd.tv/src/images/live/mcothd_480p.jpg",
-	"url": "https://www.we-play.tv/watching/tv/mcot-hd",
-	"referer": "https://www.we-play.tv/",
-	"playInNatPlayer": "true"
-	},
-	{
-	"name": "One31 HD",
-	"image": "https://www.movieclubhd.tv/src/images/live/tvdigital_one_480p.jpg",
-	"url": "https://www.we-play.tv/watching/tv/one-hd",
-	"referer": "https://www.we-play.tv/",
-	"playInNatPlayer": "true"
-	},
-	{
-	"name": "Thairath HD",
-	"image": "https://www.movieclubhd.tv/src/images/live/tvdigital_thairath_480p.jpg",
-	"url": "https://www.we-play.tv/watching/tv/thairath-tv",
-	"referer": "https://www.we-play.tv/",
-	"playInNatPlayer": "true"
-	},
-	{
-	"name": "3HD",
-	"image": "https://www.movieclubhd.tv/src/images/live/3hd_480p.jpg",
-	"url": "https://www.we-play.tv/watching/tv/ch3-hd",
-	"referer": "https://www.we-play.tv/",
-	"playInNatPlayer": "true"
-	},
-	{
-	"name": "Amarin TV",
-	"image": "https://www.movieclubhd.tv/src/images/live/amarintv_480p.jpg",
-	"url": "https://www.we-play.tv/watching/tv/amarin-tv",
-	"referer": "https://www.we-play.tv/",
-	"playInNatPlayer": "true"
-	},              
-	{
-	"name": "7HD",
-	"image": "https://www.movieclubhd.tv/src/images/live/7hd_480p.jpg",
-	"url": "https://www.we-play.tv/watching/tv/ch7-hd",
-	"referer": "https://www.we-play.tv/",
-	"playInNatPlayer": "true"
-	},
-	{
-	"name": "PPTV HD",
-	"image": "https://www.movieclubhd.tv/src/images/live/pptv_480p.jpg",
-	"url": "https://www.we-play.tv/watching/tv/pptv-hd",
-	"referer": "https://www.we-play.tv/",
-	"playInNatPlayer": "true"
-	},
+{
+"name": "12 November 2020",  
+"image": "https://seo-web.aun-thai.co.th/wp-content/uploads/2018/01/update-1672353_960_720-e1516173341277.png",  
+"url": "https://www.we-play.tv/watching/tv/ch5-hd",
+"referer": "https://www.we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "ททบ.5",  
+"image": "http://www.tv5.co.th/tv5hd1-build91209/img/logo/tv5hd1_logo.png",  
+"url": "https://www.we-play.tv/watching/tv/ch5-hd",
+"referer": "https://www.we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "ททบ.5 สำรอง",  
+"image": "http://www.tv5.co.th/tv5hd1-build91209/img/logo/tv5hd1_logo.png",  
+"url": "http://www.tv5.co.th/tv5hd1-build91209/stream_live_tv5hd1.php",
+"referer": "http://www.tv5.co.th/",
+"playInNatPlayer": "true"
+},
+{
+"name": "NBT",  
+"image": "https://upload.wikimedia.org/wikipedia/th/thumb/f/fb/NBT_2009.png/150px-NBT_2009.png",  
+"url": "https://www.we-play.tv/watching/tv/11-nbt",
+"referer": "https://www.we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "NBT สำรอง",  
+"image": "https://upload.wikimedia.org/wikipedia/th/thumb/f/fb/NBT_2009.png/150px-NBT_2009.png",  
+"url": "https://www.doomovie-hd.com/?r=tv_view&id=6",
+"referer": "https://www.doomovie-hd.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "TPBS",
+"image": "https://www.saturday-school.org/wp-content/uploads/2019/08/thai-pbs-logo-png-4.png",  
+"url": "https://thaipbs-live.cdn.byteark.com/live/playlist.m3u8"
+},
+{
+"name": "ALTV by Thaipbs",  
+"image": "https://www.altv.tv/_nuxt/img/84f4d59.png",  
+"url": "https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8"
+},
+{
+"name": "TPTV",
+"image": "https://i.imgur.com/Jrqo8JP.png",
+"url": "http://live.parliament.go.th/",
+"playInNatPlayer": "true"
+},
+{
+"name": "TNN",
+"image": "https://bettopfivemovie.com/wp-content/uploads/2020/09/sd-tnn16.png",
+"url": "https://www.tnnthailand.com/live",
+"playInNatPlayer": "true"
+},
+{
+"name": "NEW TV",
+"image": "https://www.newtv.co.th/assets/newtv/img/new18logo_new.png",
+"url": "https://www.adintrend.tv/hd/ch30?t=live",
+"referer": "https://www.doomovie-hd.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "VOICE TV",
+"image": "https://upload.wikimedia.org/wikipedia/commons/4/4d/VoiceTV.png",
+"url": "https://www.mvtv.co.th/channel/v2h2",
+"referer": "https://www.mvtv.co.th/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Nation TV",
+"image": "https://www.movieclubhd.tv/src/images/live/nation_480p.jpg",
+"url": "https://www.adintrend.tv/hd/m/ch37",
+"playInNatPlayer": "true"
+},
+{
+"name": "Workpoint",
+"image": "https://www.movieclubhd.tv/src/images/live/workpointtv_480p.jpg",
+"url": "https://www.doomovie-hd.com/?r=tv_view&id=15",
+"referer": "https://www.doomovie-hd.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "True4u",
+"image": "https://www.movieclubhd.tv/src/images/live/true4u_480p.jpg",
+"url": "https://true4u.com/live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "GMM25",
+"image": "https://www.movieclubhd.tv/src/images/live/gmm25_480p.jpg",
+"url": "https://www.adintrend.tv/hd/m/ch0",
+"playInNatPlayer": "true"
+},
+{
+"name": "CH8",
+"image": "https://www.movieclubhd.tv/src/images/live/tvdigital_ch8_480p.jpg",
+"url": "https://www.adintrend.tv/hd/m/ch33",
+"playInNatPlayer": "true"
+},
+{
+"name": "MONO29",
+"image": "https://www.movieclubhd.tv/src/images/live/mono_480p.jpg",
+"url": "https://www.adintrend.tv/hd/m/ch38",
+"playInNatPlayer": "true"
+},
+{
+"name": "Mcot HD",
+"image": "https://www.movieclubhd.tv/src/images/live/mcothd_480p.jpg",
+"url": "https://www.we-play.tv/watching/tv/mcot-hd",
+"referer": "https://www.we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Mcot HD สำรอง",
+"image": "https://www.movieclubhd.tv/src/images/live/mcothd_480p.jpg",
+"url": "https://www.doomovie-hd.com/?r=tv_view&id=5",
+"referer": "https://www.doomovie-hd.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "One31 HD",
+"image": "https://www.movieclubhd.tv/src/images/live/tvdigital_one_480p.jpg",
+"url": "https://www.we-play.tv/watching/tv/one-hd",
+"referer": "https://www.we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "One31 HD สำรอง",
+"image": "https://www.movieclubhd.tv/src/images/live/tvdigital_one_480p.jpg",
+"url": "https://www.doomovie-hd.com/?r=tv_view&id=12",
+"referer": "https://www.doomovie-hd.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Thairath HD",
+"image": "https://www.movieclubhd.tv/src/images/live/tvdigital_thairath_480p.jpg",
+"url": "https://www.we-play.tv/watching/tv/thairath-tv",
+"referer": "https://www.we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Thairath HD สำรอง",
+"image": "https://www.movieclubhd.tv/src/images/live/tvdigital_thairath_480p.jpg",
+"url": "https://www.doomovie-hd.com/?r=tv_view&id=8",
+"referer": "https://www.doomovie-hd.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "3HD",
+"image": "https://www.movieclubhd.tv/src/images/live/3hd_480p.jpg",
+"url": "https://www.we-play.tv/watching/tv/ch3-hd",
+"referer": "https://www.we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "3HD สำรอง",
+"image": "https://www.movieclubhd.tv/src/images/live/3hd_480p.jpg",
+"url": "https://www.doomovie-hd.com/?r=tv_view&id=1",
+"referer": "https://www.doomovie-hd.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Amarin TV",
+"image": "https://www.movieclubhd.tv/src/images/live/amarintv_480p.jpg",
+"url": "https://www.we-play.tv/watching/tv/amarin-tv",
+"referer": "https://www.we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Amarin TV สำรอง",
+"image": "https://www.movieclubhd.tv/src/images/live/amarintv_480p.jpg",
+"url": "https://www.doomovie-hd.com/?r=tv_view&id=10",
+"referer": "https://www.doomovie-hd.com/",
+"playInNatPlayer": "true"
+},     
+{
+"name": "7HD",
+"image": "https://www.movieclubhd.tv/src/images/live/7hd_480p.jpg",
+"url": "https://www.we-play.tv/watching/tv/ch7-hd",
+"referer": "https://www.we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "7HD สำรอง",
+"image": "https://www.movieclubhd.tv/src/images/live/7hd_480p.jpg",
+"url": "https://www.doomovie-hd.com/?r=tv_view&id=3",
+"referer": "https://www.doomovie-hd.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "PPTV HD",
+"image": "https://www.movieclubhd.tv/src/images/live/pptv_480p.jpg",
+"url": "https://www.we-play.tv/watching/tv/pptv-hd",
+"referer": "https://www.we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "PPTV HD สำรอง",
+"image": "https://www.movieclubhd.tv/src/images/live/pptv_480p.jpg",
+"url": "https://www.doomovie-hd.com/?r=tv_view&id=9",
+"referer": "https://www.doomovie-hd.com/",
+"playInNatPlayer": "true"
+},
 	{
 	"name": "MVTV FIVE",
 	"image": "https://www.mvtv.co.th/wp-content/uploads/2020/02/MVTV-FIVE.png",
