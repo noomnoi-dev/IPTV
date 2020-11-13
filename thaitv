@@ -132,8 +132,7 @@
 {
 "name": "One31 HD",
 "image": "https://www.movieclubhd.tv/src/images/live/tvdigital_one_480p.jpg",
-"url": "https://www.we-play.tv/watching/tv/one-hd",
-"referer": "https://www.we-play.tv/",
+"url": "https://www.one31.net/live",
 "playInNatPlayer": "true"
 },
 {
@@ -146,8 +145,7 @@
 {
 "name": "Thairath HD",
 "image": "https://www.movieclubhd.tv/src/images/live/tvdigital_thairath_480p.jpg",
-"url": "https://www.we-play.tv/watching/tv/thairath-tv",
-"referer": "https://www.we-play.tv/",
+"url": "https://www.thairath.co.th/tv/live",
 "playInNatPlayer": "true"
 },
 {
@@ -160,8 +158,7 @@
 {
 "name": "3HD",
 "image": "https://www.movieclubhd.tv/src/images/live/3hd_480p.jpg",
-"url": "https://www.we-play.tv/watching/tv/ch3-hd",
-"referer": "https://www.we-play.tv/",
+"url": "https://ch3plus.com/live",
 "playInNatPlayer": "true"
 },
 {
@@ -187,14 +184,13 @@
 },     
 {
 "name": "7HD",
-"image": "https://www.movieclubhd.tv/src/images/live/7hd_480p.jpg",
-"url": "https://www.we-play.tv/watching/tv/ch7-hd",
-"referer": "https://www.we-play.tv/",
+"image": "https://static.ch7.com/images/theme2019/icon/ic_logo_ch7hd.png",
+"url": "https://www.ch7.com/live.html",
 "playInNatPlayer": "true"
 },
 {
 "name": "7HD สำรอง",
-"image": "https://www.movieclubhd.tv/src/images/live/7hd_480p.jpg",
+"image": "https://static.ch7.com/images/theme2019/icon/ic_logo_ch7hd.png",
 "url": "https://www.doomovie-hd.com/?r=tv_view&id=3",
 "referer": "https://www.doomovie-hd.com/",
 "playInNatPlayer": "true"
@@ -202,8 +198,7 @@
 {
 "name": "PPTV HD",
 "image": "https://www.movieclubhd.tv/src/images/live/pptv_480p.jpg",
-"url": "https://www.we-play.tv/watching/tv/pptv-hd",
-"referer": "https://www.we-play.tv/",
+"url": "https://www.pptvhd36.com/api/live_player/program/1",
 "playInNatPlayer": "true"
 },
 {
@@ -213,6 +208,9 @@
 "referer": "https://www.doomovie-hd.com/",
 "playInNatPlayer": "true"
 },
+
+
+
 	{
 	"name": "MVTV FIVE",
 	"image": "https://www.mvtv.co.th/wp-content/uploads/2020/02/MVTV-FIVE.png",
