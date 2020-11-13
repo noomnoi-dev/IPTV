@@ -8,9 +8,9 @@
 
 
 {
-"name": "12 November 2020",  
+"name": "13 November 2020",  
 "image": "https://seo-web.aun-thai.co.th/wp-content/uploads/2018/01/update-1672353_960_720-e1516173341277.png",  
-"url": "https://www.we-play.tv/watching/tv/ch5-hd",
+"url": "https://www.adintrend.tv/hd/m/ch5",
 "playInNatPlayer": "true"
 },
 {
@@ -35,8 +35,7 @@
 {
 "name": "NBT สำรอง",  
 "image": "https://upload.wikimedia.org/wikipedia/th/thumb/f/fb/NBT_2009.png/150px-NBT_2009.png",  
-"url": "https://www.doomovie-hd.com/?r=tv_view&id=6",
-"referer": "https://www.doomovie-hd.com/",
+"url": "https://www.sine.tv/tvonline/ch011/",
 "playInNatPlayer": "true"
 },
 {
@@ -120,21 +119,19 @@
 {
 "name": "Mcot HD สำรอง",
 "image": "https://www.movieclubhd.tv/src/images/live/mcothd_480p.jpg",
-"url": "https://www.doomovie-hd.com/?r=tv_view&id=5",
-"referer": "https://www.doomovie-hd.com/",
+"url": "https://www.sine.tv/tvonline/ch009/",
 "playInNatPlayer": "true"
 },
 {
 "name": "One31 HD",
 "image": "https://www.movieclubhd.tv/src/images/live/tvdigital_one_480p.jpg",
-"url": "https://www.one31.net/live",
+"url": "https://www.sine.tv/tvonline/ch021/",
 "playInNatPlayer": "true"
 },
 {
 "name": "One31 HD สำรอง",
 "image": "https://www.movieclubhd.tv/src/images/live/tvdigital_one_480p.jpg",
-"url": "https://www.doomovie-hd.com/?r=tv_view&id=12",
-"referer": "https://www.doomovie-hd.com/",
+"url": "https://www.one31.net/live",
 "playInNatPlayer": "true"
 },
 {
@@ -146,8 +143,7 @@
 {
 "name": "Thairath HD สำรอง",
 "image": "https://www.movieclubhd.tv/src/images/live/tvdigital_thairath_480p.jpg",
-"url": "https://www.doomovie-hd.com/?r=tv_view&id=8",
-"referer": "https://www.doomovie-hd.com/",
+"url": "https://www.sine.tv/tvonline/ch010/",
 "playInNatPlayer": "true"
 },
 {
@@ -159,8 +155,7 @@
 {
 "name": "3HD สำรอง",
 "image": "https://www.movieclubhd.tv/src/images/live/3hd_480p.jpg",
-"url": "https://www.doomovie-hd.com/?r=tv_view&id=1",
-"referer": "https://www.doomovie-hd.com/",
+"url": "https://www.sine.tv/tvonline/ch001/",
 "playInNatPlayer": "true"
 },
 {
@@ -172,14 +167,13 @@
 {
 "name": "Amarin TV สำรอง",
 "image": "https://www.movieclubhd.tv/src/images/live/amarintv_480p.jpg",
-"url": "https://www.doomovie-hd.com/?r=tv_view&id=10",
-"referer": "https://www.doomovie-hd.com/",
+"url": "https://www.sine.tv/tvonline/ch023/",
 "playInNatPlayer": "true"
 },     
 {
 "name": "7HD",
 "image": "https://static.ch7.com/images/theme2019/icon/ic_logo_ch7hd.png",
-"url": "https://www.ch7.com/live.html",
+"url": "https://www.sine.tv/tvonline/ch007/",
 "playInNatPlayer": "true"
 },
 {
@@ -192,14 +186,13 @@
 {
 "name": "PPTV HD",
 "image": "https://www.movieclubhd.tv/src/images/live/pptv_480p.jpg",
-"url": "https://www.pptvhd36.com/api/live_player/program/1",
+"url": "https://www.adintrend.tv/hd/m/ch25",
 "playInNatPlayer": "true"
 },
 {
 "name": "PPTV HD สำรอง",
 "image": "https://www.movieclubhd.tv/src/images/live/pptv_480p.jpg",
-"url": "https://www.doomovie-hd.com/?r=tv_view&id=9",
-"referer": "https://www.doomovie-hd.com/",
+"url": "https://www.sine.tv/tvonline/ch004/",
 "playInNatPlayer": "true"
 },
 
