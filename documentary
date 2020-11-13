@@ -8,7 +8,7 @@
   
 
 {
-"name": "9 November 2020",  
+"name": "13 November 2020",  
 "image": "https://seo-web.aun-thai.co.th/wp-content/uploads/2018/01/update-1672353_960_720-e1516173341277.png",  
 "url": "https://androidtvtech.blogspot.com/",
 "playInNatPlayer": "true"
@@ -142,6 +142,20 @@
 "name": "สำรวจโลก",
 "image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-samrujlok.jpg",
 "url": "https://www.doomovie-hd.com/?r=tv_view&id=130",
+"playInNatPlayer": "true"
+},
+{
+"name": "Asian Food Network",
+"image": "https://www.we-play.tv//uploads/posters/asian-food-channel-poster1602705524.jpeg",
+"url": "https://we-play.tv/watching/tv/asian-food-channel",
+"referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Food Network",
+"image": "https://www.we-play.tv//uploads/posters/-poster1602704522.jpeg",
+"url": "https://we-play.tv/watching/tv/food-network",
+"referer": "https://we-play.tv/",
 "playInNatPlayer": "true"
 },
 {
