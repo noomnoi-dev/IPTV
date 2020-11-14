@@ -36,7 +36,7 @@
 "import": false
 },
 {
-"name": "โลกของเด็ก",
+"name": "ช่องสำหรับเด็ก",
 "image": "https://i.gifer.com/4STH.gif",
 "url": "http://tiny.cc/kids01",
 "import": false
@@ -72,13 +72,29 @@
 "import": false
 },
 {
-"name": "หนังใหม่อัพเดท",
+"name": "Music Choice",
+"image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
+"url": "http://tiny.cc/mchoice",
+"import": false
+},
+{
+"name": "หนังมาใหม่",
 "image": "https://lh3.googleusercontent.com/udnZXHlMtO5GQfjuaaZJlktRDUsR5MS7PYrbCp_TSfLBto_muN1Bv0SPXnLbGgxkJp4=s180-rw",
 "url": "http://tiny.cc/upmovies",
 "import": false
 },	
-
-
+{
+"name": "หนังการ์ตูน",
+"image": "https://lh3.googleusercontent.com/udnZXHlMtO5GQfjuaaZJlktRDUsR5MS7PYrbCp_TSfLBto_muN1Bv0SPXnLbGgxkJp4=s180-rw",
+"url": "http://tiny.cc/m_cartoons",
+"import": false
+},	
+{
+"name": "หนังที่ผมชอบ",
+"image": "https://i.giphy.com/media/WR9nVPD18i3ZVdJLNu/giphy.gif",
+"url": "http://tiny.cc/myhorror",
+"import": false
+},		
 
 ]
 }
