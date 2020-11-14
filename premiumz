@@ -33,18 +33,7 @@
 			"url": "http://tiny.cc/entertainment01",
 			"import": false
 		},
-		{
-			"name": "ช่องเพลงล้วนๆ",
-			"image": "https://www.residentadvisor.net/images/promoter/uk-onlymusic.jpg",
-			"url": "http://tiny.cc/musiconly",
-			"import": false
-		},
-		{
-			"name": "Music Choice",
-			"image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
-			"url": "http://tiny.cc/mchoice",
-			"import": false
-		},
+
                {
 			"name": "ช่องสารคดี",
 			"image": "https://www.pngkey.com/png/full/31-312197_pod-globe-help-our-planet-earth.png",
@@ -90,21 +79,38 @@
                         "import": false
 		},
 
-    	        {
-			"name": "หนังที่ผมชอบ",
-			"image": "https://i.giphy.com/media/WR9nVPD18i3ZVdJLNu/giphy.gif",
-			"url": "http://tiny.cc/myhorror",
+		{
+			"name": "ช่องเพลงล้วนๆ",
+			"image": "https://www.residentadvisor.net/images/promoter/uk-onlymusic.jpg",
+			"url": "http://tiny.cc/musiconly",
 			"import": false
-		},		
+		},
+		{
+			"name": "Music Choice",
+			"image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
+			"url": "http://tiny.cc/mchoice",
+			"import": false
+		},
 
 
-               {
-                       "name": "หนังมาใหม่",
-                       "image": "https://lh3.googleusercontent.com/udnZXHlMtO5GQfjuaaZJlktRDUsR5MS7PYrbCp_TSfLBto_muN1Bv0SPXnLbGgxkJp4=s180-rw",
-                       "url": "http://tiny.cc/upmovies",
-		       "import": false
-		},		
-
+{
+"name": "หนังมาใหม่",
+"image": "https://lh3.googleusercontent.com/udnZXHlMtO5GQfjuaaZJlktRDUsR5MS7PYrbCp_TSfLBto_muN1Bv0SPXnLbGgxkJp4=s180-rw",
+"url": "http://tiny.cc/upmovies",
+"import": false
+},		
+{
+"name": "หนังการ์ตูน",
+"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/best-netflix-animation-index-1585754615.jpg",
+"url": "http://tiny.cc/m_cartoons",
+"import": false
+},	
+{
+"name": "หนังที่ผมชอบ",
+"image": "https://i.giphy.com/media/WR9nVPD18i3ZVdJLNu/giphy.gif",
+"url": "http://tiny.cc/myhorror",
+"import": false
+},		
 
 		
     ]
