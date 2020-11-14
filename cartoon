@@ -1,0 +1,28 @@
+{ 
+"name": "หนังการ์ตูน",
+"author": "@แอนดรอยด์แอพฟรี",
+"image": "https://pbs.twimg.com/profile_images/1122778343118491648/lM4PqdR1_400x400.jpg",
+"url": "https://raw.githubusercontent.com/konhuafuu315/IPTV/master/trueid",
+"stations": [ 
+
+
+{
+"name": "Pokemon The Movie 09 โปเกมอนเรนเจอร์กับเจ้าชายแห่งท้องทะเล มานาฟี้",
+"image": "https://www.doomovie-hd.com/assets/movie_poster/import/poster_57ba3860b3cf19_84490851.jpg",
+"url": "https://cdn.livedoomovies.com/playlist/5718e80570631106940b6c8bc5321238/1605348105993.m3u8",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "Over the Moon - เนรมิตฝันสู่จันทรา",
+"image": "https://www.doomovie-hd.com/assets/movie_poster/1/1a129832371aaef190debfac2f91122c.jpg",
+"url": "https://cdn.livedoomovies.com/hls/649cbf83e1c823a397e12323c59bc4d9/649cbf83e1c823a397e12323c59bc4d9.m3u8",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+
+
+
+
+    ]    
+}
