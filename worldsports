@@ -8,7 +8,7 @@
 
 
 	{
-	"name": "8 November 2020",  
+	"name": "15 November 2020",  
 	"image": "https://seo-web.aun-thai.co.th/wp-content/uploads/2018/01/update-1672353_960_720-e1516173341277.png",  
 	"url": "https://androidtvtech.blogspot.com/",
 	"playInNatPlayer": "true"
@@ -249,6 +249,9 @@
              "referer": "https://dooball66.com/",
 	     "playInNatPlayer": "true"
            },
+
+	   
+	   
           {
              "name": "Fox Sports 1 USA",  
              "image": "http://runnel.ir/ax/logo/FS1.png",  
@@ -280,17 +283,44 @@
 	     "url": "http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8"
            },
           {
-             "name": "WWE Network",  
-             "image": "http://www.pngmart.com/files/5/WWE-Logo-PNG-Clipart.png",  
-	     "url": "https://ustvgo.tv/wwe-network/",
-	     "playInNatPlayer": "true"
-           },
-          {
              "name": "Olympic Channel",  
              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Olympic_Channel_logo.png/220px-Olympic_Channel_logo.png",  
 	     "url": "http://azrotv.com/iphone/En/ch/olympic.php",
 	     "playInNatPlayer": "true"
            },
+{
+"name": "WWE Network",  
+"image": "http://www.pngmart.com/files/5/WWE-Logo-PNG-Clipart.png",  
+"url": "https://ustvgo.tv/wwe-network/",
+"playInNatPlayer": "true"
+},
+{
+"name": "ROH",  
+"image": "https://upload.wikimedia.org/wikipedia/en/1/18/ROH-logo.png",  
+"url": "https://stadium-ringofhonor-1.sinclair.wurl.com/manifest/playlist.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "COMBAT GO",  
+"image": "https://3.bp.blogspot.com/-2fPNoyz8bAw/XCkpWxcsh4I/AAAAAAAABG4/hPp0JdUE_nsX11S59I0c_hpUy2NEoJj2ACLcBGAs/s400/Combat%2BGo.PNG",  
+"url": "https://combatgo-stirr.amagi.tv/playlist.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "Fite TV",  
+"image": "https://i2.wp.com/vpn.review/wp-content/uploads/2018/12/How-to-Watch-Fite-TV-Anywhere-.jpg",  
+"url": "https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "Hard Knocks Fighting",  
+"image": "https://upload.wikimedia.org/wikipedia/commons/9/90/HK_Logo_Wiki.png",  
+"url": "https://d3uyzhwvmemdyf.cloudfront.net/scheduler/scheduleMaster/109.m3u8",
+"playInNatPlayer": "true"
+},
+
+
+
            {
              "name": "Racing.Com แข่งม้า",  
              "image": "https://www.vippng.com/png/full/178-1788672_racing-com-racing-com-logo-png.png",  
@@ -340,6 +370,39 @@
 	     "url": "http://runnel.ir/tv/tv/sport.tv-5-1.php",
 	     "playInNatPlayer": "true"
            },
+{
+"name": "Laliga TV Latino",  
+"image": "https://www.latino-web-tv.com/wp-content/uploads/2020/10/Laliga_TV_logo.jpg",  
+"url": "https://embed.latino-web-tv.com/laligatv",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "Bein Laliga Latino",  
+"image": "https://www.latino-web-tv.com/wp-content/uploads/2020/10/bein.png",  
+"url": "https://embed.latino-web-tv.com/beinlaliga",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+}, 
+{
+"name": "Movistar LaLiga Latino",  
+"image": "https://www.latino-web-tv.com/wp-content/uploads/2020/10/Movistar_LaLiga.png",  
+"url": "https://embed.latino-web-tv.com/movistarlaliga",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+}, 
+{
+"name": "Movistar Deportes Latino",  
+"image": "https://www.latino-web-tv.com/wp-content/uploads/2020/10/1920px-Movistar_Deportes.svg.png",  
+"url": "https://embed.latino-web-tv.com/movistardeportes",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+}, 
+
+
+
+	   
+	   
           {
              "name": "Fox Sports Latino",  
              "image": "https://www.latino-web-tv.com/logos/foxsports.png",  
