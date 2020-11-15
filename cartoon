@@ -16,6 +16,13 @@
 "playInNatPlayer": "true"
 },
 {
+"name": "Bigfoot Family",
+"image": "https://cdn-img.movieclub.tv/img_movies_vertical/1605153214_1.jpg",
+"url": "https://cache-movie.all-movie.tv/hls/content/nas05/mvc/M/Inter/Bigfoot_Family_2020/Bigfoot_Family_2020_SE.mp4/index.m3u8",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
 "name": "โดเรมอน เดอะมูฟวี่ กำเนิดประเทศญี่ปุ่น ",
 "image": "https://www.doomovie-hd.com/assets/movie_poster/d/dc11bdb21f55244a3f1fbe03bb90404c.jpg",
 "url": "https://cdn.livedoomovies.com/hls/c2052fb59a41dc3f69c5fe2e3d6d137e/c2052fb59a41dc3f69c5fe2e3d6d137e.m3u8",
