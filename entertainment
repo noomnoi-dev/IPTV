@@ -163,8 +163,7 @@
 {
 "name": "MONO29",
 "image": "https://www.movieclubhd.tv/src/images/live/mono_480p.jpg",
-"url": "https://we-play.tv/watching/tv/mono29",
-"referer": "https://we-play.tv/",
+"url": "https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_1080P/mono29hls_1080TH.stream/playlist.m3u8",
 "playInNatPlayer": "true"
 },
 {
