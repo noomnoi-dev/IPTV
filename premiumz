@@ -1,6 +1,6 @@
 {
 	"name": "YOUTUBE@แอนดรอยด์แอพฟรี",
-	"author": "@WiseplayThaiCommunity",
+	"author": "@WiseplayThailandCommunity",
 	"image": "https://res06.noxgroup.com/noxinfluencer/youtube/avatar/f6e180da4f51e8fb1c0423106a64bd16.png",
 	"url": "https://raw.githubusercontent.com/konhuafuu315/IPTV/master/premiumz",
 	"groups": [
@@ -72,27 +72,24 @@
 			"import": false
 		},	
 
-		{
-			"name": "อาเซียน ทีวี",
-			"image": "https://logos-download.com/wp-content/uploads/2016/09/Asean_logo_logotype.png",
-			"url": "http://tiny.cc/aseantv",
-                        "import": false
-		},
-
-		{
-			"name": "ช่องเพลงล้วนๆ",
-			"image": "https://www.residentadvisor.net/images/promoter/uk-onlymusic.jpg",
-			"url": "http://tiny.cc/musiconly",
-			"import": false
-		},
-		{
-			"name": "Music Choice",
-			"image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
-			"url": "http://tiny.cc/mchoice",
-			"import": false
-		},
-
-
+{
+"name": "อาเซียน ทีวี",
+"image": "https://logos-download.com/wp-content/uploads/2016/09/Asean_logo_logotype.png",
+"url": "http://tiny.cc/aseantv",
+"import": false
+},
+{
+"name": "ช่องเพลงล้วนๆ",
+"image": "https://www.residentadvisor.net/images/promoter/uk-onlymusic.jpg",
+"url": "http://tiny.cc/musiconly",
+"import": false
+},
+{
+"name": "Music Choice",
+"image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
+"url": "http://tiny.cc/mchoice",
+"import": false
+},
 {
 "name": "หนังมาใหม่",
 "image": "https://lh3.googleusercontent.com/udnZXHlMtO5GQfjuaaZJlktRDUsR5MS7PYrbCp_TSfLBto_muN1Bv0SPXnLbGgxkJp4=s180-rw",
