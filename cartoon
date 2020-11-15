@@ -6,10 +6,33 @@
 "stations": [ 
 
 
+
+
 {
-"name": "Pokemon The Movie 09 โปเกมอนเรนเจอร์กับเจ้าชายแห่งท้องทะเล มานาฟี้",
-"image": "https://www.doomovie-hd.com/assets/movie_poster/import/poster_57ba3860b3cf19_84490851.jpg",
-"url": "https://cdn.livedoomovies.com/playlist/5718e80570631106940b6c8bc5321238/1605348105993.m3u8",
+"name": "Batman: Death in the Family",
+"image": "https://www.doomovie-hd.com/assets/movie_poster/7/7f5df9a1a1d09314d57e55eda740e3f6.jpg",
+"url": "https://cdn.livedoomovies.com/hls/5a0a6a977986d6828661e8a5e9a1fc49/5a0a6a977986d6828661e8a5e9a1fc49.m3u8",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "โดเรมอน เดอะมูฟวี่ กำเนิดประเทศญี่ปุ่น ",
+"image": "https://www.doomovie-hd.com/assets/movie_poster/d/dc11bdb21f55244a3f1fbe03bb90404c.jpg",
+"url": "https://cdn.livedoomovies.com/hls/c2052fb59a41dc3f69c5fe2e3d6d137e/c2052fb59a41dc3f69c5fe2e3d6d137e.m3u8",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "โดราเอมอน เดอะมูฟวี่ ตอน ท่องอาณาจักรโฮ่งเหมียว",
+"image": "https://www.doomovie-hd.com/assets/movie_poster/import/poster_5444f14d8d2a00_15726394.jpg",
+"url": "https://cdn.livedoomovies.com/hls/aa17887ddd8872adfd02fc0f1fb750e2/aa17887ddd8872adfd02fc0f1fb750e2.m3u8",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "สพันจ์บ็อบ ผจญภัยช่วยเพื่อนแท้",
+"image": "https://www.doomovie-hd.com/assets/movie_poster/9/9fdf3b667789424a8ef271bd23ac16e6.jpg",
+"url": "https://cdn.livedoomovies.com/hls/dfc9eb8a4088c0cd3119a1d5b5849a5d/dfc9eb8a4088c0cd3119a1d5b5849a5d.m3u8",
 "userAgent": "exoplayer_video",
 "playInNatPlayer": "true"
 },
@@ -20,6 +43,14 @@
 "userAgent": "exoplayer_video",
 "playInNatPlayer": "true"
 },
+{
+"name": "Pokemon The Movie 09 โปเกมอนเรนเจอร์กับเจ้าชายแห่งท้องทะเล มานาฟี้",
+"image": "https://www.doomovie-hd.com/assets/movie_poster/import/poster_57ba3860b3cf19_84490851.jpg",
+"url": "https://cdn.livedoomovies.com/playlist/5718e80570631106940b6c8bc5321238/1605348105993.m3u8",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+
 
 
 
