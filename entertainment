@@ -6,7 +6,7 @@
 	"stations": [
 	
 {
-"name": "11 November 2020",  
+"name": "16 November 2020",  
 "image": "https://seo-web.aun-thai.co.th/wp-content/uploads/2018/01/update-1672353_960_720-e1516173341277.png",  
 "url": "https://androidtvtech.blogspot.com/",
 "playInNatPlayer": "true"
@@ -105,46 +105,82 @@
 	"playInNatPlayer": "true"
 	},
   {
-	"name": "M Channel",  
-	"image": "http://www.m-channel.com/logo.png",  
-	"url": "http://27.254.142.207:8080/live/web.m3u8",
-	"playInNatPlayer": "true"
-	},
-  {
-	"name": "channel8thailand",  
-	"image": "http://www.channel8thailand.com/img/18378709_1492777084098686_554998105_o.png",  
-	"url": "https://cdn-th-vip.login.in.th:443/ch8/ch8/chunklist_w141858847.m3u8",
-	"playInNatPlayer": "true"
-	},
-  {
 	"name": "TVN",  
 	"image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-tvn.png",  
 	"url": "https://www.we-play.tv/watching/tv/tvn",
 	"referer": "https://we-play.tv/",
 	"playInNatPlayer": "true"
 	},
+	
+	
+{
+"name": "True Film HD",  
+"image": "http://tvsmagazine.com/images/channels/sm_FILMHD.jpg",  
+"url": "https://we-play.tv/watching/tv/true-film-hd",
+"referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "True Thai Film",  
+"image": "http://tvsmagazine.com/images/channels/sm_THAIF.jpg",  
+"url": "https://we-play.tv/watching/tv/true-thai-film",
+"referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "True Asian Series",  
+"image": "http://tvsmagazine.com/images/channels/sm_TASIAN.jpg",  
+"url": "https://we-play.tv/watching/tv/true-asian-series-hd",
+"referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "M Channel",  
+"image": "http://www.m-channel.com/logo.png",  
+"url": "http://27.254.142.207:8080/live/web.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "channel8thailand",  
+"image": "http://www.channel8thailand.com/img/18378709_1492777084098686_554998105_o.png",  
+"url": "https://cdn-th-vip.login.in.th:443/ch8/ch8/chunklist_w141858847.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "MIX Major",
+"image": "https://www.mvtv.co.th/wp-content/uploads/2019/01/mixmajor.jpg",
+"url": "https://www.mvtv.co.th/channel/mix-major-channel",
+"referer": "https://www.mvtv.co.th/",
+"playInNatPlayer": "true"
+},
+{
+"name": "TVB DRAMA THAI",
+"image": "https://www.mvtv.co.th/wp-content/uploads/2020/05/TVB-%E0%B9%84%E0%B8%97%E0%B8%A2-logo-08042020.png",
+"url": "https://www.mvtv.co.th/channel/tvb-thai",
+"referer": "https://www.mvtv.co.th/",
+"playInNatPlayer": "true"
+},
+{
+"name": "MONO29",
+"image": "https://www.movieclubhd.tv/src/images/live/mono_480p.jpg",
+"url": "https://we-play.tv/watching/tv/mono29",
+"referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "MONO29 สำรอง",
+"image": "https://www.movieclubhd.tv/src/images/live/mono_480p.jpg",
+"url": "https://www.adintrend.tv/hd/m/ch38",
+"playInNatPlayer": "true"
+},
+{
+"name": "MONO29 PLUS",
+"image": "https://monoplus.mthai.com/app/themes/monoplus/images/logo_monoplus.png",
+"url": "https://edge4-bkk.3bb.co.th:9443/MonoPlus_LiveHLS/monoplusLive_HLS720p.stream/playlist.m3u8",
+"playInNatPlayer": "true"
+},
 
-  {
-	"name": "True Film HD",  
-	"image": "http://tvsmagazine.com/images/channels/sm_FILMHD.jpg",  
-	"url": "https://we-play.tv/watching/tv/true-film-hd",
-	"referer": "https://we-play.tv/",
-	"playInNatPlayer": "true"
-	},
-  {
-	"name": "True Thai Film",  
-	"image": "http://tvsmagazine.com/images/channels/sm_THAIF.jpg",  
-	"url": "https://we-play.tv/watching/tv/true-thai-film",
-	"referer": "https://we-play.tv/",
-	"playInNatPlayer": "true"
-	},
-  {
-	"name": "True Asian Series",  
-	"image": "http://tvsmagazine.com/images/channels/sm_TASIAN.jpg",  
-	"url": "https://we-play.tv/watching/tv/true-asian-series-hd",
-	"referer": "https://we-play.tv/",
-	"playInNatPlayer": "true"
-	},
+
   {
 	"name": "Cinemax",  
 	"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/500px-Cinemax_%28Yellow%29.svg.png",  
