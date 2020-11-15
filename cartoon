@@ -1,7 +1,7 @@
 { 
 "name": "หนังการ์ตูน",
 "author": "@แอนดรอยด์แอพฟรี",
-"image": "https://pbs.twimg.com/profile_images/1122778343118491648/lM4PqdR1_400x400.jpg",
+"image": "https://bcdbimages.s3.amazonaws.com/cn/cartoon_cartoons.jpg",
 "url": "https://raw.githubusercontent.com/konhuafuu315/IPTV/master/trueid",
 "stations": [ 
 
@@ -19,6 +19,13 @@
 "name": "Bigfoot Family",
 "image": "https://cdn-img.movieclub.tv/img_movies_vertical/1605153214_1.jpg",
 "url": "https://cache-movie.all-movie.tv/hls/content/nas05/mvc/M/Inter/Bigfoot_Family_2020/Bigfoot_Family_2020_SE.mp4/index.m3u8",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "Scooby-Doo! - Happy Halloween",
+"image": "https://www.doomovie-hd.com/assets/movie_poster/c/c40223b25ac00a0b621820b38b77a960.jpg",
+"url": "https://cdn.livedoomovies.com/hls/ec54edea1fcb97242913c776e35f59fd/ec54edea1fcb97242913c776e35f59fd.m3u8",
 "userAgent": "exoplayer_video",
 "playInNatPlayer": "true"
 },
@@ -57,7 +64,24 @@
 "userAgent": "exoplayer_video",
 "playInNatPlayer": "true"
 },
-
+{
+"name": "Barnyard - เหล่าตัวจุ้น วุ่นปาร์ตี้",
+"image": "https://www.doomovie-hd.com/assets/movie_poster/9/9307720ed42a573e5727afd5612c6687.jpg",
+"url": "https://cdn.livedoomovies.com/hls/649b34335331fde93130cced1fa5e4ae/649b34335331fde93130cced1fa5e4ae.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "Rooster Doodle-Doo - ไก่แจ้จอมแสบ",
+"image": "https://www.doomovie-hd.com/assets/movie_poster/3/309e6b3f34a4e1274681e250405b4398.jpg",
+"url": "https://cdn.livedoomovies.com/hls/70189f8875ece4b964de9941f3b6905f/70189f8875ece4b964de9941f3b6905f.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "A Christmas Carol - อาถรรพ์วันคริสต์มาส",
+"image": "https://www.doomovie-hd.com/assets/movie_poster/f/f8135fcaf59f1b04f315e4ffd6c0174d.jpg",
+"url": "https://cdn.livedoomovies.com/hls/b71e4c7697d4c744f56e261dce8a0a56/b71e4c7697d4c744f56e261dce8a0a56.m3u8",
+"playInNatPlayer": "true"
+},
 
 
 
