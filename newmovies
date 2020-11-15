@@ -14,6 +14,43 @@
 "url": "https://cache-movie.all-movie.tv/hls/content/nas05/mvc/M/Thai/The_Protect_2019/The_Protect_2019_TH.mp4/index.m3u8",
 "playInNatPlayer": "true"
 },
+
+{
+"name": "ฮูบี้ ฮาโลวีน",  
+"image": "https://cdn-img.movieclub.tv/img_movies_vertical/1602068520_cover3.png",  
+"url": "https://cache-movie.all-movie.tv/hls/content/nas05/mvc/M/Inter/Hubie-Halloween/Hubie-Halloween-T.mp4/index.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "คู่มือล่าปีศาจฉบับพี่เลี้ยง",  
+"image": "https://cdn-img.movieclub.tv/img_movies_vertical/1602753449_2.jpg",  
+"url": "https://cache-movie.all-movie.tv/hls/content/nas05/mvc/M/Inter/A_Babysitters_Guide_to_Monster_Hunting_2020/A-Babysitter-Guide-To-Monster-Hunting-T.mp4/index.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "พร้อมรุก ยัยตุ๊กตาซ้อมรัก",  
+"image": "https://cdn-img.movieclub.tv/img_movies_vertical/1604300747_romdsd_cover.jpg",  
+"url": "https://cache-movie.all-movie.tv/hls/content/nas05/mvc/M/Thai/My_Sexdoll_2020/My_Sexdoll_2020_TH.mp4/index.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "หนีล่า ตามหาเธอ",  
+"image": "https://cdn-img.movieclub.tv/img_movies_vertical/1597130864_last-moment-of-clarity_cover.jpg",  
+"url": "https://cache-movie.all-movie.tv/hls/content/nas05/mvc/M/Inter/Last-Moment-of-Clarity/Last_Moment_Of_Clarity_2020_ST.mp4/index.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "เอโนลา โฮมส์",  
+"image": "https://cdn-img.movieclub.tv/img_movies_vertical/1600849717_cover1.png",  
+"url": "https://cache-movie.all-movie.tv/hls/content/nas05/mvc/M/Inter/Enola-Homes-2020/Enola-Homes-T.mp4/index.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "จดหมายรักฉบับสุดท้าย",  
+"image": "https://cdn-img.movieclub.tv/img_movies_vertical/1598670981_01.jpg",  
+"url": "https://cache-movie.all-movie.tv/hls/content/nas05/mvc/M/Asia/Last_Letter_2020/Last_letter_2020_TH.mp4/index.m3u8",
+"playInNatPlayer": "true"
+},
 {
 "name": "Greenland",  
 "image": "https://cdn-img.movieclub.tv/img_movies_vertical/1601452671_greenland_cover.jpg",  
