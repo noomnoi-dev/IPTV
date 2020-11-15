@@ -8,7 +8,7 @@
 
 
 {
-"name": "13 November 2020",  
+"name": "16 November 2020",  
 "image": "https://seo-web.aun-thai.co.th/wp-content/uploads/2018/01/update-1672353_960_720-e1516173341277.png",  
 "url": "http://110.170.117.27:1935/tv5hd1/vdo/playlist.m3u8",
 "playInNatPlayer": "true"
@@ -153,19 +153,7 @@
 "url": "https://www.thaich8.com/live?var_link=720p",
 "playInNatPlayer": "true"
 },
-{
-"name": "MONO29",
-"image": "https://www.movieclubhd.tv/src/images/live/mono_480p.jpg",
-"url": "https://we-play.tv/watching/tv/mono29",
-"referer": "https://we-play.tv/",
-"playInNatPlayer": "true"
-},
-{
-"name": "MONO29 สำรอง",
-"image": "https://www.movieclubhd.tv/src/images/live/mono_480p.jpg",
-"url": "https://www.adintrend.tv/hd/m/ch38",
-"playInNatPlayer": "true"
-},
+
 {
 "name": "Mcot HD",
 "image": "https://www.movieclubhd.tv/src/images/live/mcothd_480p.jpg",
@@ -303,6 +291,9 @@
 
 
 
+
+
+
 {
 "name": "MVTV FIVE",
 "image": "https://www.mvtv.co.th/wp-content/uploads/2020/02/MVTV-FIVE.png",
@@ -311,23 +302,9 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "TVB DRAMA THAI",
-"image": "https://www.mvtv.co.th/wp-content/uploads/2020/05/TVB-%E0%B9%84%E0%B8%97%E0%B8%A2-logo-08042020.png",
-"url": "https://www.mvtv.co.th/channel/tvb-thai",
-"referer": "https://www.mvtv.co.th/",
-"playInNatPlayer": "true"
-},
-{
 "name": "บันเทิงเกิน100",
 "image": "https://www.mvtv.co.th/wp-content/uploads/2020/02/logo-%E0%B8%9A%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%97%E0%B8%B4%E0%B8%87%E0%B9%80%E0%B8%81%E0%B8%B4%E0%B8%99%E0%B8%A3%E0%B9%89%E0%B8%AD%E0%B8%A2-66-e1580530430749.png",
 "url": "https://www.mvtv.co.th/channel/banteng100",
-"referer": "https://www.mvtv.co.th/",
-"playInNatPlayer": "true"
-},
-{
-"name": "MIX Major",
-"image": "https://www.mvtv.co.th/wp-content/uploads/2019/01/mixmajor.jpg",
-"url": "https://www.mvtv.co.th/channel/mix-major-channel",
 "referer": "https://www.mvtv.co.th/",
 "playInNatPlayer": "true"
 },
