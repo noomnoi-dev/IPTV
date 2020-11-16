@@ -1,19 +1,13 @@
 {
-"name": "New Movies Update",
+"name": "หนังต่างประเทศ",
 "author": "@แอนดรอยด์แอพฟรี",
-"image": "https://lh3.googleusercontent.com/udnZXHlMtO5GQfjuaaZJlktRDUsR5MS7PYrbCp_TSfLBto_muN1Bv0SPXnLbGgxkJp4=s180-rw",
-"url": "https://raw.githubusercontent.com/konhuafuu315/IPTV/master/newmovies",
+"image": "https://www.pellegrino.com.br/sites/default/files/world%20film.jpg",
+"url": "https://raw.githubusercontent.com/konhuafuu315/IPTV/master/worldmovie",
 "stations": [
 
 
 
 
-{
-"name": "บอดี้การ์ดหน้าหัก",  
-"image": "https://cdn-img.movieclub.tv/img_movies_vertical/1605351222_11.jpg",  
-"url": "https://cache-movie.all-movie.tv/hls/content/nas05/mvc/M/Thai/The_Protect_2019/The_Protect_2019_TH.mp4/index.m3u8",
-"playInNatPlayer": "true"
-},
 {
 "name": "Greenland 2020",  
 "image": "https://cdn-img.movieclub.tv/img_movies_vertical/1601452671_greenland_cover.jpg",  
@@ -30,12 +24,6 @@
 "name": "คู่มือล่าปีศาจฉบับพี่เลี้ยง",  
 "image": "https://cdn-img.movieclub.tv/img_movies_vertical/1602753449_2.jpg",  
 "url": "https://cache-movie.all-movie.tv/hls/content/nas05/mvc/M/Inter/A_Babysitters_Guide_to_Monster_Hunting_2020/A-Babysitter-Guide-To-Monster-Hunting-T.mp4/index.m3u8",
-"playInNatPlayer": "true"
-},
-{
-"name": "พร้อมรุก ยัยตุ๊กตาซ้อมรัก",  
-"image": "https://cdn-img.movieclub.tv/img_movies_vertical/1604300747_romdsd_cover.jpg",  
-"url": "https://cache-movie.all-movie.tv/hls/content/nas05/mvc/M/Thai/My_Sexdoll_2020/My_Sexdoll_2020_TH.mp4/index.m3u8",
 "playInNatPlayer": "true"
 },
 {
@@ -123,12 +111,6 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "Over the Moon เนรมิตฝันสู่จันทรา",  
-"image": "https://cdn.flickeringmyth.com/wp-content/uploads/2020/06/OverTheMoon_Payoff_Vertical_Main_RGB_UK-600x889.jpg",  
-"url": "https://www.we-play.tv/watching/movie/over-the-moon-2020",
-"playInNatPlayer": "true"
-},
-{
 "name": "The Wolf of Snow Hollow",  
 "image": "https://m.media-amazon.com/images/M/MV5BOWZlMDBiMmItMWU0Ny00MGIzLWI1NTQtZDEwMjM0MzBiYjhkXkEyXkFqcGdeQXVyMzIxMjMyODY@._V1_SY264_CR0,0,178,264_AL_.jpg",  
 "url": "https://123moviesfree.net/movie/the-wolf-of-snow-hollow-101550/watching.html",
@@ -154,11 +136,6 @@
 "name": "Unhinged - เฮียคลั่ง ดับเครื่องชน",  
 "image": "https://www.doomovie-hd.com/assets/movie_poster/1/182cd891c73cd3ebaa2ba26355e0ba47.jpg",  
 "url": "https://cdn.livedoomovies.com/hls/3c48bdf403fdd57cd16f77aa13b82910/3c48bdf403fdd57cd16f77aa13b82910.m3u8"
-},
-{
-"name": "มหัศจรรย์มังกรสุดขอบฟ้า",  
-"image": "https://www.doomovie-hd.com/assets/movie_poster/f/ffd5a41989c4be5e94dc3a0a47e1fe33.jpg",  
-"url": "https://cdn.livedoomovies.com/hls/bf9b48c8eeebbcc4f0ff677b8ad86f98/bf9b48c8eeebbcc4f0ff677b8ad86f98.m3u8"
 },
 {
 "name": " ถ้าปู่แน่ ก็มาดิครับ",  
@@ -259,21 +236,6 @@
 "name": "The Balkan Line",  
 "image": "https://www.doomovie-hd.com/assets/movie_poster/5/5f75ec4ff41d53b68a54eba1a5dab62e.jpg",  
 "url": "https://cdn.livedoomovies.com/hls/9efb61ed3859ef817c460913c60a40c1/9efb61ed3859ef817c460913c60a40c1.m3u8"
-},
-{
-"name": "rayon Shin-chan: Honeymoon Hurricane",  
-"image": "https://www.doomovie-hd.com/assets/movie_poster/c/cf219cb69fe69053ce4b7920a9aa8dac.jpg",  
-"url": "https://cdn.livedoomovies.com/hls/0a783890522c1abba796a7817d8c9fe2/0a783890522c1abba796a7817d8c9fe2.m3u8"
-},
-{
-"name": "Sumikko",  
-"image": "https://www.doomovie-hd.com/assets/movie_poster/5/5805cb4ac1b020559540ae6171f40a53.jpg",  
-"url": "https://cdn.livedoomovies.com/hls/7756b2c987b651b6074e3fa015b86d75/7756b2c987b651b6074e3fa015b86d75.m3u8"
-},
-{
-"name": "จอมขมังเวทย์",  
-"image": "https://www.doomovie-hd.com/assets/movie_poster/5/55814c2305f580ff2311a75961cdfa00.jpg",  
-"url": "https://cdn.livedoomovies.com/hls/7909df970399c2dc4875075d58cab0ab/7909df970399c2dc4875075d58cab0ab.m3u8"
 },
 {
 "name": "The Bridge Curse",  
