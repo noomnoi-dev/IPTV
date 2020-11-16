@@ -21,13 +21,14 @@
 "image": "https://2.bp.blogspot.com/-t0q6DG7-i54/XC5THqBeKSI/AAAAAAAACA0/K0HckU6hRZA5kmvZ16IEcrs8o8NHpElxgCLcBGAs/s320/rcti-logo1.jpg",
 "url": "https://www.rctiplus.com/tv/rcti",
 "referer": "https://www.rctiplus.com/",
+"userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
 "playInNatPlayer": "true"
 },
 {
 "name": "MNCTV ID",
 "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/MNCTV_MNC-Group.svg/640px-MNCTV_MNC-Group.svg.png",
 "url": "https://www.rctiplus.com/tv/mnctv",
-"referer": "https://www.rctiplus.com/",
+"userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
 "playInNatPlayer": "true"
 },
 {
