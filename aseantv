@@ -28,6 +28,7 @@
 "name": "MNCTV ID",
 "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/MNCTV_MNC-Group.svg/640px-MNCTV_MNC-Group.svg.png",
 "url": "https://www.rctiplus.com/tv/mnctv",
+"referer": "https://www.rctiplus.com/",
 "userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
 "playInNatPlayer": "true"
 },
@@ -36,6 +37,7 @@
 "image": "https://www.rctiplus.com/assets/image/elements/logo-gtv.png",
 "url": "https://www.rctiplus.com/tv/gtv",
 "referer": "https://www.rctiplus.com/",
+"userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
 "playInNatPlayer": "true"
 },
 {
@@ -43,6 +45,7 @@
 "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/INews.png/1280px-INews.png",
 "url": "https://www.rctiplus.com/tv/inews",
 "referer": "https://www.rctiplus.com/",
+"userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
 "playInNatPlayer": "true"
 },
 {
@@ -73,12 +76,15 @@
 "name": "KOMPAS TV ID",
 "image": "https://static.wikia.nocookie.net/logopedia/images/a/a6/UTpa5aX5_400x400.jpg",
 "url": "https://www.youtube.com/embed/gIB2egm7tL8",
+"userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
 "playInNatPlayer": "true"
 },
 {
 "name": "Indosiar TV ID",
 "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/750px-INDOSIAR_Logo.png",
 "url": "https://m.vidio.com/live/205-indosiar",
+"referer": "https://m.vidio.com/",
+"userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
 "playInNatPlayer": "true"
 },
 
