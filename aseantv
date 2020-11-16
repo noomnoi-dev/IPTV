@@ -324,6 +324,7 @@
 },
 
 
+
 {
 "name": "VTV1 VN",
 "image": "http://118.107.85.37:8082/thumb/196x110/crop/Images//Channel/2017/11/10/QKGSGH8O8M.png",
@@ -338,44 +339,133 @@
 "userAgent": "exoplayer_video",
 "playInNatPlayer": "true"
 },
+{
+"name": "VTV3 VN",
+"image": "http://118.107.85.37:8082/thumb/196x110/crop/Images//Channel/2017/11/10/JNIJC8YZZY.png",
+"url": "http://vn.tvnet.gov.vn/kenh-truyen-hinh/1013/vtv3",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "VTV4 VN",
+"image": "http://118.107.85.37:8082/thumb/196x110/crop/Images//Channel/2017/11/10/N3WARKD1DR.png",
+"url": "http://vn.tvnet.gov.vn/kenh-truyen-hinh/1009/vtv4",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "VTC1 VN",
+"image": "http://118.107.85.37:8082/thumb/196x110/crop/Images//Channel/2018/1/5/J648Q4P76M.png",
+"url": "http://vn.tvnet.gov.vn/kenh-truyen-hinh/1007/vtc1",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "VTC10 VN",
+"image": "http://118.107.85.37:8082/thumb/196x110/crop/Images//Channel/2018/1/5/7P85CGFUPW.png",
+"url": "http://vn.tvnet.gov.vn/kenh-truyen-hinh/1006/netviet",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "VTC16 VN",
+"image": "http://118.107.85.37:8082/thumb/196x110/crop/Images//Channel/2018/1/5/RL5GUIDQSG.png",
+"url": "http://vn.tvnet.gov.vn/kenh-truyen-hinh/1018/vtc16",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "TTXVN VN",
+"image": "http://118.107.85.37:8082/thumb/196x110/crop/Images//Channel/2017/11/10/XJD4D89N7V.png",
+"url": "http://vn.tvnet.gov.vn/kenh-truyen-hinh/1019/ttxvn",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "HN VN",
+"image": "http://118.107.85.37:8082/thumb/196x110/crop/Images//Channel/2017/11/10/IQGPLZKMYZ.png",
+"url": "http://vn.tvnet.gov.vn/kenh-truyen-hinh/1008/hn",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "HTV9 VN",
+"image": "http://118.107.85.37:8082/thumb/196x110/crop/Images//Channel/2017/11/10/G5I534ZDXF.png",
+"url": "http://vn.tvnet.gov.vn/kenh-truyen-hinh/1012/htv9",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "Dong Thap VN",
+"image": "http://118.107.85.37:8082/thumb/196x110/crop/Images//Channel/2018/1/2/P1NZQA12JQ.png",
+"url": "http://vn.tvnet.gov.vn/kenh-truyen-hinh/1053/dong-thap",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "Dong Nai1 VN",
+"image": "http://118.107.85.37:8082/thumb/196x110/crop/Images//Channel/2017/12/29/OQYQMR5GNS.png",
+"url": "http://vn.tvnet.gov.vn/kenh-truyen-hinh/1042/dong-nai1",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "Thvl1 VN",
+"image": "http://118.107.85.37:8082/thumb/196x110/crop/Images//Channel/2017/11/10/IUI3TJ7TKH.png",
+"url": "http://vn.tvnet.gov.vn/kenh-truyen-hinh/1031/thvl1",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "Quang Binh VN",
+"image": "http://118.107.85.37:8082/thumb/196x110/crop/Images//Channel/2018/1/2/PJA6PX4DFR.png",
+"url": "http://vn.tvnet.gov.vn/kenh-truyen-hinh/1051/quang-binh",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "Hai Duong VN",
+"image": "http://118.107.85.37:8082/thumb/196x110/crop/Images//Channel/2018/1/2/SI3VJ83CH4.png",
+"url": "http://vn.tvnet.gov.vn/kenh-truyen-hinh/1054/hai-duong",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "Thai Binh VN",
+"image": "http://118.107.85.37:8082/thumb/196x110/crop/Images//Channel/2018/1/2/YC1URMQCAY.png",
+"url": "http://vn.tvnet.gov.vn/kenh-truyen-hinh/1052/thai-binh",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "Hung Yen VN",
+"image": "http://118.107.85.37:8082/thumb/196x110/crop/Images//Channel/2017/12/29/RV4ZN82THN.png",
+"url": "http://vn.tvnet.gov.vn/kenh-truyen-hinh/1050/hung-yen",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "Hai Phong VN",
+"image": "http://118.107.85.37:8082/thumb/196x110/crop/Images//Channel/2018/1/7/WHB2CWOZXN.png",
+"url": "http://vn.tvnet.gov.vn/kenh-truyen-hinh/1041/hai-phong",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "Thanh Hoa VN",
+"image": "http://118.107.85.37:8082/thumb/196x110/crop/Images//Channel/2017/12/28/WK8EX4J9QH.png",
+"url": "http://vn.tvnet.gov.vn/kenh-truyen-hinh/1055/thanh-hoa",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "Nghe An VN",
+"image": "http://118.107.85.37:8082/thumb/196x110/crop/Images//Channel/2017/12/29/2I5O7V7FV6.png",
+"url": "http://vn.tvnet.gov.vn/kenh-truyen-hinh/1056/nghe-an",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
 
 
 ]
 }
-
-#EXTINF:-1 tvg-logo="http://118.107.85.37:8082/thumb/196x110/crop/Images//Channel/2017/11/10/JNIJC8YZZY.png",VTV3 VN
-http://vn.tvnet.gov.vn/kenh-truyen-hinh/1013/vtv3
-#EXTINF:-1 tvg-logo="http://118.107.85.37:8082/thumb/196x110/crop/Images//Channel/2017/11/10/N3WARKD1DR.png",VTV4 VN
-http://vn.tvnet.gov.vn/kenh-truyen-hinh/1009/vtv4
-#EXTINF:-1 tvg-logo="http://118.107.85.37:8082/thumb/196x110/crop/Images//Channel/2018/1/5/J648Q4P76M.png",VTC1 VN
-http://vn.tvnet.gov.vn/kenh-truyen-hinh/1007/vtc1
-#EXTINF:-1 tvg-logo="http://118.107.85.37:8082/thumb/196x110/crop/Images//Channel/2018/1/5/7P85CGFUPW.png",VTC10 VN
-http://vn.tvnet.gov.vn/kenh-truyen-hinh/1006/netviet
-#EXTINF:-1 tvg-logo="http://118.107.85.37:8082/thumb/196x110/crop/Images//Channel/2018/1/5/RL5GUIDQSG.png",VTC16 VN
-http://vn.tvnet.gov.vn/kenh-truyen-hinh/1018/vtc16
-#EXTINF:-1 tvg-logo="http://118.107.85.37:8082/thumb/196x110/crop/Images//Channel/2017/11/10/XJD4D89N7V.png",TTXVN VN
-http://vn.tvnet.gov.vn/kenh-truyen-hinh/1019/ttxvn
-#EXTINF:-1 tvg-logo="http://118.107.85.37:8082/thumb/196x110/crop/Images//Channel/2017/11/10/IQGPLZKMYZ.png",HN VN
-http://vn.tvnet.gov.vn/kenh-truyen-hinh/1008/hn
-#EXTINF:-1 tvg-logo="http://118.107.85.37:8082/thumb/196x110/crop/Images//Channel/2017/11/10/G5I534ZDXF.png",HTV9 VN
-http://vn.tvnet.gov.vn/kenh-truyen-hinh/1012/htv9
-#EXTINF:-1 tvg-logo="http://118.107.85.37:8082/thumb/196x110/crop/Images//Channel/2018/1/2/P1NZQA12JQ.png",Dong Thap VN
-http://vn.tvnet.gov.vn/kenh-truyen-hinh/1053/dong-thap
-#EXTINF:-1 tvg-logo="http://118.107.85.37:8082/thumb/196x110/crop/Images//Channel/2017/12/29/OQYQMR5GNS.png",Dong Nai1 VN
-http://vn.tvnet.gov.vn/kenh-truyen-hinh/1042/dong-nai1
-#EXTINF:-1 tvg-logo="http://118.107.85.37:8082/thumb/196x110/crop/Images//Channel/2017/11/10/IUI3TJ7TKH.png",Thvl1 VN
-http://vn.tvnet.gov.vn/kenh-truyen-hinh/1031/thvl1
-#EXTINF:-1 tvg-logo="http://118.107.85.37:8082/thumb/196x110/crop/Images//Channel/2018/1/2/PJA6PX4DFR.png",Quang Binh VN
-http://vn.tvnet.gov.vn/kenh-truyen-hinh/1051/quang-binh
-#EXTINF:-1 tvg-logo="http://118.107.85.37:8082/thumb/196x110/crop/Images//Channel/2018/1/2/SI3VJ83CH4.png",Hai Duong VN
-http://vn.tvnet.gov.vn/kenh-truyen-hinh/1054/hai-duong
-#EXTINF:-1 tvg-logo="http://118.107.85.37:8082/thumb/196x110/crop/Images//Channel/2018/1/2/YC1URMQCAY.png",Thai Binh VN
-http://vn.tvnet.gov.vn/kenh-truyen-hinh/1052/thai-binh
-#EXTINF:-1 tvg-logo="http://118.107.85.37:8082/thumb/196x110/crop/Images//Channel/2017/12/29/RV4ZN82THN.png",Hung Yen VN
-http://vn.tvnet.gov.vn/kenh-truyen-hinh/1050/hung-yen
-#EXTINF:-1 tvg-logo="http://118.107.85.37:8082/thumb/196x110/crop/Images//Channel/2018/1/7/WHB2CWOZXN.png",Hai Phong VN
-http://vn.tvnet.gov.vn/kenh-truyen-hinh/1041/hai-phong
-#EXTINF:-1 tvg-logo="http://118.107.85.37:8082/thumb/196x110/crop/Images//Channel/2017/12/28/WK8EX4J9QH.png",Thanh Hoa VN
-http://vn.tvnet.gov.vn/kenh-truyen-hinh/1055/thanh-hoa
-#EXTINF:-1 tvg-logo="http://118.107.85.37:8082/thumb/196x110/crop/Images//Channel/2017/12/29/2I5O7V7FV6.png",Nghe An VN
-http://vn.tvnet.gov.vn/kenh-truyen-hinh/1056/nghe-an
