@@ -82,8 +82,7 @@
 {
 "name": "Indosiar TV ID",
 "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/750px-INDOSIAR_Logo.png",
-"url": "https://m.vidio.com/live/205-indosiar",
-"referer": "https://m.vidio.com/",
+"url": "https://app-etslive-2.vidio.com/live/205/master.m3u8",
 "userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
 "playInNatPlayer": "true"
 },
