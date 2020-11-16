@@ -1,0 +1,31 @@
+{
+"name": "หนังไทย",
+"author": "@แอนดรอยด์แอพฟรี",
+"image": "https://www.kindpng.com/picc/m/287-2874735_photo-thai-movie-icon-hd-png-download.png",
+"url": "https://raw.githubusercontent.com/konhuafuu315/IPTV/master/thaimovie",
+"stations": [
+
+
+
+
+{
+"name": "บอดี้การ์ดหน้าหัก",  
+"image": "https://cdn-img.movieclub.tv/img_movies_vertical/1605351222_11.jpg",  
+"url": "https://cache-movie.all-movie.tv/hls/content/nas05/mvc/M/Thai/The_Protect_2019/The_Protect_2019_TH.mp4/index.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "พร้อมรุก ยัยตุ๊กตาซ้อมรัก",  
+"image": "https://cdn-img.movieclub.tv/img_movies_vertical/1604300747_romdsd_cover.jpg",  
+"url": "https://cache-movie.all-movie.tv/hls/content/nas05/mvc/M/Thai/My_Sexdoll_2020/My_Sexdoll_2020_TH.mp4/index.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "จอมขมังเวทย์",  
+"image": "https://www.doomovie-hd.com/assets/movie_poster/5/55814c2305f580ff2311a75961cdfa00.jpg",  
+"url": "https://cdn.livedoomovies.com/hls/7909df970399c2dc4875075d58cab0ab/7909df970399c2dc4875075d58cab0ab.m3u8"
+},
+
+
+    ]
+}
