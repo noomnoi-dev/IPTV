@@ -78,9 +78,15 @@
 "import": false
 },
 {
-"name": "หนังมาใหม่",
-"image": "https://lh3.googleusercontent.com/udnZXHlMtO5GQfjuaaZJlktRDUsR5MS7PYrbCp_TSfLBto_muN1Bv0SPXnLbGgxkJp4=s180-rw",
-"url": "http://tiny.cc/upmovies",
+"name": "หนังไทย",
+"image": "https://www.kindpng.com/picc/m/287-2874735_photo-thai-movie-icon-hd-png-download.png",
+"url": "http://tiny.cc/thaimovie",
+"import": false
+},
+{
+"name": "หนังต่างประเทศ",
+"image": "https://www.pellegrino.com.br/sites/default/files/world%20film.jpg",
+"url": "http://tiny.cc/worldmovie",
 "import": false
 },	
 {
@@ -95,6 +101,10 @@
 "url": "http://tiny.cc/myhorror",
 "import": false
 },		
+
+
+
+
 
 ]
 }
