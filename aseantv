@@ -15,6 +15,90 @@
 },
 
 
+{
+"name": "MVlaos",
+"image": "https://www.mvtv.co.th/wp-content/uploads/2019/01/mvlao.jpg",
+"url": "https://www.mvtv.co.th/channel/mvlao-tv",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+
+
+
+{
+"name": "TVK KH",
+"image": "https://vignette.wikia.nocookie.net/logopedia/images/7/7c/TV_Kampuchea.jpg",
+"url": "http://mekongtv.net/channels/tvk",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "TV5 KH",
+"image": "https://vignette.wikia.nocookie.net/logopedia/images/2/23/TV5_Cambodia.jpeg",
+"url": "http://mekongtv.net/channels/tv5",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "CTV9 KH",
+"image": "https://vignette.wikia.nocookie.net/logopedia/images/d/dc/Tv9cambodia.png",
+"url": "http://mekongtv.net/channels/ctv9",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "Bayontv KH",
+"image": "https://vignette.wikia.nocookie.net/logopedia/images/8/84/Bayon_tv.png",
+"url": "http://mekongtv.net/channels/bayontv",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "BTV KH",
+"image": "https://vignette.wikia.nocookie.net/logopedia/images/a/a0/BTV_news.png",
+"url": "http://mekongtv.net/channels/bayontv1",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "SeaTV KH",
+"image": "https://vignette.wikia.nocookie.net/logopedia/images/f/f9/SEATV.png",
+"url": "http://mekongtv.net/channels/seatv",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "Apsara TV KH",
+"image": "https://vignette.wikia.nocookie.net/logopedia/images/2/2b/Apsara_tv.png",
+"url": "http://mekongtv.net/channels/apsaratv",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "PNN KH",
+"image": "https://vignette.wikia.nocookie.net/logopedia/images/3/3c/People_Nation_Network.png",
+"url": "http://mekongtv.net/channels/pnn",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "Wiki TV KH",
+"image": "https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/06/1b/5f/061b5f8e-54c0-4e15-4ff6-caefd20d6ed7/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
+"url": "http://mekongtv.net/channels/wikitv",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "FreshNews KH",
+"image": "http://image.freshnewsasia.com/mobile/FN_KH_App_Logo.png",
+"url": "http://worldlivetv.stream/channel/freshnews",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+
+
+
+
 
 {
 "name": "RCTI ID",
@@ -80,67 +164,25 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "Indosiar TV ID",
-"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/750px-INDOSIAR_Logo.png",
-"url": "https://app-etslive-2.vidio.com/live/205/master.m3u8",
-"userAgent": "exoplayer_video",
-"userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
+"name": "BeritaSatu ID",
+"image": "https://www.beritasatu.com/assets/img/news_logo.png",
+"url": "https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8",
 "playInNatPlayer": "true"
 },
 {
-"name": "Indosiar test",
-"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/750px-INDOSIAR_Logo.png",
-"url": "https://app-etslive-2.vidio.com/live/205/master.m3u8",
+"name": "NET HD ID",
+"image": "http://www.netmedia.co.id/desktop/images/logo.png",
+"url": "https://www.youtube.com/embed/MSQhwpYQbtQ",
 "userAgent": "exoplayer_video",
 "playInNatPlayer": "true"
 },
 
+
+
+
+
 ]
 }
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/1280px-SCTV_Logo.svg.png",SCTV ID
-https://m.vidio.com/live/204-sctv
-#EXTINF:-1 tvg-logo="http://www.indonesia.listenradios.com/wp-content/uploads/2016/03/Net-TV-Indonesia-Live.png",NET HD ID
-https://m.vidio.com/live/875-net-tv-stream
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/qCLyYGDh6rIpz3e1GxZ1JSq_Oaw=/400x226/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/777/metro-tv-362808.jpg",Metro TV ID
-https://m.vidio.com/live/777-metro-tv
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/tIERtE2JDcZHqfdcIlcpfDweygk=/400x226/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6165/beritasatu-5fa119.jpg",Beritasatu ID
-https://m.vidio.com/live/6165-beritasatu
-
-
-
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7c/TV_Kampuchea.jpg",TVK KH
-http://mekongtv.net/channels/tvk
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/23/TV5_Cambodia.jpeg",TV5 KH
-http://mekongtv.net/channels/tv5
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/dc/Tv9cambodia.png",CTV9 KH
-http://mekongtv.net/channels/ctv9
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/84/Bayon_tv.png",Bayontv KH
-http://mekongtv.net/channels/bayontv
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a0/BTV_news.png/",BTV KH
-http://mekongtv.net/channels/bayontv1
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f9/SEATV.png",SeaTV KH
-http://mekongtv.net/channels/seatv
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/2b/Apsara_tv.png",Apsara TV KH
-http://mekongtv.net/channels/apsaratv
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/3c/People_Nation_Network.png",PNN KH
-http://mekongtv.net/channels/pnn
-#EXTINF:-1 tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/06/1b/5f/061b5f8e-54c0-4e15-4ff6-caefd20d6ed7/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",Wiki TV KH
-http://mekongtv.net/channels/wikitv
-#EXTINF:-1 tvg-logo="http://image.freshnewsasia.com/mobile/FN_KH_App_Logo.png",FreshNews KH
-http://worldlivetv.stream/channel/freshnews
-
-
-
-#EXTINF:-1 tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2019/01/mvlao.jpg",MVlaos
-https://www.mvtv.co.th/channel/mvlao-tv
-
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Logo_of_TV1_%28Malaysia%29.svg/1200px-Logo_of_TV1_%28Malaysia%29.svg.png",TV1 MY
