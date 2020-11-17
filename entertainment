@@ -1,12 +1,12 @@
 {
-	"name": "ช่องหนังและซีรีส์",
-	"author": "@แอนดรอยด์แอพฟรี",
-	"image": "https://www.pmh.be/images/channels/proximus-m-s.png",
-	"url": "https://raw.githubusercontent.com/konhuafuu315/IPTV/master/entertainment",
-	"stations": [
+"name": "ช่องหนังและซีรีส์",
+"author": "ติดตาม@YOUTUBE:แอนดรอยด์แอพฟรี",
+"image": "https://www.pmh.be/images/channels/proximus-m-s.png",
+"url": "https://raw.githubusercontent.com/konhuafuu315/IPTV/master/entertainment",
+"stations": [
 	
 {
-"name": "16 November 2020",  
+"name": "17 November 2020",  
 "image": "https://seo-web.aun-thai.co.th/wp-content/uploads/2018/01/update-1672353_960_720-e1516173341277.png",  
 "url": "https://androidtvtech.blogspot.com/",
 "playInNatPlayer": "true"
@@ -48,71 +48,69 @@
 "referer": "https://we-play.tv/",
 "playInNatPlayer": "true"
 },
-  {
-	"name": "Fox Family Movies",  
-	"image": "http://tvsmagazine.com/images/channels/sm_FFM.jpg",  
-	"url": "https://we-play.tv/watching/tv/fox-family-movies",
-	"referer": "https://we-play.tv/",
-	"playInNatPlayer": "true"
-	},
-  {
-	"name": "FOX CRIME",  
-	"image": "https://www.tvchinese.net/uploads/tv/foxcrime.jpg",  
-	"url": "https://we-play.tv/watching/tv/fox-crime",
-	"referer": "https://we-play.tv/",
-	"playInNatPlayer": "true"
-	},
-  {
-	"name": "Fox Life",  
-	"image": "https://tube.hk/images/tv_cache/c/400x400_51fox_life_asia.jpg",  
-	"url": "https://we-play.tv/watching/tv/fox-life",
-	"referer": "https://we-play.tv/",
-	"playInNatPlayer": "true"
-	},
-  {
-	"name": "HBO HD",  
-	"image": "https://upload.wikimedia.org/wikipedia/commons/4/4a/HBO_HD.png",  
-	"url": "https://we-play.tv/watching/tv/hbo-hd",
-	"referer": "https://we-play.tv/",
-	"playInNatPlayer": "true"
-	},
-  {
-	"name": "HBO Hits",  
-	"image": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/HBOHits-ASIA.png/185px-HBOHits-ASIA.png",  
-	"url": "https://we-play.tv/watching/tv/hbo-hits",
-	"referer": "https://we-play.tv/",
-	"playInNatPlayer": "true"
-	},
-  {
-	"name": "HBO RED",  
-	"image": "https://assetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1443770018_screen-red-sd-new.png",  
-	"url": "https://we-play.tv/watching/tv/red-by-hbo",
-	"referer": "https://we-play.tv/",
-	"playInNatPlayer": "true"
-	},
-  {
-	"name": "HBO Family",  
-	"image": "https://cdn.tvpassport.com/image/station/240x135/hbo-family.png",  
-	"url": "https://we-play.tv/watching/tv/hbo-family",
-	"referer": "https://we-play.tv/",
-	"playInNatPlayer": "true"
-	},
-  {
-	"name": "HBO signature",  
-	"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/HBO_Signature_Asia.png/200px-HBO_Signature_Asia.png",  
-	"url": "https://we-play.tv/watching/tv/hbo-signature",
-	"referer": "https://we-play.tv/",
-	"playInNatPlayer": "true"
-	},
-  {
-	"name": "TVN",  
-	"image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-tvn.png",  
-	"url": "https://www.we-play.tv/watching/tv/tvn",
-	"referer": "https://we-play.tv/",
-	"playInNatPlayer": "true"
-	},
-	
-	
+{
+"name": "Fox Family Movies",  
+"image": "http://tvsmagazine.com/images/channels/sm_FFM.jpg",  
+"url": "https://we-play.tv/watching/tv/fox-family-movies",
+"referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "FOX CRIME",  
+"image": "https://www.tvchinese.net/uploads/tv/foxcrime.jpg",  
+"url": "https://we-play.tv/watching/tv/fox-crime",
+"referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Fox Life",  
+"image": "https://tube.hk/images/tv_cache/c/400x400_51fox_life_asia.jpg",  
+"url": "https://we-play.tv/watching/tv/fox-life",
+"referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "HBO HD",  
+"image": "https://upload.wikimedia.org/wikipedia/commons/4/4a/HBO_HD.png",  
+"url": "https://we-play.tv/watching/tv/hbo-hd",
+"referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "HBO Hits",  
+"image": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/HBOHits-ASIA.png/185px-HBOHits-ASIA.png",  
+"url": "https://we-play.tv/watching/tv/hbo-hits",
+"referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "HBO RED",  
+"image": "https://assetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1443770018_screen-red-sd-new.png",  
+"url": "https://we-play.tv/watching/tv/red-by-hbo",
+"referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "HBO Family",  
+"image": "https://cdn.tvpassport.com/image/station/240x135/hbo-family.png",  
+"url": "https://we-play.tv/watching/tv/hbo-family",
+"referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "HBO signature",  
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/HBO_Signature_Asia.png/200px-HBO_Signature_Asia.png",  
+"url": "https://we-play.tv/watching/tv/hbo-signature",
+"referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "TVN",  
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-tvn.png",  
+"url": "https://www.we-play.tv/watching/tv/tvn",
+"referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
+},
 {
 "name": "True Film HD",  
 "image": "http://tvsmagazine.com/images/channels/sm_FILMHD.jpg",  
@@ -178,22 +176,20 @@
 "url": "https://edge4-bkk.3bb.co.th:9443/MonoPlus_LiveHLS/monoplusLive_HLS720p.stream/playlist.m3u8",
 "playInNatPlayer": "true"
 },
-
-
-  {
-	"name": "Cinemax",  
-	"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/500px-Cinemax_%28Yellow%29.svg.png",  
-	"url": "https://we-play.tv/watching/tv/cinemax",
-	"referer": "https://we-play.tv/",
-	"playInNatPlayer": "true"
-	},
-  {
-	"name": "Warner Tv",  
-	"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/150px-Warner2018LA.png",  
-	"url": "https://we-play.tv/watching/tv/warner-tv",
-	"referer": "https://we-play.tv/",
-	"playInNatPlayer": "true"
-	},
+{
+"name": "Cinemax",  
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/500px-Cinemax_%28Yellow%29.svg.png",  
+"url": "https://we-play.tv/watching/tv/cinemax",
+"referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Warner Tv",  
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/150px-Warner2018LA.png",  
+"url": "https://we-play.tv/watching/tv/warner-tv",
+"referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
+},
 {
 "name": "Paramount Channel",  
 "image": "https://upload.wikimedia.org/wikipedia/en/thumb/5/59/Paramount_Channel.svg/400px-Paramount_Channel.svg.png",  
