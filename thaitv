@@ -1,6 +1,6 @@
 {
-"name": "Thai Digital TV",
-"author": "@แอนดรอยด์แอพฟรี",
+"name": "ช่องรายการทีวีไทย",
+"author": "ติดตาม@YOUTUBE:แอนดรอยด์แอพฟรี",
 "image": "http://aosat.igetweb.com/article/art_42144142.png",
 "url": "https://raw.githubusercontent.com/konhuafuu315/IPTV/master/thaitv",
 "stations": [
@@ -8,7 +8,7 @@
 
 
 {
-"name": "16 November 2020",  
+"name": "17 November 2020",  
 "image": "https://seo-web.aun-thai.co.th/wp-content/uploads/2018/01/update-1672353_960_720-e1516173341277.png",  
 "url": "http://110.170.117.27:1935/tv5hd1/vdo/playlist.m3u8",
 "playInNatPlayer": "true"
