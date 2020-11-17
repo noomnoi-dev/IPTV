@@ -77,10 +77,24 @@
 "playInNatPlayer": "true"
 },
 {
+"name": "HBO HD สำรอง",  
+"image": "https://upload.wikimedia.org/wikipedia/commons/4/4a/HBO_HD.png",  
+"url": "https://www.doomovie-hd.com/?r=tv_view&id=41",
+"referer": "https://www.doomovie-hd.com/",
+"playInNatPlayer": "true"
+},
+{
 "name": "HBO Hits",  
 "image": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/HBOHits-ASIA.png/185px-HBOHits-ASIA.png",  
 "url": "https://we-play.tv/watching/tv/hbo-hits",
 "referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "HBO Hits สำรอง",  
+"image": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/HBOHits-ASIA.png/185px-HBOHits-ASIA.png",  
+"url": "https://www.doomovie-hd.com/?r=tv_view&id=43",
+"referer": "https://www.doomovie-hd.com/",
 "playInNatPlayer": "true"
 },
 {
