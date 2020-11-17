@@ -80,13 +80,6 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "Pokemon The Movie 09 โปเกมอนเรนเจอร์กับเจ้าชายแห่งท้องทะเล มานาฟี้",
-"image": "https://www.doomovie-hd.com/assets/movie_poster/import/poster_57ba3860b3cf19_84490851.jpg",
-"url": "https://cdn.livedoomovies.com/playlist/5718e80570631106940b6c8bc5321238/1605348105993.m3u8",
-"userAgent": "exoplayer_video",
-"playInNatPlayer": "true"
-},
-{
 "name": "Barnyard - เหล่าตัวจุ้น วุ่นปาร์ตี้",
 "image": "https://www.doomovie-hd.com/assets/movie_poster/9/9307720ed42a573e5727afd5612c6687.jpg",
 "url": "https://cdn.livedoomovies.com/hls/649b34335331fde93130cced1fa5e4ae/649b34335331fde93130cced1fa5e4ae.m3u8",
@@ -116,6 +109,29 @@
 "url": "https://cdn.livedoomovies.com/hls/46547c1b6095f1ab4d8be740841e6966/46547c1b6095f1ab4d8be740841e6966.m3u8",
 "playInNatPlayer": "true"
 },
+{
+"name": "Pokemon The Movie 08 มิวและอัศวินคลื่นพลัง",
+"image": "https://www.doomovie-hd.com/assets/movie_poster/import/poster_57b79f53e45db5_16907312.jpg",
+"url": "https://cdn.livedoomovies.com/hls/11c3cf5af3b45b9e897647467b3ef52e/11c3cf5af3b45b9e897647467b3ef52e.m3u8",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "Pokemon The Movie 09 โปเกมอนเรนเจอร์กับเจ้าชายแห่งท้องทะเล มานาฟี้",
+"image": "https://www.doomovie-hd.com/assets/movie_poster/import/poster_57ba3860b3cf19_84490851.jpg",
+"url": "https://cdn.livedoomovies.com/playlist/5718e80570631106940b6c8bc5321238/1605348105993.m3u8",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "Pokemon the Movie - อภิมหาศึกฮูปาถล่มโลก",
+"image": "https://www.doomovie-hd.com/assets/movie_poster/import/poster_57003fb61c9424_85035861.jpg",
+"url": "https://cdn.livedoomovies.com/hls/6cbcf91e186fd4110946af5a14f639d8/6cbcf91e186fd4110946af5a14f639d8.m3u8",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+
+
 
 
     ]    
