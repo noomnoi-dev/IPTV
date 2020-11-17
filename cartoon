@@ -73,9 +73,9 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "Over the Moon - เนรมิตฝันสู่จันทรา",
-"image": "https://www.doomovie-hd.com/assets/movie_poster/1/1a129832371aaef190debfac2f91122c.jpg",
-"url": "https://cdn.livedoomovies.com/hls/649cbf83e1c823a397e12323c59bc4d9/649cbf83e1c823a397e12323c59bc4d9.m3u8",
+"name": "Pets United (2019)",
+"image": "https://www.doomovie-hd.com/assets/movie_poster/2/222b81871ca9071ca0d6ec5b600efca6.jpg",
+"url": "https://cdn.livedoomovies.com/hls/4482010a61af59aaf6674f7ff2b27480/4482010a61af59aaf6674f7ff2b27480.m3u8",
 "userAgent": "exoplayer_video",
 "playInNatPlayer": "true"
 },
@@ -104,8 +104,18 @@
 "url": "https://cdn.livedoomovies.com/hls/b71e4c7697d4c744f56e261dce8a0a56/b71e4c7697d4c744f56e261dce8a0a56.m3u8",
 "playInNatPlayer": "true"
 },
-
-
+{
+"name": "Fearless - เกมซ่าปราบเซียน",
+"image": "https://www.doomovie-hd.com/assets/movie_poster/0/08cd447d309579c72fa84db3ecf7ba68.jpg",
+"url": "https://cdn.livedoomovies.com/hls/7d542aa49a60e03a778a4e0e38bc007d/7d542aa49a60e03a778a4e0e38bc007d.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "Scoob (2020)",
+"image": "https://www.doomovie-hd.com/assets/movie_poster/7/77c213d28dcff743d656338453a9fa96.jpg",
+"url": "https://cdn.livedoomovies.com/hls/46547c1b6095f1ab4d8be740841e6966/46547c1b6095f1ab4d8be740841e6966.m3u8",
+"playInNatPlayer": "true"
+},
 
 
     ]    
