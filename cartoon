@@ -21,6 +21,21 @@
 "url": "https://cdn.livedoomovies.com/hls/bf9b48c8eeebbcc4f0ff677b8ad86f98/bf9b48c8eeebbcc4f0ff677b8ad86f98.m3u8"
 },
 {
+"name": "Dreambuilders (2020)",  
+"image": "https://cdn-img.movieclub.tv/img_movies_vertical/1604224182_1.jpg",  
+"url": "https://www.all-movie.tv/Dreambuilders%20%282020%29"
+},
+{
+"name": "ยอดสปายสายพราง (2019)",  
+"image": "https://cdn-img.movieclub.tv/img_movies_vertical/1578379965_spies-in-disguise_cover.jpg",  
+"url": "https://www.all-movie.tv/Spies%20In%20Disguise%20%282019%29"
+},
+{
+"name": "เพ็ทส์ ยูไนเต็ด: ขนปุยรวมพลัง (2019)",  
+"image": "https://cdn-img.movieclub.tv/img_movies_vertical/1599966723_01.jpg",  
+"url": "https://www.all-movie.tv/Pets%20United%20%282019%29"
+},
+{
 "name": "rayon Shin-chan: Honeymoon Hurricane",  
 "image": "https://www.doomovie-hd.com/assets/movie_poster/c/cf219cb69fe69053ce4b7920a9aa8dac.jpg",  
 "url": "https://cdn.livedoomovies.com/hls/0a783890522c1abba796a7817d8c9fe2/0a783890522c1abba796a7817d8c9fe2.m3u8"
@@ -129,6 +144,16 @@
 "url": "https://cdn.livedoomovies.com/hls/6cbcf91e186fd4110946af5a14f639d8/6cbcf91e186fd4110946af5a14f639d8.m3u8",
 "userAgent": "exoplayer_video",
 "playInNatPlayer": "true"
+},
+{
+"name": "อาถรรพ์วันคริสต์มาส (2009)",  
+"image": "https://cdn-img.movieclub.tv/img_movies_vertical/1602578177_a-christmas-carol_cover.jpg",  
+"url": "https://www.all-movie.tv/A%20Christmas%20Carol%20%282009%29"
+},
+{
+"name": "สตาร์บีม สาวน้อยมหัศจรรย์ ฮีโร่วันฮาโลวีน (2020)",  
+"image": "https://cdn-img.movieclub.tv/img_movies_vertical/1601976489_cover3.png",  
+"url": "https://www.all-movie.tv/StarBeam%20Halloween%20Hero%20%282020%29"
 },
 
 
