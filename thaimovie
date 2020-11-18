@@ -29,17 +29,115 @@
 "url": "https://cdn.livedoomovies.com/hls/440121c344509c106de9e12e29feb4a7/440121c344509c106de9e12e29feb4a7.m3u8"
 },
 {
+"name": "ปิดป่าหลอน (2020)",
+"image": "https://cdn-img.movieclub.tv/img_movies_vertical/1594549591_54541.jpg",  
+"url": "https://www.all-movie.tv/%E0%B8%9B%E0%B8%B4%E0%B8%94%E0%B8%9B%E0%B9%88%E0%B8%B2%E0%B8%AB%E0%B8%A5%E0%B8%AD%E0%B8%99"
+},
+{
+"name": "เกมเซ่นผี (2020)",
+"image": "https://cdn-img.movieclub.tv/img_movies_vertical/1597113825_01.jpg",  
+"url": "https://www.all-movie.tv/%E0%B9%80%E0%B8%81%E0%B8%A1%E0%B9%80%E0%B8%8B%E0%B9%88%E0%B8%99%E0%B8%9C%E0%B8%B5%20%282020%29"
+},
+{
 "name": "Pee Nak 2 - พี่นาค 2",
-"image": "https://www.doomovie-hd.com/assets/movie_poster/2/224e7f69c0e6384755896a784e8d34f5.jpg",  
-"url": "https://cdn.livedoomovies.com/playlist/c6e6fc124928fca83c62cbd82c5d133c/1605628532691"
+"image": "https://cdn-img.movieclub.tv/img_movies_vertical/1597892365_11.jpg",  
+"url": "https://www.all-movie.tv/%E0%B8%9E%E0%B8%B5%E0%B9%88%E0%B8%99%E0%B8%B2%E0%B8%84%202%20%282020%29"
 },
 {
 "name": "Pee Nak - พี่นาค",
 "image": "https://www.doomovie-hd.com/assets/movie_poster/4/4f6b6277c6ead198cdfd9ca8f2e5e7b9.jpg",  
 "url": "https://cdn.livedoomovies.com/playlist/54777764dd55ae10c0fe0a13c17f329e/1605628843124"
 },
-
-
+{
+"name": "แฮปปี้นิวยู แสบสนั่น ยันหว่าง (2019)",
+"image": "https://cdn-img.movieclub.tv/img_movies_vertical/1596168072_5.jpg",  
+"url": "https://www.all-movie.tv/%E0%B9%81%E0%B8%AE%E0%B8%9B%E0%B8%9B%E0%B8%B5%E0%B9%89%E0%B8%99%E0%B8%B4%E0%B8%A7%E0%B8%A2%E0%B8%B9%20%E0%B9%81%E0%B8%AA%E0%B8%9A%E0%B8%AA%E0%B8%99%E0%B8%B1%E0%B9%88%E0%B8%99%20%E0%B8%A2%E0%B8%B1%E0%B8%99%E0%B8%AB%E0%B8%A7%E0%B9%88%E0%B8%B2%E0%B8%87"
+},
+{
+"name": "ระวัง สิ้นสุดทางเพื่อน (2019)",
+"image": "https://cdn-img.movieclub.tv/img_movies_vertical/1565758814_friend-zone-2019_cover.jpg",  
+"url": "https://www.all-movie.tv/%E0%B8%A3%E0%B8%B0%E0%B8%A7%E0%B8%B1%E0%B8%87%20%E0%B8%AA%E0%B8%B4%E0%B9%89%E0%B8%99%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B9%80%E0%B8%9E%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%99"
+},
+{
+"name": "นาคี 2 (2018)",
+"image": "https://cdn-img.movieclub.tv/img_movies_vertical/1563768455_nakee-2_cover.jpg",  
+"url": "https://www.all-movie.tv/%E0%B8%99%E0%B8%B2%E0%B8%84%E0%B8%B5%202"
+},
+{
+"name": "น้องฮัก (Laos 2017)",
+"image": "https://cdn-img.movieclub.tv/img_movies_vertical/1601955499_1.jpg",  
+"url": "https://www.all-movie.tv/%E0%B8%99%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%AE%E0%B8%B1%E0%B8%81"
+},
+{
+"name": "ฉลาดเกมส์โกง (2017)",
+"image": "https://cdn-img.movieclub.tv/img_movies_vertical/808c3419fbfdef27f4a69dcb16bcecb4.jpg",  
+"url": "https://www.all-movie.tv/%E0%B8%89%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B9%80%E0%B8%81%E0%B8%A1%E0%B8%AA%E0%B9%8C%E0%B9%82%E0%B8%81%E0%B8%87%20%282017%29"
+},
+{
+"name": "ความจำสั้น แต่รักฉันยาว (2011)",
+"image": "https://cdn-img.movieclub.tv/img_movies_vertical/1603879933_1.jpg",  
+"url": "https://www.all-movie.tv/%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%88%E0%B8%B3%E0%B8%AA%E0%B8%B1%E0%B9%89%E0%B8%99%20%E0%B9%81%E0%B8%95%E0%B9%88%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%89%E0%B8%B1%E0%B8%99%E0%B8%A2%E0%B8%B2%E0%B8%A7"
+},
+{
+"name": "เราสองสามคน (2553)",
+"image": "https://cdn-img.movieclub.tv/img_movies_vertical/287509f6c2e8e99a9e3e9525aaa5b938.jpg",  
+"url": "https://www.all-movie.tv/%E0%B9%80%E0%B8%A3%E0%B8%B2%E0%B8%AA%E0%B8%AD%E0%B8%87%E0%B8%AA%E0%B8%B2%E0%B8%A1%E0%B8%84%E0%B8%99"
+},
+{
+"name": "สาวลับใช้ (2020)",
+"image": "https://cdn-img.movieclub.tv/img_movies_vertical/1594269022_cover1.png",  
+"url": "https://www.all-movie.tv/%E0%B8%AA%E0%B8%B2%E0%B8%A7%E0%B8%A5%E0%B8%B1%E0%B8%9A%E0%B9%83%E0%B8%8A%E0%B9%89"
+},
+{
+"name": "ขุนบันลือ (2018)",
+"image": "https://cdn-img.movieclub.tv/img_movies_vertical/1577169452_cover1.jpg",  
+"url": "https://www.all-movie.tv/%E0%B8%82%E0%B8%B8%E0%B8%99%E0%B8%9A%E0%B8%B1%E0%B8%99%E0%B8%A5%E0%B8%B7%E0%B8%AD"
+},
+{
+"name": "ไบค์แมน ศักรินทร์ตูดหมึก 2 (2019)",
+"image": "https://cdn-img.movieclub.tv/img_movies_vertical/1589431321_bike-man-2_cover.jpg",  
+"url": "https://www.all-movie.tv/%E0%B9%84%E0%B8%9A%E0%B8%84%E0%B9%8C%E0%B9%81%E0%B8%A1%E0%B8%99%20%E0%B8%A8%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C%E0%B8%95%E0%B8%B9%E0%B8%94%E0%B8%AB%E0%B8%A1%E0%B8%B6%E0%B8%81%202"
+},
+{
+"name": "ไบค์แมน ศักรินทร์ตูดหมึก (2018)",
+"image": "https://cdn-img.movieclub.tv/img_movies_vertical/1549448027_untitled-1.jpg",  
+"url": "https://www.all-movie.tv/%E0%B9%84%E0%B8%9A%E0%B8%84%E0%B9%8C%E0%B9%81%E0%B8%A1%E0%B8%99%20%E0%B8%A8%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C%E0%B8%95%E0%B8%B9%E0%B8%94%E0%B8%AB%E0%B8%A1%E0%B8%B6%E0%B8%81"
+},
+{
+"name": "ขุนแผน ฟ้าฟื้น (2019)",
+"image": "https://cdn-img.movieclub.tv/img_movies_vertical/1588827414_123123.jpg",  
+"url": "https://www.all-movie.tv/%E0%B8%82%E0%B8%B8%E0%B8%99%E0%B9%81%E0%B8%9C%E0%B8%99%20%E0%B8%9F%E0%B9%89%E0%B8%B2%E0%B8%9F%E0%B8%B7%E0%B9%89%E0%B8%99"
+},
+{
+"name": "ไทบ้าน x BNK48 จากใจผู้สาวคนนี้ (2020)",
+"image": "https://cdn-img.movieclub.tv/img_movies_vertical/1587632853_123123.jpg",  
+"url": "https://www.all-movie.tv/%E0%B9%84%E0%B8%97%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%20x%20BNK48%20%E0%B8%88%E0%B8%B2%E0%B8%81%E0%B9%83%E0%B8%88%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B8%AA%E0%B8%B2%E0%B8%A7%E0%B8%84%E0%B8%99%E0%B8%99%E0%B8%B5%E0%B9%89%20%282020%29"
+},
+{
+"name": "หลวงตามหาเฮง (2019)",
+"image": "https://cdn-img.movieclub.tv/img_movies_vertical/1579754926_uiyuiyuk.jpg",  
+"url": "https://www.all-movie.tv/%E0%B8%AB%E0%B8%A5%E0%B8%A7%E0%B8%87%E0%B8%95%E0%B8%B2%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B9%80%E0%B8%AE%E0%B8%87"
+},
+{
+"name": "ออนซอนเด (2019)",
+"image": "https://cdn-img.movieclub.tv/img_movies_vertical/1580187225_on-zon-de_cover.jpg",  
+"url": "https://www.all-movie.tv/%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B8%8B%E0%B8%AD%E0%B8%99%E0%B9%80%E0%B8%94"
+},
+{
+"name": "ฮักแพง (2018)",
+"image": "https://cdn-img.movieclub.tv/img_movies_vertical/1551681344_ytyrty.jpg",  
+"url": "https://www.all-movie.tv/%E0%B8%AE%E0%B8%B1%E0%B8%81%E0%B9%81%E0%B8%9E%E0%B8%87"
+},
+{
+"name": "น้อง พี่ ที่รัก (2018)",
+"image": "https://cdn-img.movieclub.tv/img_movies_vertical/1543807092_teerak_cover.jpg",  
+"url": "https://www.all-movie.tv/%E0%B8%99%E0%B9%89%E0%B8%AD%E0%B8%87%20%E0%B8%9E%E0%B8%B5%E0%B9%88%20%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A3%E0%B8%B1%E0%B8%81"
+},
+{
+"name": "ลูกอีสาน (1983)",
+"image": "https://cdn-img.movieclub.tv/img_movies_vertical/1572418988_cover1.jpg",  
+"url": "https://www.all-movie.tv/%E0%B8%A5%E0%B8%B9%E0%B8%81%E0%B8%AD%E0%B8%B5%E0%B8%AA%E0%B8%B2%E0%B8%99"
+},
 
 
 ]
