@@ -8,7 +8,7 @@
   
 
 {
-"name": "17 November 2020",  
+"name": "19 November 2020",  
 "image": "https://seo-web.aun-thai.co.th/wp-content/uploads/2018/01/update-1672353_960_720-e1516173341277.png",  
 "url": "https://androidtvtech.blogspot.com/",
 "playInNatPlayer": "true"
@@ -130,6 +130,12 @@
 "name": "Love Nature USA",
 "image": "https://i0.wp.com/www.broadbandtvnews.com/wp-content/uploads/2019/12/Love-Nature-4K.jpg",
 "url": "https://bamus-eng-roku.amagi.tv/playlist.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "สำรวจโลก",
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-samrujlok.jpg",
+"url": "https://cdn6.goprimetime.info/feed/LC8/index.m3u8",
 "playInNatPlayer": "true"
 },
 {
