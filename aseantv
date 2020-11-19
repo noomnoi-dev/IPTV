@@ -162,20 +162,6 @@
 "url": "https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8",
 "playInNatPlayer": "true"
 },
-{
-"name": "KOMPAS TV ID",
-"image": "https://static.wikia.nocookie.net/logopedia/images/a/a6/UTpa5aX5_400x400.jpg",
-"url": "https://www.youtube.com/embed/gIB2egm7tL8",
-"userAgent": "exoplayer_video",
-"playInNatPlayer": "true"
-},
-{
-"name": "NET HD ID",
-"image": "http://www.netmedia.co.id/desktop/images/logo.png",
-"url": "https://www.youtube.com/embed/MSQhwpYQbtQ",
-"userAgent": "exoplayer_video",
-"playInNatPlayer": "true"
-},
 
 
 
@@ -228,6 +214,13 @@
 "name": "Channel 7 MM",
 "image": "https://www.onia.tv/files/picture/2019-11-22/tvchannel_2019-11-22-11-02-32_1.jpeg",
 "url": "http://cdn-edge.otv.co.th:80/mmplay/channel7/chunklist_w601966726.m3u8",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "Channel K MM",
+"image": "https://channelkmyanmar.com/img/channelk-fb-share-logo.png",
+"url": "https://www.channelkmyanmar.com/live",
 "userAgent": "exoplayer_video",
 "playInNatPlayer": "true"
 },
