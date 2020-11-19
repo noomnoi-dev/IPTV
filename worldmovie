@@ -143,11 +143,6 @@
 "url": "https://cdn.livedoomovies.com/hls/237b3a95f83dec068589b78b24d664f7/237b3a95f83dec068589b78b24d664f7.m3u8"
 },
 {
-"name": "ทรชนปล้นชั่ว [Zoom]",  
-"image": "https://www.doomovie-hd.com/assets/movie_poster/8/83ea141cc5bb2ef38ce2edc3e2a1a0ed.jpg",  
-"url": "https://cdn.livedoomovies.com/hls/15ac6850f1d9ee76c3f0221a2fa5f4be/15ac6850f1d9ee76c3f0221a2fa5f4be.m3u8"
-},
-{
 "name": "Achoura - อาชูร่า มันกลับมาจากนรก",  
 "image": "https://www.doomovie-hd.com/assets/movie_poster/e/e55ebeca6e2e79fd1c3f9ca660fe6ce9.jpg",  
 "url": "https://cdn.livedoomovies.com/hls/75895e7c59c7b71ebdb91a56718db434/75895e7c59c7b71ebdb91a56718db434.m3u8"
@@ -247,6 +242,18 @@
 "image": "https://www.doomovie-hd.com/assets/movie_poster/0/0f394d97bfb1964042728648770873c2.jpg",  
 "url": "https://cdn.livedoomovies.com/hls/5e638e53f26cc4b52db473212dd172aa/5e638e53f26cc4b52db473212dd172aa.m3u8"
 },
+{
+"name": "IT CHAPTER 2 2019",  
+"image": "https://cdn-img.movieclub.tv/img_movies_vertical/1575873020_it-chapter-two_cover.jpg",  
+"url": "https://www.all-movie.tv/It%20Chapter%20Two%204K"
+},
+{
+"name": "IT 2017",  
+"image": "https://cdn-img.movieclub.tv/img_movies_vertical/f032413a7798838bb6439a93a5701fcd.jpg",  
+"url": "https://www.all-movie.tv/IT%202017%204K"
+},
+
+
 
 		
     ]
