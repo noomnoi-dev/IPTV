@@ -297,6 +297,28 @@
 "url": "https://espn-live.stream/stream/45460.html",
 "playInNatPlayer": "true"
 },
+
+{
+"name": "FC BAYERN.TV",  
+"image": "https://fcbayern.com/fcb/assets/favicon/mstile-310x310.png",  
+"url": "https://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/6000/t/wPWuj7PJbQj6MbHjb-7PzA/master.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "Galatasaray TV",  
+"image": "https://i.sozcu.com.tr/wp-content/uploads/2018/08/iecrop/gs-tv_16_9_1533298622-880x495.jpg",  
+"url": "https://galatasaray.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Realmadrid TV",  
+"image": "https://www.realmadrid.com/img/horizontal_940px/logotipo_rmtv_940x400thumb_h_20200128014053.jpg",  
+"url": "https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8",
+"playInNatPlayer": "true"
+},
+
+
+
 {
 "name": "Tennis Channel",  
 "image": "https://www.sportsvideo.org/new/wp-content/uploads/2016/01/tennis-channel-logo-300x279.jpg",  
@@ -384,7 +406,9 @@
 "url": "https://hlshac-i.akamaihd.net/hls/live/854653/haclinear/index.m3u8",
 "playInNatPlayer": "true"
 },
-	   
+
+
+
 {
 "name": "Sport TV 1 Portugal",  
 "image": "http://runnel.ir/ax/logo/SportTV1-Small.png",  
