@@ -6,7 +6,7 @@
 "stations": [
 	
 {
-"name": "20 November 2020",  
+"name": "22 November 2020",  
 "image": "https://seo-web.aun-thai.co.th/wp-content/uploads/2018/01/update-1672353_960_720-e1516173341277.png",  
 "url": "https://androidtvtech.blogspot.com/",
 "playInNatPlayer": "true"
@@ -144,6 +144,12 @@
 "image": "http://tvsmagazine.com/images/channels/sm_TASIAN.jpg",  
 "url": "https://we-play.tv/watching/tv/true-asian-series-hd",
 "referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "CTB",  
+"image": "https://f.ptcdn.info/601/063/000/pqcvhsxk7PuKUZbFKv4-o.png",  
+"url": "http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8",
 "playInNatPlayer": "true"
 },
 {
