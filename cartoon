@@ -26,6 +26,12 @@
 "url": "https://www.all-movie.tv/Dreambuilders%20%282020%29"
 },
 {
+"name": "The lion king (2019)",  
+"image": "https://cdn-img.movieclub.tv/img_movies_vertical/1571985264_the-lion-king-2019_cover.jpg",  
+"url": "https://www.all-movie.tv/The%20Lion%20King%204K",
+"playInNatPlayer": "true"
+},
+{
 "name": "ยอดสปายสายพราง (2019)",  
 "image": "https://cdn-img.movieclub.tv/img_movies_vertical/1578379965_spies-in-disguise_cover.jpg",  
 "url": "https://www.all-movie.tv/Spies%20In%20Disguise%20%282019%29"
