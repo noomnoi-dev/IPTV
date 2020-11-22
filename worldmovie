@@ -7,11 +7,22 @@
 
 
 
-
+{
+"name": "Fatman 2020",  
+"image": "https://m.media-amazon.com/images/M/MV5BZjk1NDc4OTEtY2M3OS00M2E3LTk4YTgtYjczMzI1OWQ1ODVlXkEyXkFqcGdeQXVyNzA0OTM3NQ@@._V1_UY268_CR1,0,182,268_AL_.jpg",  
+"url": "https://ww5.fmovie.sc/online/fatman-2020/watching.html/?ep=7",
+"playInNatPlayer": "true"
+},
 {
 "name": "Greenland 2020",  
 "image": "https://cdn-img.movieclub.tv/img_movies_vertical/1601452671_greenland_cover.jpg",  
 "url": "https://cdn.livedoomovies.com/hls/010f6ef9bf56e63eef2ebf46bbc8f74d/010f6ef9bf56e63eef2ebf46bbc8f74d.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "Tales from the Hood 3",  
+"image": "https://m.media-amazon.com/images/M/MV5BMzA0MDk3NGItNDFlNC00ZDZhLTkzNmMtZDE4ODI4MGYzYTc3XkEyXkFqcGdeQXVyODE3NjY3NTI@._V1_UY268_CR3,0,182,268_AL_.jpg",  
+"url": "https://ww5.fmovie.sc/online/tales-from-the-hood-3-2020/watching.html/?ep=7",
 "playInNatPlayer": "true"
 },
 {
