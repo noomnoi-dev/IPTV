@@ -8,7 +8,12 @@
 
 
 
-
+{
+"name": "Alien Xmas (2020)",  
+"image": "https://www.doomovie-hd.com/assets/movie_poster/8/8618b9d86d0cb4bbe5be11ae72fa5ae5.jpg",  
+"url": "https://cdn.livedoomovies.com/hls/5ebfed47f03d43903f13cff517264857/5ebfed47f03d43903f13cff517264857.m3u8",
+"playInNatPlayer": "true"
+},
 {
 "name": "Over the Moon เนรมิตฝันสู่จันทรา",  
 "image": "https://cdn.flickeringmyth.com/wp-content/uploads/2020/06/OverTheMoon_Payoff_Vertical_Main_RGB_UK-600x889.jpg",  
