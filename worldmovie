@@ -6,7 +6,12 @@
 "stations": [
 
 
-
+{
+"name": "RUN 2020",  
+"image": "https://cdn-img.movieclub.tv/img_movies_vertical/1606292700_1.jpg",  
+"url": "https://www.all-movie.tv/Run%20%282020%29",
+"playInNatPlayer": "true"
+},
 {
 "name": "Fatman 2020",  
 "image": "https://m.media-amazon.com/images/M/MV5BZjk1NDc4OTEtY2M3OS00M2E3LTk4YTgtYjczMzI1OWQ1ODVlXkEyXkFqcGdeQXVyNzA0OTM3NQ@@._V1_UY268_CR1,0,182,268_AL_.jpg",  
