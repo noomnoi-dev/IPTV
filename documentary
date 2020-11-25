@@ -166,6 +166,13 @@
 "playInNatPlayer": "true"
 },
 {
+"name": "KBS World",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/800px-KBS_World_%282009%29.svg.png",
+"url": "https://we-play.tv/watching/tv/kbs-world",
+"referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
 "name": "TLC",
 "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Tlc_logo_discovery.svg/640px-Tlc_logo_discovery.svg.png",
 "url": "https://we-play.tv/watching/tv/tlc-hd",
