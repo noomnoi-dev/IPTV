@@ -8,7 +8,7 @@
   
 
 {
-"name": "20 November 2020",  
+"name": "25 November 2020",  
 "image": "https://seo-web.aun-thai.co.th/wp-content/uploads/2018/01/update-1672353_960_720-e1516173341277.png",  
 "url": "https://androidtvtech.blogspot.com/",
 "playInNatPlayer": "true"
@@ -155,6 +155,13 @@
 "name": "Food Network",
 "image": "https://www.we-play.tv//uploads/posters/-poster1602704522.jpeg",
 "url": "https://we-play.tv/watching/tv/food-network",
+"referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Waku Waku Japan",
+"image": "https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/waku-waku-large.png",
+"url": "https://we-play.tv/watching/tv/waku-waku-japan",
 "referer": "https://we-play.tv/",
 "playInNatPlayer": "true"
 },
