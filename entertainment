@@ -6,7 +6,7 @@
 "stations": [
 	
 {
-"name": "22 November 2020",  
+"name": "25 November 2020",  
 "image": "https://seo-web.aun-thai.co.th/wp-content/uploads/2018/01/update-1672353_960_720-e1516173341277.png",  
 "url": "https://androidtvtech.blogspot.com/",
 "playInNatPlayer": "true"
@@ -143,6 +143,34 @@
 "name": "True Asian Series",  
 "image": "http://tvsmagazine.com/images/channels/sm_TASIAN.jpg",  
 "url": "https://we-play.tv/watching/tv/true-asian-series-hd",
+"referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "CCM",  
+"image": "https://cms.dmpcdn.com/livetv/2018/12/17/febce46e-fb05-41d9-b294-08ecb3f1d1e6.png",  
+"url": "https://we-play.tv/watching/tv/ccm",
+"referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "KMTV",  
+"image": "https://cms.dmpcdn.com/livetv/2017/10/17/1dd95b24-9fb7-474d-bc4d-af3a6df84302.png",  
+"url": "https://we-play.tv/watching/tv/kmtv",
+"referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Star Chinese Movies",  
+"image": "https://www.nowtv.now.com/media/logo/139-wbg-e.png",  
+"url": "https://we-play.tv/watching/tv/star-chinese-movies",
+"referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "xxxx",  
+"image": "xxxx",  
+"url": "xxxx",
 "referer": "https://we-play.tv/",
 "playInNatPlayer": "true"
 },
