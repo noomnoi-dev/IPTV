@@ -79,6 +79,12 @@
 "import": false
 },
 {
+"name": "เรียนทางไกล",
+"image": "https://www.dltv.ac.th/themes/default/assets/images/dltv-main-logo.png",
+"url": "http://tiny.cc/educationz",
+"import": false
+},
+{
 "name": "หนังไทย",
 "image": "https://www.kindpng.com/picc/m/287-2874735_photo-thai-movie-icon-hd-png-download.png",
 "url": "http://tiny.cc/thaimovie",
