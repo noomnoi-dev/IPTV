@@ -198,21 +198,21 @@
 
 {
 "name": "MV Myanmar ",
-"image": "https://www.onia.tv/files/picture/2019-12-05/tvchannel_2019-12-05-20-30-33_1.jpg",
+"image": "http://tvtolive.com/wp-content/uploads/MVTV-Myanmar-tvtolive.com_.jpg",
 "url": "https://www.mvtv.co.th/channel/v2h8-mvm",
 "userAgent": "exoplayer_video",
 "playInNatPlayer": "true"
 },
 {
 "name": "5 Plus MM",
-"image": "https://www.onia.tv/files/picture/2019-11-22/tvchannel_2019-11-22-11-06-32_1.jpeg",
+"image": "https://www.myanmartvchannels.com/assets/cache/images/channeliconb/5plus-120x120-a44.jpg",
 "url": "http://cdn-edge.otv.co.th:80/mmplay/5plus/chunklist_w1156838007.m3u8",
 "userAgent": "exoplayer_video",
 "playInNatPlayer": "true"
 },
 {
 "name": "Channel 7 MM",
-"image": "https://www.onia.tv/files/picture/2019-11-22/tvchannel_2019-11-22-11-02-32_1.jpeg",
+"image": "https://www.myanmartvchannels.com/assets/cache/images/channeliconb/channel7-120x120-a44.jpg",
 "url": "http://cdn-edge.otv.co.th:80/mmplay/channel7/chunklist_w601966726.m3u8",
 "userAgent": "exoplayer_video",
 "playInNatPlayer": "true"
@@ -226,7 +226,7 @@
 },
 {
 "name": "Channel 9 MM",
-"image": "https://www.onia.tv/files/picture/2019-11-22/tvchannel_2019-11-22-11-12-05_1.png",
+"image": "https://www.myanmartvchannels.com/assets/cache/images/channeliconb/channel9-120x120-a44.jpg",
 "url": "http://cdn-edge.otv.co.th:80/mmplay/channel9/chunklist_w1012069351.m3u8",
 "userAgent": "exoplayer_video",
 "playInNatPlayer": "true"
@@ -240,7 +240,7 @@
 },
 {
 "name": "Fortune TV MM",
-"image": "https://www.onia.tv/files/picture/2019-11-22/tvchannel_2019-11-22-11-26-55_1.jpeg",
+"image": "https://www.myanmartvchannels.com/assets/cache/images/channeliconb/fortune-120x120-a44.jpg",
 "url": "http://live-aec.sky-cdn.com:80/aec_live/Fortune.stream_360p/chunklist_w1222180246.m3u8",
 "userAgent": "exoplayer_video",
 "playInNatPlayer": "true"
@@ -296,7 +296,7 @@
 },
 {
 "name": "Channel Me MM",
-"image": "https://www.onia.tv/files/picture/2019-11-22/tvchannel_2019-11-22-10-12-54_1.jpeg",
+"image": "https://www.myanmartvchannels.com/assets/cache/images/channelicon/mrtvent-120x120-a44.jpg",
 "url": "http://cdn-edge.otv.co.th:80/mmplay/mrtv-entertainment/chunklist_w1667418500.m3u8",
 "userAgent": "exoplayer_video",
 "playInNatPlayer": "true"
