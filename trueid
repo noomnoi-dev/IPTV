@@ -13,7 +13,7 @@
 "image": "http://www.tv5.co.th/tv5hd1-build91209/img/logo/tv5hd1_logo.png",
 "url": "https://tv.trueid.net/embed/ch5?autoplay=yes&nopageview=yes",
 "referer": "https://tv.trueid.net/",
-"userAgent": "Mozilla/5.0 (Linux; Android 9; SHIELD Android TV Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.158 Mobile Safari/537.36",
+"userAgent": "exoplayer_video Mozilla/5.0 (Linux; Android 9; SHIELD Android TV Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.158 Mobile Safari/537.36",
 "playInNatPlayer": "true"
 },
 
