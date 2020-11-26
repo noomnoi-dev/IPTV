@@ -1,0 +1,23 @@
+ {
+  "name": "TrueID Channel YT@แอนดรอยด์แอพฟรี",
+	"author": "ติดตาม@YOUTUBE:แอนดรอยด์แอพฟรี",
+	"image": "https://www.macthai.com/wp-content/uploads/2018/01/TrueIDapp-Logo.png",
+	"url": "https://raw.githubusercontent.com/konhuafuu315/IPTV/master/trueid",
+	"stations": [
+  
+    
+
+
+  {
+  "name": "CH5",
+  "image": "http://www.tv5.co.th/tv5hd1-build91209/img/logo/tv5hd1_logo.png",
+  "url": "https://tv.trueid.net/embed/ch5?autoplay=yes&nopageview=yes",
+  "referer": "https://tv.trueid.net/",
+  "userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
+  "playInNatPlayer": "true"
+  },
+
+
+
+]
+}
