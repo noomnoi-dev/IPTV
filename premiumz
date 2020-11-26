@@ -11,7 +11,13 @@
 "image": "http://aosat.igetweb.com/article/art_42144142.png",
 "url": "http://tiny.cc/thaitv01",
 "import": false
-},	
+},
+{
+"name": "TRUEID ทีวีไทย",
+"image": "https://cdn-images-1.medium.com/max/1200/1*bmojgDiLb1N0fvum300bUA.png",
+"url": "http://tiny.cc/trueid",
+"import": false
+},
 {
 "name": "กีฬา ทรูสปอร์ต",
 "image": "https://upload.wikimedia.org/wikipedia/en/0/0d/True_Sport_Logo.png",
