@@ -56,106 +56,106 @@
 },
 {
 "name": "WORKPOINT",
-"image": "xxxx",
-"url": "https://tv.trueid.net/embed/xxxx",
+"image": "https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2019%2F01%2F10%2Fac08e9d4-6e97-478f-9c29-fc8e851a8c89.png&w=320&h=240",
+"url": "https://tv.trueid.net/embed/workpointtv",
 "playInNatPlayer": "true"
 },
 {
 "name": "TRUE4U",
-"image": "xxxx",
-"url": "https://tv.trueid.net/embed/xxxx",
+"image": "https://cms.dmpcdn.com/livetv/2019/03/15/58ad8ef6-52ef-4609-a55b-9a18e8e89eec.png",
+"url": "https://tv.trueid.net/embed/true4u",
 "playInNatPlayer": "true"
 },
 {
 "name": "GMM25",
-"image": "xxxx",
-"url": "https://tv.trueid.net/embed/xxxx",
+"image": "https://cms.dmpcdn.com/livetv/2020/05/28/f7e1df70-a0a3-11ea-81a6-432b2bbc8436_original.png",
+"url": "https://tv.trueid.net/embed/gmm25",
 "playInNatPlayer": "true"
 },
 {
 "name": "CH8",
-"image": "xxxx",
-"url": "https://tv.trueid.net/embed/xxxx",
+"image": "https://cms.dmpcdn.com/livetv/2019/02/26/ebe998c5-7d25-402b-ab70-46f1ad6dcc4e.png",
+"url": "https://tv.trueid.net/embed/ch8",
 "playInNatPlayer": "true"
 },
 {
 "name": "MONO29",
-"image": "xxxx",
-"url": "https://tv.trueid.net/embed/xxxx",
+"image": "https://cms.dmpcdn.com/livetv/2019/01/10/35a35017-8473-4953-8474-5c58d805b74a.png",
+"url": "https://tv.trueid.net/embed/mono29",
 "playInNatPlayer": "true"
 },
 {
 "name": "MCOT",
-"image": "xxxx",
-"url": "https://tv.trueid.net/embed/xxxx",
+"image": "https://cms.dmpcdn.com/livetv/2019/01/16/482a2a27-3942-4356-8f12-4aec229badc6.png",
+"url": "https://tv.trueid.net/embed/9mcot-hd",
 "playInNatPlayer": "true"
 },
 {
 "name": "ONE31",
-"image": "xxxx",
-"url": "https://tv.trueid.net/embed/xxxx",
+"image": "https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2019%2F01%2F16%2F396384be-35dc-4d11-bf04-06c9546ec7bc.png&w=320&h=240",
+"url": "https://tv.trueid.net/embed/one-hd",
 "playInNatPlayer": "true"
 },
 {
 "name": "THAIRATH",
-"image": "xxxx",
-"url": "https://tv.trueid.net/embed/xxxx",
+"image": "https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2019%2F03%2F15%2F8761bb82-f902-4372-8b9f-34b019d36fb7.png&w=320&h=240",
+"url": "https://tv.trueid.net/embed/thairathtv-hd",
 "playInNatPlayer": "true"
 },
 {
 "name": "CH3",
-"image": "xxxx",
-"url": "https://tv.trueid.net/embed/xxxx",
+"image": "https://cms.dmpcdn.com/livetv/2020/06/23/c93cf2c0-b54f-11ea-8fac-236a281cd6c5_original.png",
+"url": "https://tv.trueid.net/embed/ch3-hd",
 "playInNatPlayer": "true"
 },
 {
 "name": "AMARINT",
-"image": "xxxx",
-"url": "https://tv.trueid.net/embed/xxxx",
+"image": "https://cms.dmpcdn.com/livetv/2019/01/10/02ef58a7-a848-485c-abfa-dd3d7a74a8b2.png",
+"url": "https://tv.trueid.net/embed/amarintv-hd",
 "playInNatPlayer": "true"
 },
 {
 "name": "CH7",
-"image": "xxxx",
-"url": "https://tv.trueid.net/embed/xxxx",
+"image": "https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2019%2F01%2F10%2F1b6b5ad2-a97c-4935-886a-bc6c60073f67.png&w=320&h=240",
+"url": "https://tv.trueid.net/embed/ch7-hd",
 "playInNatPlayer": "true"
 },
 {
 "name": "PPTV",
-"image": "xxxx",
-"url": "https://tv.trueid.net/embed/xxxx",
+"image": "https://cms.dmpcdn.com/livetv/2019/01/10/abe06a83-1e37-4dd7-aa4b-29c728954d90.png",
+"url": "https://tv.trueid.net/embed/pptv-hd",
 "playInNatPlayer": "true"
 },
 
 
 {
 "name": "มังกร",
-"image": "xxxx",
-"url": "https://tv.trueid.net/embed/xxxx",
+"image": "https://cms.dmpcdn.com/livetv/2019/04/11/19b4bd2a-750c-4ee6-9d41-5080e1310bc3_original.png",
+"url": "https://tv.trueid.net/embed/Mangorn",
 "playInNatPlayer": "true"
 },
 {
 "name": "M CHANNEL",
-"image": "xxxx",
-"url": "https://tv.trueid.net/embed/xxxx",
+"image": "https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2019%2F01%2F19%2F2171eaf4-036c-4958-ac0f-9d170d1faedf.png&w=320&h=240",
+"url": "https://tv.trueid.net/embed/mchannel",
 "playInNatPlayer": "true"
 },
 {
 "name": "MIX MAJOR",
-"image": "xxxx",
-"url": "https://tv.trueid.net/embed/xxxx",
+"image": "https://cms.dmpcdn.com/livetv/2020/06/23/33fa6340-b550-11ea-8fac-236a281cd6c5_original.png",
+"url": "https://tv.trueid.net/embed/majorchannel",
 "playInNatPlayer": "true"
 },
 {
 "name": "zeeหนัง",
-"image": "xxxx",
-"url": "https://tv.trueid.net/embed/xxxx",
+"image": "https://cms.dmpcdn.com/livetv/2020/06/23/1acff970-b550-11ea-8fac-236a281cd6c5_320.png",
+"url": "https://tv.trueid.net/embed/zee-nung",
 "playInNatPlayer": "true"
 },
 {
 "name": "JKN TV",
-"image": "xxxx",
-"url": "https://tv.trueid.net/embed/xxxx",
+"image": "https://cms.dmpcdn.com/livetv/2020/10/19/6d3c86f0-11b8-11eb-ab84-d705c02e81b2_320.png",
+"url": "https://tv.trueid.net/embed/jknchannel",
 "playInNatPlayer": "true"
 },
 
@@ -163,52 +163,58 @@
 
 {
 "name": "TRUE MUSIC HD",
-"image": "xxxx",
-"url": "https://tv.trueid.net/embed/xxxx",
+"image": "https://cms.dmpcdn.com/livetv/2018/12/17/bff4c21a-7714-4f37-8c90-7f46c8337192.png",
+"url": "https://tv.trueid.net/embed/true-music-channel-hd",
 "playInNatPlayer": "true"
 },
 {
 "name": "VERY",
-"image": "xxxx",
-"url": "https://tv.trueid.net/embed/xxxx",
+"image": "https://cms.dmpcdn.com/livetv/2018/12/17/8b311ba7-dccd-45cb-9b1f-dffca6ee98e2.png",
+"url": "https://tv.trueid.net/embed/verytv",
 "playInNatPlayer": "true"
 },
 {
 "name": "THAIไทย",
-"image": "xxxx",
-"url": "https://tv.trueid.net/embed/xxxx",
+"image": "https://cms.dmpcdn.com/livetv/2018/12/17/3c46870c-8069-494f-a3c4-4f878e7c348e.png",
+"url": "https://tv.trueid.net/embed/thaithai",
 "playInNatPlayer": "true"
 },
 {
 "name": "สบายดี TV",
-"image": "xxxx",
-"url": "https://tv.trueid.net/embed/xxxx",
+"image": "https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2019%2F01%2F19%2Fefd05f53-ede6-4141-8ed9-275a4d8e33f4.png&w=320&h=240",
+"url": "https://tv.trueid.net/embed/sabaideetv",
 "playInNatPlayer": "true"
 },
 {
 "name": "FAN TV",
-"image": "xxxx",
-"url": "https://tv.trueid.net/embed/xxxx",
+"image": "https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2019%2F01%2F19%2Fef0c5b42-e46f-490c-83d5-8e660f66fb07.png&w=320&h=240",
+"url": "https://tv.trueid.net/embed/fantv",
+"playInNatPlayer": "true"
+},
+{
+"name": "LAOS STAR",
+"image": "https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2017%2F10%2F18%2F9b807931-1c79-454b-8854-d5ea22c0735c.png&w=320&h=240",
+"url": "https://tv.trueid.net/embed/laostarchannel",
 "playInNatPlayer": "true"
 },
 
 
 {
 "name": "TRUE INSIDE HD",
-"image": "xxxx",
-"url": "https://tv.trueid.net/embed/xxxx",
+"image": "https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2018%2F12%2F17%2F17357408-dc10-45f1-bff5-c9ab4807a2c0.png&w=320&h=240",
+"url": "https://tv.trueid.net/embed/true-inside-hd",
 "playInNatPlayer": "true"
 },
 {
 "name": "TRUE SHOPPING",
-"image": "xxxx",
-"url": "https://tv.trueid.net/embed/xxxx",
+"image": "https://cms.dmpcdn.com/livetv/2018/12/17/0c30b192-953b-49b9-a9bf-a4c6e3e71de3.png",
+"url": "https://tv.trueid.net/embed/true-select-hd",
 "playInNatPlayer": "true"
 },
 {
 "name": "TRUE SELECT",
-"image": "xxxx",
-"url": "https://tv.trueid.net/embed/xxxx",
+"image": "https://cms.dmpcdn.com/livetv/2019/02/28/a9490c72-7387-4409-b5a8-80db28585ca4.png",
+"url": "https://tv.trueid.net/embed/true-select",
 "playInNatPlayer": "true"
 },
 
@@ -224,14 +230,14 @@
 },
 {
 "name": "CARTOON CLUB",
-"image": "xxxx",
-"url": "https://tv.trueid.net/embed/xxxx",
+"image": "https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2019%2F01%2F21%2Fa01a26bb-ed4a-45c5-88a9-ff30f6bbb039.png&w=320&h=240",
+"url": "https://tv.trueid.net/embed/cartoonclub",
 "playInNatPlayer": "true"
 },
 {
 "name": "TOONEE",
-"image": "xxxx",
-"url": "https://tv.trueid.net/embed/xxxx",
+"image": "https://cms.dmpcdn.com/livetv/2020/09/03/4c26a640-ede0-11ea-bbdd-775d9efe2958_original.png",
+"url": "https://tv.trueid.net/embed/TOONEE",
 "playInNatPlayer": "true"
 },
 
@@ -239,29 +245,28 @@
 
 {
 "name": "TRUEปลูกปัญญา",
-"image": "xxxx",
-"url": "https://tv.trueid.net/embed/xxxx",
+"image": "https://cms.dmpcdn.com/livetv/2018/12/17/1d7dc8be-49df-46c7-ac16-4847229c6ab9.png",
+"url": "https://tv.trueid.net/embed/trueplookpanya",
 "playInNatPlayer": "true"
 },
 {
 "name": "สามเณรปลูกปัญญาธรรม",
-"image": "xxxx",
-"url": "https://tv.trueid.net/embed/xxxx",
-"playInNatPlayer": "true"
-},
-{
-"name": "ธรรมะวัดสังฆทาน",
-"image": "xxxx",
-"url": "https://tv.trueid.net/embed/xxxx",
+"image": "https://cms.dmpcdn.com/livetv/2020/04/21/b78d55f0-83af-11ea-9a0e-4bf114629baf_320.png",
+"url": "https://tv.trueid.net/embed/realitychannel-hd",
 "playInNatPlayer": "true"
 },
 {
 "name": "ธรรมะทีวี",
-"image": "xxxx",
-"url": "https://tv.trueid.net/embed/xxxx",
+"image": "https://cms.dmpcdn.com/livetv/2020/06/23/816989d0-b550-11ea-8fac-236a281cd6c5_320.png",
+"url": "https://tv.trueid.net/embed/dharmatv",
 "playInNatPlayer": "true"
 },
-
+{
+"name": "ธรรมะวัดสังฆทาน",
+"image": "https://cms.dmpcdn.com/livetv/2020/06/23/699b0680-b550-11ea-8fac-236a281cd6c5_320.png",
+"url": "https://tv.trueid.net/embed/sbbtv999",
+"playInNatPlayer": "true"
+},
 
 
 
