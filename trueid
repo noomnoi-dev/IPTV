@@ -13,8 +13,8 @@
 "image": "http://www.tv5.co.th/tv5hd1-build91209/img/logo/tv5hd1_logo.png",
 "url": "https://tv.trueid.net/embed/ch5",
 "referer": "https://tv.trueid.net",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36",
-"isHost": true
+"userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git",
+"playInNatPlayer": "true"
 },
 
 
