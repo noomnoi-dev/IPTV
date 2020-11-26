@@ -15,6 +15,42 @@
 "playInNatPlayer": "true"
 },
 {
+"name": "NBT",
+"image": "xxxx",
+"url": "https://tv.trueid.net/embed/nbt",
+"playInNatPlayer": "true"
+},
+{
+"name": "TPBS",
+"image": "xxxx",
+"url": "https://tv.trueid.net/embed/thaipbs",
+"playInNatPlayer": "true"
+},
+{
+"name": "ALTV 4",
+"image": "xxxx",
+"url": "https://tv.trueid.net/embed/altv",
+"playInNatPlayer": "true"
+},
+{
+"name": "TPTV",
+"image": "http://live.parliament.go.th/images/logo-trans.png",
+"url": "https://tv.trueid.net/embed/tptv",
+"playInNatPlayer": "true"
+},
+{
+"name": "TNN 16",
+"image": "https://cms.dmpcdn.com/livetv/2020/06/15/799524c0-aec1-11ea-a6df-39e5f68ac856_320.png",
+"url": "https://tv.trueid.net/embed/tnn16",
+"playInNatPlayer": "true"
+},
+{
+"name": "New 18",
+"image": "https://cms.dmpcdn.com/livetv/2020/03/13/cf42eb70-64e1-11ea-8884-dfd81909e81a_320.png",
+"url": "https://tv.trueid.net/embed/newtv",
+"playInNatPlayer": "true"
+},
+{
 "name": "จ๊ะทิงจา",
 "image": "https://www.tvjaa.com/storage/tv-channels/jatingja.png",
 "url": "https://tv.trueid.net/embed/jatingjatv",
