@@ -101,20 +101,19 @@
 "image": "https://seeklogo.com/images/C/cinema-logo-53411DFFE5-seeklogo.com.png",
 "url": "http://tiny.cc/worldmovie",
 "import": false
-},		
-{
-"name": "MOVIES ON APPS",
-"image": "https://deadline.com/wp-content/uploads/2019/11/appletv-hbo-max-bet-disney-netflix-amazon-peacock.jpg",
-"url": "http://tiny.cc/appmovies",
-"import": false
-},			
+},					
 {
 "name": "ANIMATION MOVIES",
 "image": "https://i.imgur.com/FwbJq4q.jpg",
 "url": "http://tiny.cc/m_cartoons",
 "import": false
 },
-
+{
+"name": "หนังที่ผมชอบ",
+"image": "https://i2.wp.com/www.socialnews.xyz/wp-content/uploads/2020/04/03/handpicked-psychological-thriller-suggestions-on-netflix-scaled.jpg",
+"url": "http://tiny.cc/myhorror",
+"import": false
+},
 
 		
 ]
