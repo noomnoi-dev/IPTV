@@ -97,23 +97,24 @@
 "import": false
 },
 {
-"name": "หนังต่างประเทศ",
-"image": "https://www.pellegrino.com.br/sites/default/files/world%20film.jpg",
+"name": "CINEMA MOVIES",
+"image": "https://seeklogo.com/images/C/cinema-logo-53411DFFE5-seeklogo.com.png",
 "url": "http://tiny.cc/worldmovie",
 "import": false
-},	
+},		
 {
-"name": "หนังการ์ตูน",
-"image": "https://media2.popsugar-assets.com/files/thumbor/vvksoNPKZjeTc9U4QudsGPijtSY/fit-in/550x550/filters:format_auto-!!-:strip_icc-!!-/2012/12/50/2/192/1922283/74b8a7f8d29a353b_cover1.JPG",
-"url": "http://tiny.cc/m_cartoons",
-"import": false
-},	
-{
-"name": "หนังที่ผมชอบ",
-"image": "https://i2.wp.com/www.socialnews.xyz/wp-content/uploads/2020/04/03/handpicked-psychological-thriller-suggestions-on-netflix-scaled.jpg",
-"url": "http://tiny.cc/myhorror",
+"name": "MOVIES ON APPS",
+"image": "https://deadline.com/wp-content/uploads/2019/11/appletv-hbo-max-bet-disney-netflix-amazon-peacock.jpg",
+"url": "http://tiny.cc/appmovies",
 "import": false
 },			
+{
+"name": "ANIMATION MOVIES",
+"image": "https://i.imgur.com/FwbJq4q.jpg",
+"url": "http://tiny.cc/m_cartoons",
+"import": false
+},
+
 
 		
 ]
