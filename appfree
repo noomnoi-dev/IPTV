@@ -2,7 +2,7 @@
 "name": "ติดตาม@YOUTUBE:แอนดรอยด์แอพฟรี",
 "author": "โดย@กระเทียม สุรินทร์",
 "image": "https://res06.noxgroup.com/noxinfluencer/youtube/avatar/f6e180da4f51e8fb1c0423106a64bd16.png",
-"url": "https://raw.githubusercontent.com/konhuafuu315/IPTV/master/MAIN2",
+"url": "https://raw.githubusercontent.com/konhuafuu315/IPTV/master/appfree",
 "groups": [
 
 {
@@ -102,19 +102,17 @@
 "import": false
 },	
 {
-"name": "หนังการ์ตูน",
-"image": "https://media2.popsugar-assets.com/files/thumbor/vvksoNPKZjeTc9U4QudsGPijtSY/fit-in/550x550/filters:format_auto-!!-:strip_icc-!!-/2012/12/50/2/192/1922283/74b8a7f8d29a353b_cover1.JPG",
+"name": "ANIMATION MOVIES",
+"image": "https://i.imgur.com/FwbJq4q.jpg",
 "url": "http://tiny.cc/m_cartoons",
 "import": false
-},	
+},
 {
 "name": "หนังที่ผมชอบ",
-"image": "https://i2.wp.com/www.socialnews.xyz/wp-content/uploads/2020/04/03/handpicked-psychological-thriller-suggestions-on-netflix-scaled.jpg",
-"url": "http://tiny.cc/myhorror",
+"image": "https://assets.website-files.com/5c87e2843af90394906e4545/5c87e73db774e4a2d4202a71_LOGO-p-800.png",
+"url": "http://tiny.cc/mymov",
 "import": false
-},	
-
-
+},
 
 
 
