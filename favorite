@@ -2,7 +2,7 @@
 "name": "หนังที่ผมชอบ YT@แอนดรอยด์แอพฟรี",
 "author": "ติดตาม@YOUTUBE:แอนดรอยด์แอพฟรี",
 "image": "http://peppermedia.gr/wp-content/uploads/2019/11/The_HORRO%D0%AF_Channel.png",
-"url": "https://raw.githubusercontent.com/konhuafuu315/IPTV/master/horror",
+"url": "https://raw.githubusercontent.com/konhuafuu315/IPTV/master/favorite",
 "stations": [
 
 
@@ -159,6 +159,12 @@
 	"url": "https://ww5.fmovie.sc/online/cabin-fever-2016/watching.html/?ep=10",
 	"playInNatPlayer": "true"
 	},
+{
+"name": "The Revenant (2015)",  
+"image": "https://m.media-amazon.com/images/M/MV5BMDE5OWMzM2QtOTU2ZS00NzAyLWI2MDEtOTRlYjIxZGM0OWRjXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SX178_AL_.jpg",  
+"url": "https://123moviesfree.net/movie/the-revenant-7336/watching.html",
+"playInNatPlayer": "true"
+},
 	{
 	"name": "Desierto 2015",  
 	"image": "https://movie285.com/wp-content/uploads/2019/06/748.jpg",  
@@ -286,6 +292,12 @@
 	"url": "https://123moviesfree.net/movie/hostel-part-ii-6327/watching.html",
 	"playInNatPlayer": "true"
 	},
+{
+"name": "Apocalypto (2006)",  
+"image": "https://m.media-amazon.com/images/M/MV5BMzhmNGMzMDMtZDM0Yi00MmVmLWExYjAtZDhjZjcxZDM0MzJhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SY264_CR0,0,178,264_AL_.jpg",  
+"url": "https://123moviesfree.net/movie/apocalypto-4755/watching.html",
+"playInNatPlayer": "true"
+},
 	{
 	"name": "Cold Prey 2006",  
 	"image": "https://images-na.ssl-images-amazon.com/images/I/516EBn9te2L._AC_SY400_.jpg",  
