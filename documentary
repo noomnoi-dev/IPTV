@@ -8,7 +8,7 @@
   
 
 {
-"name": "26 November 2020",  
+"name": "28 November 2020",  
 "image": "https://seo-web.aun-thai.co.th/wp-content/uploads/2018/01/update-1672353_960_720-e1516173341277.png",  
 "url": "https://androidtvtech.blogspot.com/",
 "playInNatPlayer": "true"
@@ -113,10 +113,17 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "World Animal",
-"image": "https://il.mahidol.ac.th/upload/img/2020-08-31-011449.jpg",
-"url": "http://203.154.243.32:8088/live/wanimal/index.m3u8",
-"userAgent": "exoplayer_video",
+"name": "Animal Planet USA",
+"image": "https://d3dh6of9cnaq4t.cloudfront.net/Pictures/480xAny/7/3/5/6735_animalplanetnewlogo2018_906859.jpg",
+"url": "https://ustvgo.tv/animal-planet-live/",
+"referer": "https://ustvgo.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Science USA",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Science_Channel_2016.png/200px-Science_Channel_2016.png",
+"url": "https://ustvgo.tv/science/",
+"referer": "https://ustvgo.tv/",
 "playInNatPlayer": "true"
 },
 {
