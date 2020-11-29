@@ -323,24 +323,25 @@
 	"url": "https://123moviesfree.net/movie/wolf-creek-2251/watching.html",
 	"playInNatPlayer": "true"
 	},
-	{
-	"name": "Land Of The Dead 2005",  
-	"image": "https://m.media-amazon.com/images/M/MV5BNzU1MDI1NDM1NF5BMl5BanBnXkFtZTcwMzU5OTkyMQ@@._V1_SX178_AL_.jpg",  
-	"url": "https://123moviesfree.net/movie/land-of-the-dead-10927/watching.html",
-	"playInNatPlayer": "true"
-	},
-	{
-	"name": "Dawn Of The Dead 2004",  
-	"image": "https://m.media-amazon.com/images/M/MV5BN2M2ZmU2OGQtNmU5Yi00MTIyLTgwNWMtYjljMzZlYTdiNjBhXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SY264_CR0,0,178,264_AL_.jpg",  
-	"url": "https://123moviesfree.net/movie/dawn-of-the-dead-4589/watching.html",
-	"playInNatPlayer": "true"
-	},
-	{
-	"name": "Wrong Turn 1 2003",  
-	"image": "https://movie285.com/wp-content/uploads/2019/08/1431.jpg",  
-	"url": "https://ww5.fmovie.sc/online/wrong-turn-2003/watching.html/?ep=7",
-	"playInNatPlayer": "true"
-	},
+{
+"name": "Land Of The Dead 2005",  
+"image": "https://m.media-amazon.com/images/M/MV5BNzU1MDI1NDM1NF5BMl5BanBnXkFtZTcwMzU5OTkyMQ@@._V1_SX178_AL_.jpg",  
+"url": "https://123moviesfree.net/movie/land-of-the-dead-10927/watching.html",
+"playInNatPlayer": "true"
+},
+{
+"name": "Dawn Of The Dead 2004",  
+"image": "https://m.media-amazon.com/images/M/MV5BN2M2ZmU2OGQtNmU5Yi00MTIyLTgwNWMtYjljMzZlYTdiNjBhXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SY264_CR0,0,178,264_AL_.jpg",  
+"url": "https://123moviesfree.net/movie/dawn-of-the-dead-4589/watching.html",
+"playInNatPlayer": "true"
+},
+{
+"name": "Wrong Turn 1 2003",  
+"image": "https://movie285.com/wp-content/uploads/2019/08/1431.jpg",  
+"url": "https://ww5.fmovie.sc/online/wrong-turn-2003/watching.html/?ep=7",
+"subtitle": "https://raw.githubusercontent.com/konhuafuu315/subtitles/main/wrongturn(2003)EN",
+"playInNatPlayer": "true"
+},
 
 
   ]
