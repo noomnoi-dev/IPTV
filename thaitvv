@@ -89,13 +89,6 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "VOICE TV",
-"image": "https://upload.wikimedia.org/wikipedia/commons/4/4d/VoiceTV.png",
-"url": "https://www.mvtv.co.th/channel/v2h2",
-"referer": "https://www.mvtv.co.th/",
-"playInNatPlayer": "true"
-},
-{
 "name": "Nation TV",
 "image": "https://www.movieclubhd.tv/src/images/live/nation_480p.jpg",
 "url": "https://www.adintrend.tv/hd/m/ch37",
@@ -298,6 +291,13 @@
 "name": "MVTV FIVE",
 "image": "https://www.mvtv.co.th/wp-content/uploads/2020/02/MVTV-FIVE.png",
 "url": "https://www.mvtv.co.th/channel/mvtv_home",
+"referer": "https://www.mvtv.co.th/",
+"playInNatPlayer": "true"
+},
+{
+"name": "V2H2",
+"image": "https://www.mvtv.co.th/wp-content/uploads/2019/06/V2H2-LOGO-PNG.png",
+"url": "https://www.mvtv.co.th/channel/v2h2",
 "referer": "https://www.mvtv.co.th/",
 "playInNatPlayer": "true"
 },
