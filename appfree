@@ -5,18 +5,19 @@
 "url": "https://raw.githubusercontent.com/konhuafuu315/IPTV/master/appfree",
 "groups": [
 
+
+{
+"name": "Subscribe",
+"image": "https://res06.noxgroup.com/noxinfluencer/youtube/avatar/f6e180da4f51e8fb1c0423106a64bd16.png",
+"url": "https://www.youtube.com/channel/UCGoZkKZOkDWMuuN7B9VfGjw",
+"import": false
+},	
 {
 "name": "ช่องดิจิตอล ทีวีไทย",
 "image": "https://images.droidsans.com/wp-content/uploads/2014/04/doodee-sticker.png",
 "url": "http://tiny.cc/thaitvv",
 "import": false
 },
-{
-"name": "TRUEID ทีวีไทย",
-"image": "https://cdn-images-1.medium.com/max/1200/1*bmojgDiLb1N0fvum300bUA.png",
-"url": "http://tiny.cc/trueid",
-"import": false
-},	
 {
 "name": "กีฬา ทรูสปอร์ต",
 "image": "https://upload.wikimedia.org/wikipedia/en/0/0d/True_Sport_Logo.png",
