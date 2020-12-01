@@ -75,35 +75,28 @@
 "name": "What Keeps You Alive 2018",  
 "image": "https://upload.wikimedia.org/wikipedia/en/1/16/What_Keeps_You_Alive.png",  
 "url": "https://lb1.one3up.com/hls/1ee381e1b9785f97d0d4e5d0d8d6cf79/1ee381e1b9785f97d0d4e5d0d8d6cf79.m3u8",
-"subtitle": "xxxx",
+"subtitle": "https://raw.githubusercontent.com/konhuafuu315/subtitles/main/whatkeepyoualive(2018)EN",
 "playInNatPlayer": "true"
 },
 {
 "name": "Hell Fest 2018",  
 "image": "https://movie2uhd.com/wp-content/uploads/2019/08/7e70f0d8147a6f5808dc9f46c256712f.jpg",  
 "url": "https://lb1.one3up.com/hls/ed747bb4915129fa6a0744aff938c2de/ed747bb4915129fa6a0744aff938c2de.m3u8",
-"subtitle": "xxxx",
-"playInNatPlayer": "true"
-},
-{
-"name": "Revenge 2018",  
-"image": "https://m.media-amazon.com/images/M/MV5BNzZhZjJlNzMtZmVlNi00MTIxLTg3OTMtMTI2NTVkYWQ4NDQyXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY264_CR0,0,178,264_AL_.jpg",  
-"url": "https://lb1.one3up.com/hls/0c7cd779272e2ed869923a3ae5595d52/0c7cd779272e2ed869923a3ae5595d52.m3u8",
-"subtitle": "xxxx",
+"subtitle": "https://raw.githubusercontent.com/konhuafuu315/subtitles/main/hellfest(2018)EN",
 "playInNatPlayer": "true"
 },
 {
 "name": "Truth Or Dare 2018",  
 "image": "https://m.media-amazon.com/images/M/MV5BOGU2YTZmMjYtZDUwYi00NTc1LTlkMjAtM2ViZDkzOTlhNGNhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX178_AL_.jpg",  
 "url": "https://ww5.fmovie.sc/online/truth-or-dare-2018/watching.html/?ep=7",
-"subtitle": "xxxx",
+"subtitle": "https://raw.githubusercontent.com/konhuafuu315/subtitles/main/truthordare(2018)EN",
 "playInNatPlayer": "true"
 },
 {
 "name": "Monster Party 2018",  
 "image": "https://m.media-amazon.com/images/M/MV5BMTNlODExNTMtNDI4MC00NGUyLTlmYzUtNWM0YzBlZWU3YjQxXkEyXkFqcGdeQXVyMjUxNzMwMTE@._V1_SY264_CR0,0,178,264_AL_.jpg",  
 "url": "https://ww5.fmovie.sc/online/monster-party-2018/watching.html/?ep=7",
-"subtitle": "xxxx",
+"subtitle": "https://raw.githubusercontent.com/konhuafuu315/subtitles/main/monsterparty(2018)EN",
 "playInNatPlayer": "true"
 },
 {
@@ -111,6 +104,13 @@
 "image": "https://m.media-amazon.com/images/M/MV5BMWJmNmRjYzgtNDk0ZC00ZDk5LTkyNGItMDY5OWU4MjU4ZTExXkEyXkFqcGdeQXVyMTA5MzEzOTg@._V1_SY264_CR0,0,178,264_AL_.jpg",  
 "url": "https://ww5.fmovie.sc/online/calibre-2017/watching.html/?ep=7",
 "subtitle": "https://raw.githubusercontent.com/konhuafuu315/subtitles/main/calibre(2018)EN",
+"playInNatPlayer": "true"
+},
+{
+"name": "Revenge 2017",  
+"image": "https://m.media-amazon.com/images/M/MV5BNzZhZjJlNzMtZmVlNi00MTIxLTg3OTMtMTI2NTVkYWQ4NDQyXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY264_CR0,0,178,264_AL_.jpg",  
+"url": "https://lb1.one3up.com/hls/0c7cd779272e2ed869923a3ae5595d52/0c7cd779272e2ed869923a3ae5595d52.m3u8",
+"subtitle": "https://raw.githubusercontent.com/konhuafuu315/subtitles/main/revenge(2017)EN",
 "playInNatPlayer": "true"
 },
 {
@@ -131,28 +131,28 @@
 "name": "WalKing Out 2017",  
 "image": "https://m.media-amazon.com/images/M/MV5BMDg3YzgxZjgtNTEzYS00OTg4LTk2MjgtNWMyOTE4MDA4NzJkXkEyXkFqcGdeQXVyNDExMzMxNjE@._V1_SY264_CR0,0,178,264_AL_.jpg",  
 "url": "https://123moviesfree.net/movie/walking-out-22195/watching.html",
-"subtitle": "xxxx",
+"subtitle": "https://raw.githubusercontent.com/konhuafuu315/subtitles/main/walkingout(2017)EN",
 "playInNatPlayer": "true"
 },
 {
 "name": "Downrange 2017",  
-"image": "https://pm1.narvii.com/7142/f4295385bc7cc47f42027dfe0ec41f4dca17043cr1-500-707v2_hq.jpg",  
+"image": "https://static4.opensubtitles.org/gfx/thumbs/8/2/2/8/6138228.jpg",  
 "url": "https://123moviesfree.net/movie/downrange-24797/watching.html",
-"subtitle": "xxxx",
+"subtitle": "https://raw.githubusercontent.com/konhuafuu315/subtitles/main/downrange(2017)EN",
 "playInNatPlayer": "true"
 },
 {
 "name": "The Shallows 2016",  
 "image": "https://images-na.ssl-images-amazon.com/images/I/51bwDcggRML._AC_.jpg",  
 "url": "https://123moviesfree.net/movie/the-shallows-13901/watching.html",
-"subtitle": "xxxx",
+"subtitle": "https://raw.githubusercontent.com/konhuafuu315/subtitles/main/theshallows(2016)EN",
 "playInNatPlayer": "true"
 },
 {
 "name": "Killing Ground 2016",  
 "image": "https://f.ptcdn.info/417/053/000/ovpe52l6kni8J4Y40hY-o.jpg",  
 "url": "https://lb1.one3up.com/hls/a310920b00093fe3daff79082e94b676/a310920b00093fe3daff79082e94b676.m3u8",
-"subtitle": "xxxx",
+"subtitle": "https://raw.githubusercontent.com/konhuafuu315/subtitles/main/killingground(2016)EN",
 "playInNatPlayer": "true"
 },
 {
@@ -180,7 +180,7 @@
 "name": "The Revenant (2015)",  
 "image": "https://m.media-amazon.com/images/M/MV5BMDE5OWMzM2QtOTU2ZS00NzAyLWI2MDEtOTRlYjIxZGM0OWRjXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SX178_AL_.jpg",  
 "url": "https://123moviesfree.net/movie/the-revenant-7336/watching.html",
-"subtitle": "xxxx",
+"subtitle": "https://raw.githubusercontent.com/konhuafuu315/subtitles/main/revenant(2015)EN",
 "playInNatPlayer": "true"
 },
 {
