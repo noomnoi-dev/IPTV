@@ -7,7 +7,7 @@
 
 
 {
-"name": "29 November 2020",  
+"name": "1 December 2020",  
 "image": "https://seo-web.aun-thai.co.th/wp-content/uploads/2018/01/update-1672353_960_720-e1516173341277.png",  
 "url": "https://androidtvtech.blogspot.com/",
 "playInNatPlayer": "true"
@@ -611,7 +611,13 @@
 "userAgent": "exoplayer_video",
 "playInNatPlayer": "true"
 },
-
+{
+"name": "Test Channel",  
+"image": "xxxc",  
+"url": "https://balllive4k.com/live/?title=%E0%B9%82%E0%B8%A2%E0%B9%82%E0%B8%81%E0%B8%AE%E0%B8%B2%E0%B8%A1%E0%B9%88%E0%B8%B2%20%E0%B8%A1%E0%B8%B2%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B8%AD%E0%B8%AA%20vs.%20%E0%B8%8A%E0%B8%B8%E0%B8%99%E0%B8%9A%E0%B8%B1%E0%B8%84%20%E0%B8%A1%E0%B8%AD%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%AA&channel=foxsport2",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
 
 
 
