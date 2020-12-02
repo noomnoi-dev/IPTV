@@ -7,7 +7,18 @@
 
 
 
-
+{
+"name": "Angelas Christmas Wish (2020)",  
+"image": "https://cdn-img.movieclub.tv/img_movies_vertical/1606874983_angelas-christmas-wish_cover.jpg",  
+"url": "https://www.all-movie.tv/Angelas%20Christmas%20Wish%20%282020%29",
+"playInNatPlayer": "true"
+},
+{
+"name": "Angelas Christmas (2017)",  
+"image": "https://cdn-img.movieclub.tv/img_movies_vertical/1543810987_cover4.jpg",  
+"url": "https://www.all-movie.tv/Angelas%20Christmas%20%20%282017%29",
+"playInNatPlayer": "true"
+},
 {
 "name": "Alien Xmas (2020)",  
 "image": "https://www.doomovie-hd.com/assets/movie_poster/8/8618b9d86d0cb4bbe5be11ae72fa5ae5.jpg",  
@@ -28,7 +39,8 @@
 {
 "name": "Dreambuilders (2020)",  
 "image": "https://cdn-img.movieclub.tv/img_movies_vertical/1604224182_1.jpg",  
-"url": "https://www.all-movie.tv/Dreambuilders%20%282020%29"
+"url": "https://www.all-movie.tv/Dreambuilders%20%282020%29",
+"playInNatPlayer": "true"
 },
 {
 "name": "The lion king (2019)",  
@@ -78,17 +90,9 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "โดเรมอน เดอะมูฟวี่ กำเนิดประเทศญี่ปุ่น ",
-"image": "https://www.doomovie-hd.com/assets/movie_poster/d/dc11bdb21f55244a3f1fbe03bb90404c.jpg",
-"url": "https://cdn.livedoomovies.com/hls/c2052fb59a41dc3f69c5fe2e3d6d137e/c2052fb59a41dc3f69c5fe2e3d6d137e.m3u8",
-"userAgent": "exoplayer_video",
-"playInNatPlayer": "true"
-},
-{
-"name": "โดราเอมอน เดอะมูฟวี่ ตอน ท่องอาณาจักรโฮ่งเหมียว",
-"image": "https://www.doomovie-hd.com/assets/movie_poster/import/poster_5444f14d8d2a00_15726394.jpg",
-"url": "https://cdn.livedoomovies.com/hls/aa17887ddd8872adfd02fc0f1fb750e2/aa17887ddd8872adfd02fc0f1fb750e2.m3u8",
-"userAgent": "exoplayer_video",
+"name": "Arctic Justice (2019)",  
+"image": "https://cdn-img.movieclub.tv/img_movies_vertical/1606633202_1.jpg",  
+"url": "https://www.all-movie.tv/Arctic%20Justice%20%282019%29",
 "playInNatPlayer": "true"
 },
 {
@@ -136,27 +140,6 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "Pokemon The Movie 08 มิวและอัศวินคลื่นพลัง",
-"image": "https://www.doomovie-hd.com/assets/movie_poster/import/poster_57b79f53e45db5_16907312.jpg",
-"url": "https://cdn.livedoomovies.com/hls/11c3cf5af3b45b9e897647467b3ef52e/11c3cf5af3b45b9e897647467b3ef52e.m3u8",
-"userAgent": "exoplayer_video",
-"playInNatPlayer": "true"
-},
-{
-"name": "Pokemon The Movie 09 โปเกมอนเรนเจอร์กับเจ้าชายแห่งท้องทะเล มานาฟี้",
-"image": "https://www.doomovie-hd.com/assets/movie_poster/import/poster_57ba3860b3cf19_84490851.jpg",
-"url": "https://cdn.livedoomovies.com/playlist/5718e80570631106940b6c8bc5321238/1605348105993.m3u8",
-"userAgent": "exoplayer_video",
-"playInNatPlayer": "true"
-},
-{
-"name": "Pokemon the Movie - อภิมหาศึกฮูปาถล่มโลก",
-"image": "https://www.doomovie-hd.com/assets/movie_poster/import/poster_57003fb61c9424_85035861.jpg",
-"url": "https://cdn.livedoomovies.com/hls/6cbcf91e186fd4110946af5a14f639d8/6cbcf91e186fd4110946af5a14f639d8.m3u8",
-"userAgent": "exoplayer_video",
-"playInNatPlayer": "true"
-},
-{
 "name": "อาถรรพ์วันคริสต์มาส (2009)",  
 "image": "https://cdn-img.movieclub.tv/img_movies_vertical/1602578177_a-christmas-carol_cover.jpg",  
 "url": "https://www.all-movie.tv/A%20Christmas%20Carol%20%282009%29"
@@ -172,14 +155,47 @@
 "url": "https://cdn.livedoomovies.com/hls/9c85be31458c5b947e83acdc86a3f858/9c85be31458c5b947e83acdc86a3f858.m3u8"
 },
 {
-"name": "Flavours of Youth วัยแห่งฝันงดงาม",  
-"image": "https://doomovieth.com/images/movie/6jspvgpghJJa0ZI69bUcyqXDQhCA21E1533608931_cov.jpg",  
-"url": "https://cdn-21.vip-streaming.com:30443/doomovieth/2-ssd/movie/store-5/Flavours_of_Youth_International_Version_2018.mp4/chunk.m3u8"
+"name": "Ice Age (2002)",  
+"image": "https://m.media-amazon.com/images/M/MV5BMmYxZWY2NzgtYzJjZC00MDFmLTgxZTctMjRiYjdjY2FhODg3XkEyXkFqcGdeQXVyNjk1Njg5NTA@._V1_UX182_CR0,0,182,268_AL_.jpg",  
+"url": "https://www.all-movie.tv/Ice%20Age%20%E0%B9%80%E0%B8%88%E0%B8%B2%E0%B8%B0%E0%B8%A2%E0%B8%B8%E0%B8%84%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B9%81%E0%B8%82%E0%B9%87%E0%B8%87%E0%B8%A1%E0%B8%AB%E0%B8%B1%E0%B8%A8%E0%B8%88%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B9%8C%20%E0%B8%A0%E0%B8%B2%E0%B8%84%201",
+"playInNatPlayer": "true"
 },
-
-
-
-
+{
+"name": "Ice Age: The Meltdown (2006)",  
+"image": "https://m.media-amazon.com/images/M/MV5BMjAwODg3OTAxMl5BMl5BanBnXkFtZTcwMjg2NjYyMw@@._V1_UX182_CR0,0,182,268_AL_.jpg",  
+"url": "https://www.all-movie.tv/Ice%20Age%20%E0%B9%80%E0%B8%88%E0%B8%B2%E0%B8%B0%E0%B8%A2%E0%B8%B8%E0%B8%84%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B9%81%E0%B8%82%E0%B9%87%E0%B8%87%E0%B8%A1%E0%B8%AB%E0%B8%B1%E0%B8%A8%E0%B8%88%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B9%8C%20%E0%B8%A0%E0%B8%B2%E0%B8%84%202",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ice Age: Dawn of the Dinosaurs (2009)",  
+"image": "https://m.media-amazon.com/images/M/MV5BMTMzNDkzMTcyOV5BMl5BanBnXkFtZTcwNDIzMjM2MQ@@._V1_UY268_CR1,0,182,268_AL_.jpg",  
+"url": "https://www.all-movie.tv/Ice%20Age%20%E0%B9%80%E0%B8%88%E0%B8%B2%E0%B8%B0%E0%B8%A2%E0%B8%B8%E0%B8%84%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B9%81%E0%B8%82%E0%B9%87%E0%B8%87%E0%B8%A1%E0%B8%AB%E0%B8%B1%E0%B8%A8%E0%B8%88%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B9%8C%20%E0%B8%A0%E0%B8%B2%E0%B8%84%203",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ice Age: A Mammoth Christmas (2011)",  
+"image": "https://m.media-amazon.com/images/M/MV5BYTMzMjZhNjAtZDBmMS00MzA0LTljNjUtZGNlMGNiYTc5ODg4XkEyXkFqcGdeQXVyNTE0MDY4Mjk@._V1_UY268_CR4,0,182,268_AL_.jpg",  
+"url": "https://www.all-movie.tv/Ice%20Age%20%E0%B9%80%E0%B8%88%E0%B8%B2%E0%B8%B0%E0%B8%A2%E0%B8%B8%E0%B8%84%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B9%81%E0%B8%82%E0%B9%87%E0%B8%87%E0%B8%A1%E0%B8%AB%E0%B8%B1%E0%B8%A8%E0%B8%88%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B9%8C%20Special",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ice Age: Continental Drift (2012)",  
+"image": "https://m.media-amazon.com/images/M/MV5BMTM3NDM5MzY5Ml5BMl5BanBnXkFtZTcwNjExMDUwOA@@._V1_UX182_CR0,0,182,268_AL_.jpg",  
+"url": "https://www.all-movie.tv/Ice%20Age%20%E0%B9%80%E0%B8%88%E0%B8%B2%E0%B8%B0%E0%B8%A2%E0%B8%B8%E0%B8%84%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B9%81%E0%B8%82%E0%B9%87%E0%B8%87%E0%B8%A1%E0%B8%AB%E0%B8%B1%E0%B8%A8%E0%B8%88%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B9%8C%20%E0%B8%A0%E0%B8%B2%E0%B8%84%204",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ice Age: Collision Course (2016)",  
+"image": "https://m.media-amazon.com/images/M/MV5BMzFjYWM5NzgtMGIwMi00MmE3LWE3NTgtNmIwMmRkNmFmYzJkXkEyXkFqcGdeQXVyNDQ2MTMzODA@._V1_UX182_CR0,0,182,268_AL_.jpg",  
+"url": "https://www.all-movie.tv/Ice%20Age:%20Collision%20Course%20%E0%B9%84%E0%B8%AD%E0%B8%8B%E0%B9%8C%20%E0%B9%80%E0%B8%AD%E0%B8%88%205:%20%E0%B8%9C%E0%B8%88%E0%B8%8D%E0%B8%AD%E0%B8%B8%E0%B8%81%E0%B8%81%E0%B8%B2%E0%B8%9A%E0%B8%B2%E0%B8%95%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B8%AD%E0%B8%A5%E0%B9%80%E0%B8%A7%E0%B8%87%20%282016%29",
+"playInNatPlayer": "true"
+},
+{
+"name": "xxxx",  
+"image": "xxxx",  
+"url": "xxxx",
+"playInNatPlayer": "true"
+},
 
 
     ]    
