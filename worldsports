@@ -7,7 +7,7 @@
 
 
 {
-"name": "1 December 2020",  
+"name": "4 December 2020",  
 "image": "https://seo-web.aun-thai.co.th/wp-content/uploads/2018/01/update-1672353_960_720-e1516173341277.png",  
 "url": "https://androidtvtech.blogspot.com/",
 "playInNatPlayer": "true"
@@ -22,6 +22,13 @@
 "playInNatPlayer": "true"
 },
 {
+"name": "Sky Premiere League สำรอง",  
+"image": "http://runnel.ir/ax/logo/sky-sports-premier-league.jpg",  
+"url": "https://ball8k.com/m/ch.php?stream=skysportpremiere",
+"referer": "https://ball8k.com/",
+"playInNatPlayer": "true"
+},
+{
 "name": "Sky Sports Main Event",  
 "image": "http://runnel.ir/ax/logo/sky-sports-main-event.jpg",  
 "url": "https://embed-dev.blackboxsys.net/player.php?channel=uk-skysports-mainevent&api_key=hmcb4rf66f",
@@ -29,10 +36,24 @@
 "playInNatPlayer": "true"
 },
 {
+"name": "Sky Main Event สำรอง",  
+"image": "http://runnel.ir/ax/logo/sky-sports-main-event.jpg",  
+"url": "https://ball8k.com/m/ch.php?stream=skysportmainevent",
+"referer": "https://ball8k.com/",
+"playInNatPlayer": "true"
+},
+{
 "name": "Sky Sports Football",  
 "image": "http://runnel.ir/ax/logo/sky-sports-football.jpg",  
 "url": "https://embed-dev.blackboxsys.net/player.php?channel=uk-skysports-football&api_key=hmcb4rf66f",
 "referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Sky Football สำรอง",  
+"image": "http://runnel.ir/ax/logo/sky-sports-football.jpg",  
+"url": "https://ball8k.com/m/ch.php?stream=skysportfootball",
+"referer": "https://ball8k.com/",
 "playInNatPlayer": "true"
 },
 {
