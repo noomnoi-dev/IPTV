@@ -348,6 +348,18 @@
 },
 
 {
+"name": "MUTV",  
+"image": "https://seeklogo.com/images/M/MUTV-logo-1DB9C16AFC-seeklogo.com.png ",  
+"url": "https://www.lineballsod.com/doball/live-ch26a/",
+"playInNatPlayer": "true"
+},
+{
+"name": "LFCTV",  
+"image": "https://upload.wikimedia.org/wikipedia/en/1/1f/LFC_TV_logo.png",  
+"url": "https://www.lineballsod.com/doball/live-ch27/",
+"playInNatPlayer": "true"
+},
+{
 "name": "FC BAYERN.TV",  
 "image": "https://fcbayern.com/fcb/assets/favicon/mstile-310x310.png",  
 "url": "https://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/6000/t/wPWuj7PJbQj6MbHjb-7PzA/master.m3u8",
