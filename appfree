@@ -14,12 +14,6 @@
 "import": false
 },
 {
-"name": "TRUEID ทีวีไทย",
-"image": "https://cdn-images-1.medium.com/max/1200/1*bmojgDiLb1N0fvum300bUA.png",
-"url": "http://tiny.cc/trueid",
-"import": false
-},
-{
 "name": "กีฬา ทรูสปอร์ต",
 "image": "https://upload.wikimedia.org/wikipedia/en/0/0d/True_Sport_Logo.png",
 "url": "http://tiny.cc/truesports",
@@ -107,6 +101,12 @@
 "name": "ANIMATION MOVIES",
 "image": "https://i.imgur.com/FwbJq4q.jpg",
 "url": "http://tiny.cc/m_cartoons",
+"import": false
+},
+{
+"name": "หนังดังยอดฮิต",
+"image": "https://static.wikia.nocookie.net/logopedia/images/a/a8/HiT_Movies_Logo.png",
+"url": "http://tiny.cc/hitzmovies",
 "import": false
 },
 {
