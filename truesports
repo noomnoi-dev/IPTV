@@ -7,7 +7,7 @@
 	  
 
 {
-"name": "1 December 2020",  
+"name": "5 December 2020",  
 "image": "https://seo-web.aun-thai.co.th/wp-content/uploads/2018/01/update-1672353_960_720-e1516173341277.png",  
 "url": "https://androidtvtech.blogspot.com/",
 "playInNatPlayer": "true"
@@ -20,7 +20,14 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "EPL1 สำรอง",
+"name": "EPL1 สำรอง 1",  
+"image": "https://www.i99win.com/wp-content/uploads/2019/08/tpf1.jpg",  
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=epl-1&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EPL1 สำรอง 2",
 "image": "https://www.i99win.com/wp-content/uploads/2019/08/tpf1.jpg",
 "url": "https://www.doomovie-hd.com/?r=tv_view&id=151",
 "referer": "https://www.doomovie-hd.com/",
@@ -34,7 +41,14 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "EPL2 สำรอง",
+"name": "EPL2 สำรอง 1",  
+"image": "https://www.i99win.com/wp-content/uploads/2019/08/tpf2.jpg",  
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=epl-2&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EPL2 สำรอง 2",
 "image": "https://www.i99win.com/wp-content/uploads/2019/08/tpf2.jpg",
 "url": "https://www.doomovie-hd.com/?r=tv_view&id=152",
 "referer": "https://www.doomovie-hd.com/",
@@ -48,7 +62,14 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "EPL3 สำรอง",
+"name": "EPL3 สำรอง 1",  
+"image": "https://www.i99win.com/wp-content/uploads/2019/08/tpf3.jpg",  
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=epl-3&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EPL3 สำรอง 2",
 "image": "https://www.i99win.com/wp-content/uploads/2019/08/tpf3.jpg",
 "url": "https://www.doomovie-hd.com/?r=tv_view&id=153",
 "referer": "https://www.doomovie-hd.com/",
@@ -62,7 +83,14 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "EPL4 สำรอง",
+"name": "EPL4 สำรอง 1",  
+"image": "https://www.i99win.com/wp-content/uploads/2019/08/Capture33.jpg",  
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=epl-4&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EPL4 สำรอง 2",
 "image": "https://www.i99win.com/wp-content/uploads/2019/08/Capture33.jpg",
 "url": "https://www.doomovie-hd.com/?r=tv_view&id=154",
 "referer": "https://www.doomovie-hd.com/",
@@ -76,7 +104,14 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "EPL5 สำรอง",
+"name": "EPL5 สำรอง 1",  
+"image": "https://www.i99win.com/wp-content/uploads/2019/08/Capture44",  
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=epl-5&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "EPL5 สำรอง 2",
 "image": "https://www.i99win.com/wp-content/uploads/2019/08/Capture44.jpg",
 "url": "https://www.doomovie-hd.com/?r=tv_view&id=155",
 "referer": "https://www.doomovie-hd.com/",
