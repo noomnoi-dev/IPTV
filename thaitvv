@@ -8,7 +8,7 @@
 
 
 {
-"name": "30 November 2020",  
+"name": "6 December 2020",  
 "image": "https://seo-web.aun-thai.co.th/wp-content/uploads/2018/01/update-1672353_960_720-e1516173341277.png",  
 "url": "http://110.170.117.27:1935/tv5hd1/vdo/playlist.m3u8",
 "playInNatPlayer": "true"
@@ -284,8 +284,6 @@
 
 
 
-
-
 {
 "name": "Voice TV",
 "image": "https://upload.wikimedia.org/wikipedia/commons/4/4d/VoiceTV.png",
@@ -293,6 +291,38 @@
 "referer": "https://www.mvtv.co.th/",
 "playInNatPlayer": "true"
 },
+{
+"name": "Voice TV",
+"image": "https://sv1.picz.in.th/images/2020/09/21/OOChj9.jpg",             
+"url": "https://player.twitch.tv/?channel=voicetv&parent=www.voicetv.co.th&parent=voicetv.co.th",
+"referer": "https://voicetv.co.th/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null exoplayer_video"
+},
+{
+"name": "ฟ้าวันใหม่", 
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/bluesky.png",              
+"url": "https://5f0a709b4c40f.streamlock.net/blueskychannel/blueskychannel/chunklist_w1819939365.m3u8",
+"referer": "https://www.blueskychannel.tv/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
+},
+{
+"name": "NEWS 1",
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/NEWS1.png",              
+"url": "https://server1.streamssl.com/stream/news1_hi.m3u8",
+"referer": "https://news1live.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
+},
+{
+"name": "News1",
+"image": "https://sv1.picz.in.th/images/2020/10/17/b7ZjOl.png",              
+"url": "http://news1.live14.com/stream/news1_hi.m3u8",
+"referer": "http://news1.live14.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
+},
+
+
+
+
 {
 "name": "MVTV FIVE",
 "image": "https://www.mvtv.co.th/wp-content/uploads/2020/02/MVTV-FIVE.png",
@@ -370,6 +400,9 @@ playInNatPlayer": "true"
 "referer": "https://www.mvtv.co.th/",
 "playInNatPlayer": "true"
 },
+
+
+
 
 
 
